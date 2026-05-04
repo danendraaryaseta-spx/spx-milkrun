@@ -1,0 +1,1954 @@
+origin_station,dest_station,route_type,duration_final
+Maros DC,Pitumpanua Hub,SOC - LM,8:00:00
+Sunter DC,Cilegon Hub,SOC - LM,3:20:00
+Ketapang Kalbar DC,Ketapang Kalbar Hub,SOC - LM,0:37:00
+Malang DC,Tumpang Hub,SOC - LM,0:51:00
+Semarang DC,Ngaliyan 3 Hub,SOC - LM,1:00:00
+Rungkut DC,Karangpilang Hub,SOC - LM,0:45:00
+Virtual Rungkut DC,Sampang Hub,SOC - LM,3:06:00
+Virtual Cirebon DC,Indramayu Hub,SOC - LM,1:15:00
+Virtual Rungkut DC,Tanah Merah Bangkalan Hub,SOC - LM,2:29:00
+Bandung Kopo DC,Caringin Garut Hub,SOC - LM,8:30:00
+Kudus DC,Jakenan Hub,SOC - LM,1:48:00
+Maros DC,Makassar 2 Hub,SOC - LM,1:30:00
+Pontianak DC,Semitau Hub,SOC - LM,14:39:00
+Banyumas DC,Dukuhturi Hub,SOC - LM,2:00:00
+Makassar DC,Binamu Hub,SOC - LM,4:10:00
+Banjarmasin 2 DC,Mantewe Hub,SOC - LM,8:32:00
+Virtual Cirebon DC,Panguragan Hub,SOC - LM,0:50:00
+Cinambo DC,Leles Hub,SOC - LM,1:30:00
+Lampung DC,Way Kanan Hub,SOC - LM,5:19:00
+Medan DC,Pegajahan Hub,SOC - LM,1:40:00
+Cakung DC,Medan Satria Hub,SOC - LM,1:09:00
+Cinambo DC,Bungbulang Hub,SOC - LM,4:45:00
+Pekanbaru DC,Bangko Rokan Hilir 2 Hub,SOC - LM,5:50:00
+Jailolo DC,Wasile Timur Hub,SOC - LM,5:00:00
+Pekanbaru DC,Rokan IV Koto Hub,SOC - LM,5:21:00
+Depok DC,Sukaraja 3 Hub,SOC - LM,0:40:00
+Berbah DC,Piyungan Hub,SOC - LM,0:26:00
+Cakung DC,Cakung 12 Hub,SOC - LM,0:50:00
+Malang DC,Lawang Hub,SOC - LM,0:55:00
+Cinambo DC,Solokan Jeruk Hub,SOC - LM,1:10:00
+Depok DC,Sukaraja Hub,SOC - LM,0:33:00
+Banjarmasin 2 DC,Muara Teweh Hub,SOC - LM,14:03:00
+Mataram DC,Sikur Hub,SOC - LM,1:30:00
+Maros DC,Mattiro Bulu Hub,SOC - LM,6:30:00
+Berbah DC,Mantrijeron Hub,SOC - LM,0:30:00
+Tanjung Redeb DC,Tanjung Redeb Hub,SOC - LM,0:36:00
+Cakung DC,Cakung 2 Hub,SOC - LM,1:00:00
+Bandung Kopo DC,Dayeuhkolot Hub,SOC - LM,0:32:00
+Rungkut DC,Banyu Anyar Hub,SOC - LM,3:50:00
+Sidoarjo 2 DC,Manyar Hub,SOC - LM,1:29:00
+Balikpapan DC,Muara Muntai Hub,SOC - LM,8:51:00
+Cakung DC,Cilandak Hub,SOC - LM,2:08:00
+Jambi DC,Tanjung Jabung Timur Hub,SOC - LM,3:00:00
+Cakung DC,Penjaringan 3 Hub,SOC - LM,2:15:00
+Denpasar DC,Kuta Selatan 5 Hub,SOC - LM,1:30:00
+Ngawi 2 DC,Parang Hub,SOC - LM,1:35:00
+Depok DC,Tapos 2 Hub,SOC - LM,0:38:00
+Banyumas 2 DC,Kalibagor Hub,SOC - LM,0:30:00
+Cakung DC,Jagakarsa Hub,SOC - LM,1:45:00
+Berbah DC,Moyudan Hub,SOC - LM,1:15:00
+Aceh DC,Permata Hub,SOC - LM,9:03:00
+Depok DC,Cibinong Bogor 7 Hub,SOC - LM,1:00:00
+Cakung 5 DC,Bekasi Barat Hub,SOC - LM,0:36:00
+Mataram DC,Mataram Hub,SOC - LM,0:30:00
+Malang DC,Sukorejo Hub,SOC - LM,1:20:00
+Jambi DC,Mendahara Ulu Hub,SOC - LM,2:40:00
+Lampung DC,Purbolinggo Hub,SOC - LM,4:15:00
+Bandung Kopo DC,Cimahi Tengah 2 Hub,SOC - LM,0:45:00
+Cakung DC,Koja 6 Hub,SOC - LM,1:05:00
+Sunter DC,Panongan 3 Hub,SOC - LM,2:40:00
+Percut Sei Tuan DC,Cinta Damai Hub,SOC - LM,1:05:00
+Denpasar DC,Selat Bali Hub,SOC - LM,1:30:00
+Palembang DC,Alang Alang Lebar Hub,SOC - LM,0:38:00
+Makassar DC,Mamajang Hub,SOC - LM,0:51:00
+Pekanbaru DC,Rumbai 2 Hub,SOC - LM,0:15:00
+Berbah DC,Ngaglik Hub,SOC - LM,1:12:00
+Virtual Rungkut DC,Pragaan Hub,SOC - LM,4:35:00
+Banyumas DC,Patikraja Hub,SOC - LM,0:43:00
+Makassar DC,Panakkukang Hub,SOC - LM,1:00:00
+Cakung DC,Bantargebang Hub,SOC - LM,1:50:00
+Cakung DC,Sukakarya Hub,SOC - LM,1:55:00
+Kawalu DC,Ciamis Hub,SOC - LM,0:50:00
+Tegal DC,Kersana Hub,SOC - LM,1:30:00
+Semarang DC,Banyumanik Hub,SOC - LM,1:46:00
+Banyumas DC,Purwokerto Hub,SOC - LM,0:25:00
+Cinambo DC,Pangatikan Hub,SOC - LM,2:15:00
+Sunter DC,Gunung Kaler Hub,SOC - LM,2:50:00
+Tegal DC,Bodeh Hub,SOC - LM,2:30:00
+Depok DC,Bogor Selatan 4 Hub,SOC - LM,1:15:00
+Cakung DC,Cikarang Selatan Hub,SOC - LM,1:49:00
+Maros DC,Maritengngae Hub,SOC - LM,5:50:00
+Medan DC,Siantar Selatan Hub,SOC - LM,3:45:00
+Bengkulu DC,Teramang Jaya Hub,SOC - LM,6:54:00
+Semarang DC,Pringapus Hub,SOC - LM,2:30:00
+Cinambo DC,Sumedang Hub,SOC - LM,1:20:00
+Sunter DC,Kramatwatu Hub,SOC - LM,3:08:00
+Cakung 5 DC,Gunung Kencana Hub,SOC - LM,3:45:00
+Medan DC,Datuk Bandar Hub,SOC - LM,4:52:00
+Malang DC,Pasuruan Hub,SOC - LM,2:21:00
+Sunter DC,Cipeucang Hub,SOC - LM,4:43:00
+Cinambo DC,Antapani Hub,SOC - LM,0:40:00
+Berbah DC,Umbulharjo Hub,SOC - LM,0:45:00
+Medan DC,Sei Balai Hub,SOC - LM,3:20:00
+Cakung 5 DC,Bayah Hub,SOC - LM,5:00:00
+Sunter DC,Gambir 3 Hub,SOC - LM,1:19:00
+Kawalu DC,Rancah Hub,SOC - LM,2:23:00
+Wua-Wua DC,Poasia Hub,SOC - LM,0:45:00
+Kediri DC,Sumbergempol Hub,SOC - LM,1:20:00
+Sunter DC,Sukatani 2 Hub,SOC - LM,3:39:00
+Virtual Cirebon DC,Kuningan Hub,SOC - LM,1:45:00
+Lubuk Linggau DC,Muara Kelingi Hub,SOC - LM,2:09:00
+Palembang DC,Seberang Ulu I Hub,SOC - LM,1:05:00
+Pontianak 2 DC,Pontianak Utara Hub,SOC - LM,1:00:00
+Cakung 5 DC,Kebon Jeruk 3 Hub,SOC - LM,1:03:00
+Medan DC,Patumbak Hub,SOC - LM,0:40:00
+Mataram DC,Praya Tengah Hub,SOC - LM,1:30:00
+Sunter DC,Periuk Hub,SOC - LM,2:31:00
+Tapos DC,Ciputat Timur Hub,SOC - LM,1:17:00
+Benowo DC,Baureno Hub,SOC - LM,2:51:00
+Depok DC,Caringin Hub,SOC - LM,1:13:00
+Talang Kelapa DC,Sembawa Hub,SOC - LM,2:00:00
+Depok DC,Gunung Putri Hub,SOC - LM,0:47:00
+Virtual Rungkut DC,Karang Penang Hub,SOC - LM,5:11:00
+Jember DC,Sumbersari Hub,SOC - LM,0:20:00
+Prabumulih DC,Prabumulih Hub,SOC - LM,0:53:00
+Tanjung Pandan DC,Tanjung Pandan Hub,SOC - LM,0:30:00
+Lampung 2 DC,Enggal Hub,SOC - LM,1:22:00
+Wolio DC,Batauga Hub,SOC - LM,1:03:00
+Ngawi 2 DC,Gesi Hub,SOC - LM,1:53:00
+Tegal DC,Tanjung Brebes Hub,SOC - LM,1:17:00
+Palangka Raya DC,Pahandut Hub,SOC - LM,0:42:00
+Denpasar DC,Nusapenida Hub,SOC - LM,20:40:00
+Sungai Kakap DC,Selakau Timur Hub,SOC - LM,7:03:00
+Cakung DC,Cilincing 3 Hub,SOC - LM,1:30:00
+Cakung DC,Pondokgede Hub,SOC - LM,1:35:00
+Simboro Dan Kepulauan DC,Banggae Timur Hub,SOC - LM,4:05:00
+Cakung 5 DC,Kembangan 4 Hub,SOC - LM,1:10:00
+Jember DC,Arjasa Hub,SOC - LM,1:10:00
+Virtual Cirebon DC,Astanajapura Hub,SOC - LM,1:15:00
+Purbalingga DC,Belik Hub,SOC - LM,1:00:00
+Pekanbaru 2 DC,Batang Gansal Hub,SOC - LM,9:40:00
+Lampung DC,Tanjung Senang Hub,SOC - LM,0:46:00
+Benowo DC,Kedungpring Hub,SOC - LM,1:55:00
+Banyumas 2 DC,Cilacap Utara 2 Hub,SOC - LM,2:00:00
+Virtual Rungkut DC,Gapura Hub,SOC - LM,5:35:00
+Pekalongan 2 DC,Pekalongan Barat 2 Hub,SOC - LM,0:35:00
+Cakung DC,Tambun Utara Hub,SOC - LM,1:25:00
+Sidoarjo 2 DC,Gempol Hub,SOC - LM,1:18:00
+Sunter DC,Jatiluhur Hub,SOC - LM,3:30:00
+Rungkut DC,Sedati Hub,SOC - LM,0:43:00
+Semarang DC,Semarang Utara Hub,SOC - LM,1:45:00
+Tasikmalaya DC,Tawang Hub,SOC - LM,0:36:00
+Malang DC,Wagir Hub,SOC - LM,1:02:00
+Kalawat DC,Lolak Hub,SOC - LM,6:16:00
+Jember DC,Giri Hub,SOC - LM,3:45:00
+Cakung DC,Kebayoran Baru Hub,SOC - LM,2:09:00
+Sunter DC,Jatiuwung 2 Hub,SOC - LM,1:56:00
+Virtual Cirebon DC,Palimanan Hub,SOC - LM,0:40:00
+Pontianak 2 DC,Simpang Hulu Hub,SOC - LM,7:18:00
+Malang DC,Lowokwaru 2 Hub,SOC - LM,0:55:00
+Lampung 2 DC,Rajabasa Hub,SOC - LM,1:06:00
+Prabumulih DC,Kikim Timur Hub,SOC - LM,4:51:00
+Cirebon 2 DC,Cikijing Hub,SOC - LM,2:00:00
+Jember DC,Srono Hub,SOC - LM,3:10:00
+Ngawi DC,Wonoasri Hub,SOC - LM,0:45:00
+Cakung DC,Pesanggrahan Hub,SOC - LM,2:00:00
+Mantikulore DC,Pagimana Hub,SOC - LM,12:30:00
+Denpasar DC,Denpasar Timur Hub,SOC - LM,0:40:00
+Padang DC,Bayang Hub,SOC - LM,2:30:00
+Pontianak DC,Bonti Hub,SOC - LM,5:30:00
+Cakung DC,Jatinegara Jakarta Timur 2 Hub,SOC - LM,1:10:00
+Alak DC,Kota Lama Hub,SOC - LM,0:40:00
+Kudus DC,Kalinyamatan Hub,SOC - LM,1:00:00
+Benowo DC,Sukodadi Hub,SOC - LM,1:35:00
+Semarang DC,Salatiga Hub,SOC - LM,2:15:00
+Medan DC,Medan Denai Hub,SOC - LM,0:58:00
+Depok DC,Pancoran Mas Hub,SOC - LM,1:17:00
+Maros DC,Tanete Rilau Hub,SOC - LM,2:30:00
+Kudus DC,Pati Hub,SOC - LM,1:10:00
+Banjarmasin DC,Banjarmasin Timur Hub,SOC - LM,1:15:00
+Jambi 2 DC,Jambi Luar Kota Hub,SOC - LM,1:14:00
+Kalawat DC,Wanea Hub,SOC - LM,1:31:00
+Pangkal Pinang DC,Namang Hub,SOC - LM,1:15:00
+Maros DC,Lalabata Hub,SOC - LM,5:30:00
+Pangkal Pinang DC,Tempilang Hub,SOC - LM,2:15:00
+Depok DC,Cilodong Hub,SOC - LM,0:22:00
+Medan DC,Panai Hulu Hub,SOC - LM,10:32:00
+Malang DC,Tutur Hub,SOC - LM,2:01:00
+Cakung 5 DC,Pamulang 2 Hub,SOC - LM,1:32:00
+Ngawi DC,Madiun Hub,SOC - LM,1:10:00
+Lampung DC,Enggal Hub,SOC - LM,1:06:00
+Mataram 2 DC,Taliwang Hub,SOC - LM,9:00:00
+Cakung DC,Cabangbungin Hub,SOC - LM,2:25:00
+Solo DC,Solo 2 Hub,SOC - LM,0:45:00
+Bandung Kopo DC,Coblong Hub,SOC - LM,0:55:00
+Sungai Kakap DC,Singkawang Tengah Hub,SOC - LM,5:00:00
+Cinambo DC,Astana Anyar Hub,SOC - LM,0:55:00
+Balikpapan DC,Sambutan Hub,SOC - LM,5:30:00
+Tapos DC,Pamulang 2 Hub,SOC - LM,1:20:00
+Bandung Kopo DC,Babakan Ciparay 3 Hub,SOC - LM,0:26:00
+Tasikmalaya DC,Cikatomas Hub,SOC - LM,2:10:00
+Sunter DC,Cikande Hub,SOC - LM,3:00:00
+Percut Sei Tuan DC,Peureulak Hub,SOC - LM,7:05:00
+Tegal DC,Bumijawa Hub,SOC - LM,1:47:00
+Rungkut DC,Tosari Hub,SOC - LM,3:21:00
+Purbalingga DC,Wonosobo 4 Hub,SOC - LM,3:00:00
+Solo DC,Laweyan Kota Surakarta Hub,SOC - LM,0:45:00
+Maros DC,Ponrang Hub,SOC - LM,10:00:00
+Cirebon 2 DC,Harjamukti Hub,SOC - LM,0:18:00
+Sunter DC,Gambir 6 Hub,SOC - LM,1:05:00
+Banyumas DC,Kalibagor Hub,SOC - LM,0:25:00
+Bandung Kopo DC,Lembang Hub,SOC - LM,2:00:00
+Cakung 5 DC,Serang Hub,SOC - LM,3:00:00
+Semarang DC,Ungaran Hub,SOC - LM,2:15:00
+Virtual Cirebon DC,Cidahu Hub,SOC - LM,1:52:00
+Bengkulu DC,Kaur Selatan Hub,SOC - LM,6:05:00
+Tegal DC,Petarukan Hub,SOC - LM,1:42:00
+Jember DC,Kunir Hub,SOC - LM,2:43:00
+Padang DC,Gunung Talang Hub,SOC - LM,5:20:00
+Virtual Rungkut DC,Arosbaya Hub,SOC - LM,2:28:00
+Talang Kelapa DC,Sungai Keruh Hub,SOC - LM,5:45:00
+Depok DC,Bogor Barat 2 Hub,SOC - LM,1:00:00
+Maros DC,Bacukiki Barat Hub,SOC - LM,5:00:00
+Tegal DC,Bantarbolang Hub,SOC - LM,1:45:00
+Mataram DC,Narmada Hub,SOC - LM,0:45:00
+Solo DC,Simo Hub,SOC - LM,0:50:00
+Medan DC,Rantau Utara Hub,SOC - LM,7:57:00
+Rungkut DC,Gedangan Hub,SOC - LM,0:54:00
+Sunter DC,Plered Hub,SOC - LM,3:40:00
+Sunter DC,Jalancagak Hub,SOC - LM,5:00:00
+Padang DC,Pariaman Hub,SOC - LM,2:11:00
+Purbalingga DC,Kejajar Hub,SOC - LM,3:30:00
+Sunter DC,Mauk Hub,SOC - LM,2:40:00
+Depok DC,Tajurhalang Hub,SOC - LM,0:59:00
+Alak DC,Soe Hub,SOC - LM,3:35:00
+Cakung DC,Cilandak 2 Hub,SOC - LM,1:50:00
+Tapos DC,Parakan Salak Hub,SOC - LM,2:20:00
+Banjarbaru DC,Murung Pudak Hub,SOC - LM,6:04:00
+Depok DC,Bogor Utara 2 Hub,SOC - LM,0:50:00
+Mantikulore DC,Bahodopi Hub,SOC - LM,16:00:00
+Lampung DC,Gedung Meneng Hub,SOC - LM,6:00:00
+Depok DC,Ciampea 2 Hub,SOC - LM,1:11:00
+Kudus DC,Kragan Hub,SOC - LM,3:01:00
+Denpasar DC,Denpasar Hub,SOC - LM,1:15:00
+Bandung Kopo DC,Cihampelas Hub,SOC - LM,1:24:00
+Jambi 2 DC,Danau Sipin Hub,SOC - LM,0:34:00
+Banyumas DC,Bantarsari Hub,SOC - LM,2:30:00
+Virtual Rungkut DC,Jrengik Hub,SOC - LM,3:01:00
+Tapos DC,Cikembar Hub,SOC - LM,2:35:00
+Solo DC,Tengaran Hub,SOC - LM,1:10:00
+Maros DC,Tanete Riattang Hub,SOC - LM,6:30:00
+Cakung DC,Cengkareng 3 Hub,SOC - LM,1:45:00
+Makassar DC,Sinjai Utara Hub,SOC - LM,7:00:00
+Cakung DC,Penjaringan 11 Hub,SOC - LM,1:45:00
+Percut Sei Tuan DC,Medan Helvetia Hub,SOC - LM,1:06:00
+Cinambo DC,Tomo Hub,SOC - LM,2:00:00
+Cakung DC,Kebon Jeruk 5 Hub,SOC - LM,1:35:00
+Ngawi DC,Tanjunganom Hub,SOC - LM,2:15:00
+Virtual Cirebon DC,Jatiwangi Hub,SOC - LM,0:50:00
+Virtual Cirebon DC,Majalengka Hub,SOC - LM,1:19:00
+Cakung DC,Kramatjati 2 Hub,SOC - LM,1:10:00
+Cakung DC,Ciracas Hub,SOC - LM,1:25:00
+Jember DC,Banyuwangi Hub,SOC - LM,3:25:00
+Cakung DC,Mustika Jaya 2 Hub,SOC - LM,1:30:00
+Dungingi DC,Kota Selatan Hub,SOC - LM,0:16:00
+Cakung DC,Mustika Jaya Hub,SOC - LM,1:45:00
+Banjarmasin 2 DC,Kelumpang Selatan Hub,SOC - LM,7:33:00
+Depok DC,Bogor Tengah Hub,SOC - LM,1:00:00
+Sunter DC,Taman Sari 6 Hub,SOC - LM,1:20:00
+Benowo DC,Babat Hub,SOC - LM,2:09:00
+Kediri DC,Pare Hub,SOC - LM,0:46:00
+Ngawi 2 DC,Tanon Hub,SOC - LM,2:31:00
+Semarang DC,Boja Hub,SOC - LM,2:00:00
+Sunter DC,Jambe Hub,SOC - LM,2:50:00
+Bandung Kopo DC,Pacet Hub,SOC - LM,3:30:00
+Semarang DC,Pedurungan Hub,SOC - LM,2:15:00
+Badung DC,Kediri Tabanan Hub,SOC - LM,0:45:00
+Prabumulih DC,Lembak Hub,SOC - LM,1:03:00
+Pontianak DC,Toho Hub,SOC - LM,3:45:00
+Pekalongan 2 DC,Wiradesa 2 Hub,SOC - LM,1:00:00
+Virtual Cirebon DC,Trisi Terisi Hub,SOC - LM,1:35:00
+Jember DC,Asembagus Hub,SOC - LM,3:45:00
+Cakung DC,Cengkareng 8 Hub,SOC - LM,2:05:00
+Cakung DC,Jatisampurna Hub,SOC - LM,1:35:00
+Sunter DC,Balaraja 6 Hub,SOC - LM,2:46:00
+Cakung DC,Tanjung Priok 5 Hub,SOC - LM,1:05:00
+Lampung 2 DC,Tanjung Senang Hub,SOC - LM,1:18:00
+Cakung DC,Kramatjati Hub,SOC - LM,1:35:00
+Bengkulu DC,Muara Bangkahulu Hub,SOC - LM,1:07:00
+Aceh DC,Ulee Kareng 3 Hub,SOC - LM,1:19:00
+Benowo DC,Kerek Hub,SOC - LM,4:23:00
+Kebumen DC,Petanahan Hub,SOC - LM,0:35:00
+Cakung 5 DC,Pesanggrahan 2 Hub,SOC - LM,1:05:00
+Banyumas DC,Cilacap Utara Hub,SOC - LM,2:05:00
+Lampung DC,Abung Selatan Hub,SOC - LM,3:30:00
+Padang DC,Akabiluru Hub,SOC - LM,6:50:00
+Padang DC,Nanggalo Hub,SOC - LM,0:45:00
+Padang DC,Sungai Limau Hub,SOC - LM,2:20:00
+Berbah DC,Bantul Hub,SOC - LM,1:30:00
+Ngawi 2 DC,Widodaren Hub,SOC - LM,1:15:00
+Mataram DC,Gerung Hub,SOC - LM,0:25:00
+Semarang DC,Sayung Hub,SOC - LM,2:31:00
+Tapos DC,Setu Kota Tangerang Selatan 3 Hub,SOC - LM,1:32:00
+Sunter DC,Pinang 4 Hub,SOC - LM,1:50:00
+Percut Sei Tuan DC,Julok Hub,SOC - LM,6:30:00
+Lampung DC,Terbanggi Besar 2 Hub,SOC - LM,2:54:00
+Cinambo DC,Tarogong Hub,SOC - LM,2:00:00
+Lampung DC,Bengkunat Hub,SOC - LM,6:38:00
+Depok DC,Sawangan Kota Depok Hub,SOC - LM,1:15:00
+Banjarbaru DC,Daha Selatan Hub,SOC - LM,4:30:00
+Lampung DC,Jati Agung Hub,SOC - LM,1:10:00
+Simboro Dan Kepulauan DC,Simboro Dan Kepulauan Hub,SOC - LM,0:40:00
+Cinambo DC,Selaawi Hub,SOC - LM,2:10:00
+Cakung DC,Cengkareng 36 Hub,SOC - LM,1:25:00
+Sunter DC,Pamanukan Hub,SOC - LM,4:40:00
+Cakung 5 DC,Cibinong Bogor 7 Hub,SOC - LM,1:32:00
+Berbah DC,Manisrenggo Hub,SOC - LM,0:51:00
+Kediri DC,Mojowarno Hub,SOC - LM,2:00:00
+Maros DC,Angkona Hub,SOC - LM,15:00:00
+Jambi DC,Nipah Panjang Hub,SOC - LM,6:23:00
+Cakung DC,Cikarang Selatan 2 Hub,SOC - LM,2:15:00
+Lubuk Linggau DC,Muara Beliti Hub,SOC - LM,1:01:00
+Berbah DC,Grabag Magelang Hub,SOC - LM,2:13:00
+Virtual Cirebon DC,Arjawinangun Hub,SOC - LM,0:15:00
+Jambi DC,Rantau Rasau Hub,SOC - LM,5:00:00
+Sunter DC,Walantaka Hub,SOC - LM,2:59:00
+Jember DC,Purwoharjo Hub,SOC - LM,3:10:00
+Berbah DC,Salam Hub,SOC - LM,1:16:00
+Maros DC,Bantimurung Hub,SOC - LM,1:35:00
+Badung DC,Buleleng Hub,SOC - LM,2:30:00
+Aceh DC,Jaya Baru Hub,SOC - LM,0:48:00
+Palembang DC,Sako Hub,SOC - LM,0:19:00
+Cakung 5 DC,Tambun Selatan 3 Hub,SOC - LM,1:00:00
+Medan DC,Medan Selayang Hub,SOC - LM,1:03:00
+Malang DC,Sukun Hub,SOC - LM,0:50:00
+Sunter DC,Pinang Hub,SOC - LM,1:50:00
+Aceh DC,Tapak Tuan Hub,SOC - LM,10:09:00
+Cakung DC,Pancoran 2 Hub,SOC - LM,1:35:00
+Cakung 5 DC,Senen Hub,SOC - LM,1:26:00
+Medan DC,Kutalimbaru Hub,SOC - LM,1:57:00
+Bandung Kopo DC,Cipongkor Hub,SOC - LM,2:00:00
+Lampung DC,Kedamaian Hub,SOC - LM,0:35:00
+Lampung DC,Gedong Tataan Hub,SOC - LM,1:55:00
+Ngawi 2 DC,Barat Hub,SOC - LM,0:31:00
+Tegal DC,Bulakamba Hub,SOC - LM,1:03:00
+Malang DC,Singosari Hub,SOC - LM,1:00:00
+Berbah DC,Wonosari Hub,SOC - LM,1:14:00
+Cakung DC,Tanjung Priok Hub,SOC - LM,1:10:00
+Kediri DC,Karangrejo Hub,SOC - LM,1:01:00
+Cakung 5 DC,Walantaka Hub,SOC - LM,2:35:00
+Prabumulih DC,Muara Dua Hub,SOC - LM,5:07:00
+Purbalingga DC,Mrebet Hub,SOC - LM,1:00:00
+Banjarmasin 2 DC,Banjarbaru Utara Hub,SOC - LM,1:03:00
+Mantikulore DC,Wita Ponda Hub,SOC - LM,12:30:00
+Tegal DC,Comal Hub,SOC - LM,1:45:00
+Cakung 5 DC,Cariu Hub,SOC - LM,2:21:00
+Virtual Rungkut DC,Bangkalan Hub,SOC - LM,1:58:00
+Cakung 5 DC,Mampang Prapatan Hub,SOC - LM,1:27:00
+Balikpapan DC,Balikpapan Hub,SOC - LM,1:00:00
+Pontianak 2 DC,Sungai Tebelian Hub,SOC - LM,9:00:00
+Palangka Raya DC,Seruyan Hilir Hub,SOC - LM,12:07:00
+Dungingi DC,Tibawa Hub,SOC - LM,1:33:00
+Kediri DC,Ngasem 3 Hub,SOC - LM,0:24:00
+Dumai DC,Rambah Samo Hub,SOC - LM,8:02:00
+Banjarbaru DC,Dusun Tengah Hub,SOC - LM,11:00:00
+Cakung DC,Pasar Rebo 2 Hub,SOC - LM,1:45:00
+Malang DC,Lowokwaru Hub,SOC - LM,0:50:00
+Pontianak 2 DC,Teluk Pakedai Hub,SOC - LM,3:45:00
+Makassar DC,Somba Opu 2 Hub,SOC - LM,1:30:00
+Benowo DC,Asemrowo Hub,SOC - LM,0:50:00
+Makassar DC,Polombangkeng Selatan Hub,SOC - LM,2:30:00
+Jambi DC,Pamenang Barat Hub,SOC - LM,7:30:00
+Cakung DC,Cakung 4 Hub,SOC - LM,0:50:00
+Malang DC,Pagak Hub,SOC - LM,2:30:00
+Berbah DC,Jogonalan Hub,SOC - LM,1:00:00
+Tapos DC,Cibadak Hub,SOC - LM,2:39:00
+Sunter DC,Telukjambe Timur Hub,SOC - LM,2:34:00
+Sunter DC,Cihara Hub,SOC - LM,7:20:00
+Mataram DC,Tanjung Lombok Utara Hub,SOC - LM,1:45:00
+Kediri DC,Ngoro Hub,SOC - LM,1:31:00
+Cakung DC,Kalideres 8 Hub,SOC - LM,1:53:00
+Cakung DC,Serang Baru Hub,SOC - LM,2:35:00
+Kawalu DC,Banjarsari Hub,SOC - LM,2:20:00
+Tapos DC,Setu Kota Tangerang Selatan 2 Hub,SOC - LM,1:19:00
+Jember DC,Panarukan Hub,SOC - LM,2:50:00
+Maros DC,Malili Hub,SOC - LM,16:00:00
+Rungkut DC,Kraksaan Hub,SOC - LM,3:50:00
+Mataram 2 DC,Alas Hub,SOC - LM,7:03:00
+Jambi DC,Mersam 2 Hub,SOC - LM,4:30:00
+Jember DC,Jember Hub,SOC - LM,0:25:00
+Ngawi 2 DC,Mantingan Hub,SOC - LM,1:34:00
+Alak DC,Pantai Baru Hub,SOC - LM,5:00:00
+Banjarbaru DC,Tapin Tengah Hub,SOC - LM,3:00:00
+Sidoarjo 2 DC,Jrengik Hub,SOC - LM,3:10:00
+Makassar DC,Tamalate Hub,SOC - LM,1:15:00
+Benowo DC,Sawahan Hub,SOC - LM,0:47:00
+Palembang DC,Ilir Timur I Hub,SOC - LM,0:41:00
+Banjarmasin DC,Banjarmasin Utara Hub,SOC - LM,2:36:00
+Lampung DC,Bumi Nabung Hub,SOC - LM,4:15:00
+Alak DC,Kupang Timur Hub,SOC - LM,2:30:00
+Benowo DC,Karanggeneng Hub,SOC - LM,2:37:00
+Cakung DC,Tambun Selatan 3 Hub,SOC - LM,1:25:00
+Cakung 5 DC,Cibadak Hub,SOC - LM,1:56:00
+Sidoarjo 2 DC,Maduran Hub,SOC - LM,2:15:00
+Pontianak 2 DC,Sungai Raya Hub,SOC - LM,1:00:00
+Tapos DC,Setu Kota Tangerang Selatan 5 Hub,SOC - LM,1:30:00
+Malang DC,Batu Hub,SOC - LM,1:30:00
+Bandung Kopo DC,Ngamprah Hub,SOC - LM,1:00:00
+Ngawi 2 DC,Geneng Hub,SOC - LM,0:30:00
+Cakung 5 DC,Kembangan 5 Hub,SOC - LM,1:23:00
+Cakung DC,Koja Hub,SOC - LM,1:05:00
+Palembang DC,Plaju Hub,SOC - LM,1:13:00
+Cakung DC,Penjaringan 2 Hub,SOC - LM,2:01:00
+Depok DC,Gunung Putri 2 Hub,SOC - LM,0:48:00
+Semarang DC,Mijen Hub,SOC - LM,1:30:00
+Sunter DC,Solear Hub,SOC - LM,3:00:00
+Rungkut DC,Sukolilo Hub,SOC - LM,0:57:00
+Cakung DC,Mampang Prapatan Hub,SOC - LM,1:45:00
+Cakung 5 DC,Setu Kota Tangerang Selatan 5 Hub,SOC - LM,1:45:00
+Sunter DC,Larangan Kota Tangerang 2 Hub,SOC - LM,1:50:00
+Dumai DC,Siak Kecil Hub,SOC - LM,3:40:00
+Semarang DC,Karangawen Hub,SOC - LM,2:45:00
+Dumai DC,Mandau 3 Hub,SOC - LM,1:47:00
+Cinambo DC,Cicalengka Hub,SOC - LM,1:20:00
+Dumai DC,Sinaboi (Senaboi) Hub,SOC - LM,4:00:00
+Palembang DC,Gandus Hub,SOC - LM,1:00:00
+Benowo DC,Tambak Adi Hub,SOC - LM,0:55:00
+Medan DC,Lubuk Pakam Hub,SOC - LM,1:20:00
+Virtual Cirebon DC,Harjamukti Hub,SOC - LM,1:00:00
+Palembang DC,Ilir Barat I Hub,SOC - LM,0:49:00
+Rungkut DC,Taman 2 Hub,SOC - LM,0:48:00
+Sunter DC,Tigaraksa 4 Hub,SOC - LM,2:30:00
+Jember DC,Tanggul Hub,SOC - LM,1:15:00
+Cakung DC,Jatiasih 4 Hub,SOC - LM,1:15:00
+Banyumas DC,Ajibarang Hub,SOC - LM,1:19:00
+Depok DC,Sukmajaya 4 Hub,SOC - LM,0:23:00
+Solo DC,Banjarsari Solo Hub,SOC - LM,0:53:00
+Berbah DC,Pakem Hub,SOC - LM,1:15:00
+Solo DC,Sukoharjo Hub,SOC - LM,1:17:00
+Aceh DC,Pintu Rime Gayo Hub,SOC - LM,7:32:00
+Padang DC,Koto Parik Gadang Diateh Hub,SOC - LM,5:19:00
+Banjarbaru DC,Dusun Selatan Hub,SOC - LM,7:30:00
+Padang DC,Danau Kembar Hub,SOC - LM,4:30:00
+Cinambo DC,Ciparay 2 Hub,SOC - LM,2:52:00
+Cakung DC,Kebon Jeruk 6 Hub,SOC - LM,1:35:00
+Kudus DC,Keboromo Hub,SOC - LM,2:30:00
+Berbah DC,Pakis Hub,SOC - LM,2:20:00
+Gunung Sitoli DC,Gunung Sitoli Utara Hub,SOC - LM,0:30:00
+Lubuk Linggau DC,Dempo Tengah Hub,SOC - LM,7:31:00
+Cakung DC,Pondokgede 3 Hub,SOC - LM,1:15:00
+Kudus DC,Jepon Hub,SOC - LM,3:00:00
+Talang Kelapa DC,Teluk Gelam Hub,SOC - LM,2:58:00
+Pekanbaru DC,Tambang Hub,SOC - LM,1:15:00
+Jember DC,Ambulu 2 Hub,SOC - LM,0:50:00
+Banjarmasin DC,Gambut Hub,SOC - LM,0:46:00
+Benowo DC,Pabean Cantikan Hub,SOC - LM,1:05:00
+Cakung 5 DC,Gunung Kaler Hub,SOC - LM,3:11:00
+Tapos DC,Pondok Aren 3 Hub,SOC - LM,1:27:00
+Bandung Kopo DC,Cibeunying Kidul Hub,SOC - LM,1:00:00
+Percut Sei Tuan DC,Sei Binge (Bingai) Hub,SOC - LM,1:44:00
+Alak DC,Manulai II Hub,SOC - LM,0:30:00
+Sunter DC,Batuceper Hub,SOC - LM,1:50:00
+Cirebon 2 DC,Kaliwedi Hub,SOC - LM,1:12:00
+Cinambo DC,Pacet Bandung Hub,SOC - LM,1:50:00
+Palangka Raya DC,Palangka Raya Hub,SOC - LM,1:33:00
+Kebumen DC,Gombong Hub,SOC - LM,1:00:00
+Sunter DC,Cikupa Hub,SOC - LM,2:30:00
+Makassar DC,Kelara Hub,SOC - LM,4:30:00
+Percut Sei Tuan DC,Medan Petisah Hub,SOC - LM,0:45:00
+Pangkal Pinang DC,Pangkal Pinang Hub,SOC - LM,0:30:00
+Malang DC,Pakis Malang Hub,SOC - LM,0:24:00
+Aceh DC,Kuta Alam Hub,SOC - LM,1:05:00
+Pontianak 2 DC,Sintang Hub,SOC - LM,9:23:00
+Malang DC,Kesamben Hub,SOC - LM,2:21:00
+Sunter DC,Bungursari Hub,SOC - LM,3:11:00
+Semarang DC,Tuntang Hub,SOC - LM,2:03:00
+Depok DC,Cileungsi Hub,SOC - LM,1:39:00
+Sunter DC,Pasar Kemis Hub,SOC - LM,2:00:00
+Maros DC,Sukamaju Hub,SOC - LM,13:30:00
+Jember DC,Puger Hub,SOC - LM,1:45:00
+Cakung DC,Cengkareng 4 Hub,SOC - LM,1:45:00
+Cakung DC,Tarumajaya 2 Hub,SOC - LM,1:16:00
+Tapos DC,Serpong Utara 2 Hub,SOC - LM,1:40:00
+Pontianak 2 DC,Tempunak Hub,SOC - LM,7:56:00
+Cinambo DC,Tanjungsari Hub,SOC - LM,1:00:00
+Denpasar DC,Bangli Hub,SOC - LM,1:45:00
+Semarang DC,Pedurungan 5 Hub,SOC - LM,2:15:00
+Benowo DC,Driyorejo 4 Hub,SOC - LM,1:11:00
+Maros DC,Makassar Hub,SOC - LM,0:57:00
+Jambi DC,Mestong Hub,SOC - LM,1:00:00
+Berbah DC,Mertoyudan Hub,SOC - LM,1:47:00
+Pekanbaru DC,Sabak Auh Hub,SOC - LM,5:24:00
+Sidoarjo 2 DC,Balongbendo Hub,SOC - LM,0:36:00
+Cinambo DC,Bandung Timur Hub,SOC - LM,0:35:00
+Sunter DC,Rajeg Hub,SOC - LM,2:50:00
+Tapos DC,Setu Kota Tangerang Selatan Hub,SOC - LM,1:17:00
+Bandung Kopo DC,Cikadu Hub,SOC - LM,5:30:00
+Pangkal Pinang DC,Simpang Katis Hub,SOC - LM,1:15:00
+Dumai DC,Ujung Tanjung Hub,SOC - LM,2:06:00
+Sunter DC,Cempaka Putih Hub,SOC - LM,1:00:00
+Jember DC,Gambiran Hub,SOC - LM,2:50:00
+Banjarmasin DC,Marabahan Hub,SOC - LM,2:42:00
+Padang DC,Kuranji Hub,SOC - LM,1:00:00
+Pekanbaru 2 DC,Tembilahan Hub,SOC - LM,10:07:00
+Sunter DC,Pulomerak Hub,SOC - LM,4:10:00
+Sunter DC,Kosambi 7 Hub,SOC - LM,1:55:00
+Bengkulu DC,Air Periukan Hub,SOC - LM,1:14:00
+Ngawi DC,Jatirogo Hub,SOC - LM,3:28:00
+Purbalingga DC,Kedungmenjangan Hub,SOC - LM,0:30:00
+Mantikulore DC,Ampana Kota Hub,SOC - LM,10:45:00
+Lampung 2 DC,Way Halim Hub,SOC - LM,1:16:00
+Kudus DC,Rembang Hub,SOC - LM,2:30:00
+Palangka Raya DC,Parenggean Hub,SOC - LM,4:30:00
+Lampung DC,Telukbetung Utara Hub,SOC - LM,0:59:00
+Mataram 2 DC,Wawo Hub,SOC - LM,14:00:00
+Pekanbaru DC,Bukit Raya Hub,SOC - LM,0:52:00
+Prabumulih DC,Runjung Agung Hub,SOC - LM,6:04:00
+Bandung Kopo DC,Sawah Gede Hub,SOC - LM,2:45:00
+Depok DC,Bogor Selatan Hub,SOC - LM,1:58:00
+Bandung Kopo DC,Baleendah Hub,SOC - LM,2:01:00
+Cakung DC,Jagakarsa 3 Hub,SOC - LM,1:55:00
+Kawalu DC,Sindangkasih Hub,SOC - LM,0:40:00
+Sunter DC,Karawaci 2 Hub,SOC - LM,1:55:00
+Malang DC,Blitar Hub,SOC - LM,3:20:00
+Benowo DC,Kenjeran 3 Hub,SOC - LM,1:10:00
+Medan DC,Tanah Jawa Hub,SOC - LM,3:23:00
+Cinambo DC,Bandung Hub,SOC - LM,0:30:00
+Malang DC,Karangploso Hub,SOC - LM,1:00:00
+Bandung Kopo DC,Cipeundeuy Kab. Bandung Barat Hub,SOC - LM,1:50:00
+Wua-Wua DC,Wua-Wua Hub,SOC - LM,0:30:00
+Tapos DC,Pabuaran Kab. Sukabumi Hub,SOC - LM,4:02:00
+Depok DC,Bojongsari Depok Hub,SOC - LM,1:02:00
+Kebumen DC,Adimulyo Hub,SOC - LM,0:30:00
+Medan DC,Galang Hub,SOC - LM,2:11:00
+Tasikmalaya DC,Taraju Hub,SOC - LM,1:51:00
+Aceh DC,Johan Pahlawan Hub,SOC - LM,6:04:00
+Banyumas 2 DC,Purwokerto Utara Hub,SOC - LM,0:45:00
+Virtual Cirebon DC,Kertasemaya Hub,SOC - LM,0:30:00
+Purbalingga DC,Watumalang Hub,SOC - LM,3:00:00
+Kediri DC,Tulungagung Hub,SOC - LM,1:10:00
+Kediri DC,Kabuh Hub,SOC - LM,2:30:00
+Pekalongan 2 DC,Kab. Pekalongan Hub,SOC - LM,0:51:00
+Medan DC,Bosar Maligas Hub,SOC - LM,3:38:00
+Jambi DC,Jambi Luar Kota Hub,SOC - LM,1:20:00
+Jember DC,Patrang 2 Hub,SOC - LM,0:50:00
+Cinambo DC,Ciparay Hub,SOC - LM,1:40:00
+Jambi DC,Muara Tembesi Hub,SOC - LM,3:00:00
+Sunter DC,Pakuhaji 5 Hub,SOC - LM,2:10:00
+Mantikulore DC,Parigi Hub,SOC - LM,2:39:00
+Pekanbaru DC,Pekanbaru Hub,SOC - LM,0:47:00
+Makassar DC,Bulukumba Hub,SOC - LM,6:31:00
+Padang DC,Kota Solok Hub,SOC - LM,3:30:00
+Jambi DC,Pelepat Ilir Hub,SOC - LM,9:38:00
+Cinambo DC,Paseh Hub,SOC - LM,1:32:00
+Kebumen DC,Kemiri Hub,SOC - LM,2:00:00
+Berbah DC,Gondokusuman Hub,SOC - LM,1:00:00
+Percut Sei Tuan DC,Percut Sei Tuan 2 Hub,SOC - LM,2:00:00
+Cakung DC,Tarumajaya Hub,SOC - LM,1:15:00
+Cakung DC,Cipayung Jakarta Timur 2 Hub,SOC - LM,1:14:00
+Depok DC,Cileungsi 3 Hub,SOC - LM,1:39:00
+Banjarbaru DC,Banjarbaru Utara 2 Hub,SOC - LM,1:02:00
+Virtual Rungkut DC,Ketapang Sampang Hub,SOC - LM,3:49:00
+Banjarbaru DC,Martapura Kalimantan Hub,SOC - LM,1:03:00
+Bandung Kopo DC,Pasirjambu 2 Hub,SOC - LM,1:30:00
+Jambi DC,Rimbo Bujang Hub,SOC - LM,9:10:00
+Padang DC,Lubuk Begalung 3 Hub,SOC - LM,1:00:00
+Solo DC,Boyolali Hub,SOC - LM,0:40:00
+Rungkut DC,Wonoayu Hub,SOC - LM,1:00:00
+Jambi DC,Batang Merangin Hub,SOC - LM,13:50:00
+Bandung Kopo DC,Cimahi Tengah Hub,SOC - LM,0:50:00
+Benowo DC,Kebomas Hub,SOC - LM,0:43:00
+Wua-Wua DC,Ranomeeto Hub,SOC - LM,0:50:00
+Sunter DC,Curug Tangerang Hub,SOC - LM,1:53:00
+Wua-Wua DC,Wawotobi Hub,SOC - LM,2:30:00
+Jambi 2 DC,Paal Merah Hub,SOC - LM,0:20:00
+Virtual Cirebon DC,Kedawung Hub,SOC - LM,0:50:00
+Solo DC,Karanggede Hub,SOC - LM,1:44:00
+Depok DC,Cimanggis 4 Hub,SOC - LM,0:43:00
+Berbah DC,Sleman Hub,SOC - LM,0:50:00
+Kudus DC,Jepara Hub,SOC - LM,1:34:00
+Cakung DC,Bekasi Barat Hub,SOC - LM,1:15:00
+Kudus DC,Geyer Hub,SOC - LM,2:27:00
+Bandung Kopo DC,Bandung Utara Hub,SOC - LM,0:46:00
+Talang Kelapa DC,Kemuning Hub,SOC - LM,0:30:00
+Sidoarjo 2 DC,Sukorejo Hub,SOC - LM,1:42:00
+Sunter DC,Sindangresmi Hub,SOC - LM,4:41:00
+Sunter DC,Purwakarta Kota Cilegon Hub,SOC - LM,3:25:00
+Cakung 5 DC,Kelapa Gading 3 Hub,SOC - LM,0:31:00
+Berbah DC,Muntilan Hub,SOC - LM,1:30:00
+Cinambo DC,Jatinangor Hub,SOC - LM,0:50:00
+Simboro Dan Kepulauan DC,Wonomulyo Hub,SOC - LM,5:32:00
+Cakung DC,Cikarang Barat Hub,SOC - LM,1:45:00
+Pekalongan 2 DC,Batang Hub,SOC - LM,0:25:00
+Siborong - Borong DC,Angkola Timur Hub,SOC - LM,3:40:00
+Palembang DC,Baturaja Timur Hub,SOC - LM,5:49:00
+Cirebon 2 DC,Panguragan Hub,SOC - LM,1:10:00
+Cakung DC,Cikarang Utara 2 Hub,SOC - LM,1:55:00
+Solo DC,Karangpandan Hub,SOC - LM,1:45:00
+Pekanbaru DC,Bengkalis Hub,SOC - LM,12:00:00
+Cakung 5 DC,Purwakarta Hub,SOC - LM,1:43:00
+Jambi DC,Pemayung 2 Hub,SOC - LM,1:42:00
+Purbalingga DC,Bawang Hub,SOC - LM,1:00:00
+Cakung 5 DC,Balaraja Hub,SOC - LM,2:09:00
+Semarang DC,Semarang Timur Hub,SOC - LM,2:00:00
+Mantikulore DC,Sigi Biromaru Hub,SOC - LM,0:44:00
+Cakung 5 DC,Curug Tangerang Hub,SOC - LM,2:28:00
+Tegal DC,Suradadi Hub,SOC - LM,0:52:00
+Cinambo DC,Garut 2 Hub,SOC - LM,2:15:00
+Pontianak 2 DC,Kelam Permai Hub,SOC - LM,9:04:00
+Kalawat DC,Airmadidi Hub,SOC - LM,0:46:00
+Sunter DC,Kotabaru 2 Hub,SOC - LM,3:10:00
+Benowo DC,Gubeng 3 Hub,SOC - LM,1:15:00
+Kudus DC,Gebog Hub,SOC - LM,0:47:00
+Padang DC,Bukit Tinggi Hub,SOC - LM,6:15:00
+Virtual Cirebon DC,Leuwimunding Hub,SOC - LM,0:45:00
+Lampung DC,Way Halim Hub,SOC - LM,0:40:00
+Cakung DC,Cengkareng 13 Hub,SOC - LM,1:14:00
+Medan DC,Medan Area Hub,SOC - LM,0:49:00
+Dumai DC,Kabun Hub,SOC - LM,4:59:00
+Siborong - Borong DC,Panyabungan Hub,SOC - LM,7:51:00
+Padang DC,Ranah Pesisir Hub,SOC - LM,4:30:00
+Cakung DC,Pulo Gadung 3 Hub,SOC - LM,0:45:00
+Tasikmalaya DC,Singaparna Hub,SOC - LM,0:39:00
+Cakung 5 DC,Cilincing Hub,SOC - LM,0:37:00
+Solo DC,Jebres Hub,SOC - LM,1:00:00
+Berbah DC,Playen Hub,SOC - LM,1:15:00
+Semarang DC,Gajah Mungkur Hub,SOC - LM,1:36:00
+Tegal DC,Tegal Barat Hub,SOC - LM,0:48:00
+Lampung DC,Kalianda Hub,SOC - LM,2:05:00
+Cakung DC,Pulogadung Hub,SOC - LM,0:50:00
+Banyumas DC,Sumpiuh Hub,SOC - LM,1:30:00
+Sunter DC,Gunung Kencana 2 Hub,SOC - LM,5:43:00
+Berbah DC,Banguntapan Hub,SOC - LM,0:24:00
+Maros DC,Turikale Hub,SOC - LM,0:48:00
+Lampung DC,Bangunrejo Hub,SOC - LM,2:50:00
+Purbalingga DC,Purbalingga Hub,SOC - LM,0:15:00
+Tapos DC,Lengkong Hub,SOC - LM,4:47:00
+Cakung DC,Serang Baru 2 Hub,SOC - LM,3:15:00
+Ngawi DC,Taman Madiun Hub,SOC - LM,1:30:00
+Tasikmalaya DC,Manonjaya Hub,SOC - LM,0:57:00
+Cakung DC,Tebet 2 Hub,SOC - LM,1:45:00
+Mantikulore DC,Palu Hub,SOC - LM,1:00:00
+Sunter DC,Pondok Salam Hub,SOC - LM,3:41:00
+Talang Kelapa DC,Air Kumbang Hub,SOC - LM,3:25:00
+Banyumas 2 DC,Purwokerto Hub,SOC - LM,0:30:00
+Sidoarjo 2 DC,Kedungpring Hub,SOC - LM,2:34:00
+Bandung Kopo DC,Cianjur Hub,SOC - LM,2:35:00
+Rungkut DC,Bantaran Hub,SOC - LM,3:01:00
+Kampung Melayu DC,Kepahiang Hub,SOC - LM,2:15:00
+Cinambo DC,Pakenjeng Hub,SOC - LM,4:00:00
+Kawalu DC,Kota Banjar Hub,SOC - LM,1:45:00
+Kudus DC,Blora Hub,SOC - LM,3:09:00
+Banjarbaru DC,Amuntai Tengah Hub,SOC - LM,5:00:00
+Balikpapan DC,Samarinda Ilir Hub,SOC - LM,5:30:00
+Malang DC,Malang Hub,SOC - LM,0:40:00
+Pontianak DC,Sengah Temila 3 Hub,SOC - LM,5:00:00
+Malang DC,Kedungkandang Hub,SOC - LM,0:55:00
+Rungkut DC,Gunung Anyar Hub,SOC - LM,0:35:00
+Rungkut DC,Sumberasih Hub,SOC - LM,3:15:00
+Cakung 5 DC,Penjaringan 3 Hub,SOC - LM,1:07:00
+Sunter DC,Rangkasbitung Hub,SOC - LM,3:48:00
+Cakung 5 DC,Cikarang Utara 2 Hub,SOC - LM,1:10:00
+Malang DC,Pakisaji Hub,SOC - LM,1:02:00
+Berbah DC,Klaten Hub,SOC - LM,1:45:00
+Talang Kelapa DC,Babat Toman Hub,SOC - LM,5:46:00
+Tegal DC,Jatinegara Kab. Tegal Hub,SOC - LM,1:31:00
+Dumai DC,Mandau 2 Hub,SOC - LM,1:42:00
+Abepura DC,Abepura 2 Hub,SOC - LM,0:45:00
+Tanjung Pandan DC,Gantung Hub,SOC - LM,1:30:00
+Sunter DC,Ciledug Kota Tangerang 2 Hub,SOC - LM,1:50:00
+Solo DC,Wonosari 2 Hub,SOC - LM,0:44:00
+Sunter DC,Pinang 3 Hub,SOC - LM,2:20:00
+Cakung 5 DC,Ciawi Bogor Hub,SOC - LM,1:48:00
+Bengkulu DC,Singaran Pati Hub,SOC - LM,0:40:00
+Sungai Kakap DC,Pontianak Barat Hub,SOC - LM,0:37:00
+Banjarmasin DC,Bajuin Hub,SOC - LM,1:48:00
+Talang Kelapa DC,Sirah Pulau Padang Hub,SOC - LM,3:00:00
+Berbah DC,Kasihan Hub,SOC - LM,0:48:00
+Tegal DC,Tegal Hub,SOC - LM,0:45:00
+Badung DC,Tabanan Hub,SOC - LM,0:35:00
+Ketapang Kalbar DC,Jelai Hulu Hub,SOC - LM,6:04:00
+Padang DC,Lubuk Alung Hub,SOC - LM,1:45:00
+Cakung DC,Penjaringan 12 Hub,SOC - LM,1:45:00
+Ngawi 2 DC,Sragen Hub,SOC - LM,2:30:00
+Ngawi 2 DC,Jogorogo Hub,SOC - LM,0:54:00
+Virtual Rungkut DC,Banyuates Hub,SOC - LM,3:06:00
+Lampung DC,Menggala Hub,SOC - LM,4:00:00
+Banyumas 2 DC,Banyumas Hub,SOC - LM,1:15:00
+Ngawi DC,Pangkur Hub,SOC - LM,0:26:00
+Aceh DC,Jaya Hub,SOC - LM,2:24:00
+Kediri DC,Bendungan Hub,SOC - LM,3:00:00
+Palembang DC,Banyuasin II Hub,SOC - LM,3:43:00
+Tanjung Redeb DC,Malinau Kota 2 Hub,SOC - LM,9:07:00
+Makassar DC,Manggala Hub,SOC - LM,1:00:00
+Semarang DC,Ngampel Hub,SOC - LM,1:12:00
+Pontianak 2 DC,Melawi Hub,SOC - LM,11:06:00
+Mataram 2 DC,Bolo Hub,SOC - LM,14:12:00
+Sunter DC,Anyar Hub,SOC - LM,3:30:00
+Berbah DC,Borobudur Hub,SOC - LM,1:45:00
+Solo DC,Baki Hub,SOC - LM,0:35:00
+Kebumen DC,Rowokele Hub,SOC - LM,0:54:00
+Jambi 2 DC,Kota Baru Hub,SOC - LM,0:30:00
+Palangka Raya DC,Timpah Hub,SOC - LM,3:40:00
+Semarang DC,Semarang Tengah Hub,SOC - LM,1:30:00
+Cakung DC,Cakung 14 Hub,SOC - LM,0:36:00
+Tapos DC,Cireunghas Hub,SOC - LM,3:20:00
+Pekalongan 2 DC,Sragi Hub,SOC - LM,1:00:00
+Tasikmalaya DC,Leuwisari Hub,SOC - LM,0:45:00
+Cakung DC,Cipayung Jakarta Timur Hub,SOC - LM,1:25:00
+Cinambo DC,Cibatu Hub,SOC - LM,1:55:00
+Rungkut DC,Jetis Hub,SOC - LM,1:47:00
+Lampung DC,Pagelaran Lampung Hub,SOC - LM,2:36:00
+Mataram 2 DC,Labuhan Badas Hub,SOC - LM,7:00:00
+Cinambo DC,Rancasari Hub,SOC - LM,0:35:00
+Sunter DC,Patokbeusi Hub,SOC - LM,4:25:00
+Dumai DC,Bangko Rokan Hilir Hub,SOC - LM,3:22:00
+Banyumas 2 DC,Purwokerto Timur Hub,SOC - LM,0:35:00
+Makassar DC,Pattallassang Kab. Gowa Hub,SOC - LM,3:45:00
+Sunter DC,Lemahabang Karawang Hub,SOC - LM,3:20:00
+Rungkut DC,Sidoarjo 2 Hub,SOC - LM,1:06:00
+Padang DC,Pasaman Hub,SOC - LM,4:50:00
+Jember DC,Kencong Hub,SOC - LM,2:01:00
+Percut Sei Tuan DC,Binjai Barat 2 Hub,SOC - LM,1:39:00
+Bengkulu DC,Putri Hijau 2 Hub,SOC - LM,5:06:00
+Lampung DC,Bumi Waras Hub,SOC - LM,1:15:00
+Kawalu DC,Pangandaran Hub,SOC - LM,3:30:00
+Lampung DC,Rajabasa Hub,SOC - LM,1:11:00
+Medan DC,Medan Amplas Hub,SOC - LM,0:25:00
+Padang DC,Punjung Hub,SOC - LM,7:30:00
+Cakung DC,Duren Sawit 2 Hub,SOC - LM,0:48:00
+Ngawi 2 DC,Sawoo Hub,SOC - LM,2:33:00
+Maros DC,Rantepao Hub,SOC - LM,11:30:00
+Simboro Dan Kepulauan DC,Kalukku Hub,SOC - LM,1:50:00
+Rungkut DC,Balongbendo Hub,SOC - LM,1:02:00
+Medan DC,Lawe Sigala-Gala Hub,SOC - LM,7:12:00
+Depok DC,Bojong Gede Hub,SOC - LM,0:49:00
+Mataram DC,Lombok Timur Hub,SOC - LM,2:10:00
+Cakung 5 DC,Bogor Selatan 2 Hub,SOC - LM,1:31:00
+Dungingi DC,Tabongo Hub,SOC - LM,0:47:00
+Simboro Dan Kepulauan DC,Malunda Hub,SOC - LM,2:03:00
+Bandung Kopo DC,Cibabat Hub,SOC - LM,1:25:00
+Virtual Cirebon DC,Plumbon Hub,SOC - LM,0:45:00
+Cirebon 2 DC,Lemahabang Cirebon Hub,SOC - LM,0:50:00
+Cakung 5 DC,Cipeucang Hub,SOC - LM,3:04:00
+Sunter DC,Warunggunung Hub,SOC - LM,4:10:00
+Sunter DC,Subang Hub,SOC - LM,4:25:00
+Dungingi DC,Tilamuta Hub,SOC - LM,3:06:00
+Berbah DC,Pracimantoro Hub,SOC - LM,2:00:00
+Medan DC,Raya Hub,SOC - LM,4:00:00
+Simboro Dan Kepulauan DC,Sarudu Hub,SOC - LM,6:27:00
+Dumai DC,Bangko Pusaka (Pusako) Hub,SOC - LM,3:56:00
+Pekalongan 2 DC,Karanganyar Pekalongan Hub,SOC - LM,1:08:00
+Malang DC,Kanigoro Hub,SOC - LM,3:30:00
+Bandung Kopo DC,Cisarua Kab. Bandung Barat Hub,SOC - LM,1:30:00
+Siborong - Borong DC,Barumun Hub,SOC - LM,7:00:00
+Sunter DC,Pagedangan 2 Hub,SOC - LM,2:00:00
+Bandung Kopo DC,Kadupandak Hub,SOC - LM,5:34:00
+Medan DC,Merek Hub,SOC - LM,4:48:00
+Pontianak 2 DC,Pontianak Hub,SOC - LM,1:00:00
+Bengkulu DC,Talo Hub,SOC - LM,3:00:00
+Mantikulore DC,Baolan Hub,SOC - LM,13:30:00
+Depok DC,Limo Hub,SOC - LM,1:01:00
+Tapos DC,Sukaraja Sukabumi Hub,SOC - LM,3:20:00
+Virtual Cirebon DC,Sumber Hub,SOC - LM,0:58:00
+Rungkut DC,Wonocolo Hub,SOC - LM,0:40:00
+Sunter DC,Karawaci Hub,SOC - LM,1:30:00
+Sunter DC,Cipeundeuy Hub,SOC - LM,4:09:00
+Maros DC,Pangkajene Hub,SOC - LM,1:30:00
+Sunter DC,Karawang Timur Hub,SOC - LM,2:36:00
+Bandung Kopo DC,Cimahi Hub,SOC - LM,0:40:00
+Balikpapan DC,Penajam Hub,SOC - LM,5:19:00
+Sunter DC,Tigaraksa 2 Hub,SOC - LM,2:45:00
+Tapos DC,Ciputat 4 Hub,SOC - LM,1:15:00
+Purbalingga DC,Kepil Hub,SOC - LM,3:00:00
+Cakung DC,Cilincing 2 Hub,SOC - LM,1:15:00
+Wua-Wua DC,Moramo Hub,SOC - LM,1:30:00
+Banyumas DC,Paguyangan Hub,SOC - LM,1:30:00
+Sunter DC,Pangkalan Hub,SOC - LM,3:43:00
+Sungai Kakap DC,Sambas Hub,SOC - LM,7:33:00
+Sunter DC,Kibin Hub,SOC - LM,3:00:00
+Semarang DC,Pedurungan 8 Hub,SOC - LM,2:15:00
+Sunter DC,Cipocok Jaya Hub,SOC - LM,2:58:00
+Depok DC,Cibinong Bogor Hub,SOC - LM,0:29:00
+Kudus DC,Margoyoso Hub,SOC - LM,1:45:00
+Cakung DC,Setiabudi 2 Hub,SOC - LM,1:35:00
+Maros DC,Tomoni Hub,SOC - LM,16:30:00
+Cakung DC,Pancoran 3 Hub,SOC - LM,1:15:00
+Mataram DC,Praya Barat Hub,SOC - LM,1:00:00
+Ngawi 2 DC,Geger Hub,SOC - LM,1:40:00
+Sunter DC,Kelapa Dua 2 Hub,SOC - LM,2:00:00
+Cakung DC,Cikarang Selatan 4 Hub,SOC - LM,2:03:00
+Semarang DC,Pedurungan 4 Hub,SOC - LM,1:30:00
+Medan DC,Buntu Pane Hub,SOC - LM,4:35:00
+Balikpapan DC,Palaran Hub,SOC - LM,2:50:00
+Bandung Kopo DC,Cibinong Cianjur 2 Hub,SOC - LM,6:21:00
+Kudus DC,Mayong Hub,SOC - LM,0:54:00
+Malang DC,Gondanglegi Hub,SOC - LM,1:48:00
+Lampung DC,Tanjung Karang Barat Hub,SOC - LM,0:58:00
+Cakung 5 DC,Jatinegara Jakarta Timur 2 Hub,SOC - LM,0:45:00
+Cirebon 2 DC,Trisi Terisi Hub,SOC - LM,2:13:00
+Pekanbaru DC,Gunung Toar Hub,SOC - LM,5:33:00
+Benowo DC,Lakarsantri Hub,SOC - LM,1:00:00
+Tapos DC,Jampang Kulon Hub,SOC - LM,6:00:00
+Lampung DC,Natar 3 Hub,SOC - LM,1:45:00
+Pangkal Pinang DC,Jebus Hub,SOC - LM,3:20:00
+Cakung DC,Kalideres 5 Hub,SOC - LM,1:50:00
+Balikpapan DC,Sangatta Hub,SOC - LM,9:00:00
+Tapos DC,Parung Kuda Hub,SOC - LM,2:20:00
+Virtual Cirebon DC,Anjatan Hub,SOC - LM,2:00:00
+Depok DC,Jonggol Hub,SOC - LM,1:45:00
+Pangkal Pinang DC,Gerunggang Hub,SOC - LM,0:19:00
+Palembang DC,Kertapati Hub,SOC - LM,0:55:00
+Cinambo DC,Dayeuhkolot 2 Hub,SOC - LM,1:10:00
+Maros DC,Soreang Parepare Hub,SOC - LM,5:00:00
+Pekanbaru DC,Pangkalan Kerinci Hub,SOC - LM,3:00:00
+Badung DC,Payangan Hub,SOC - LM,1:00:00
+Sunter DC,Tanah Abang 3 Hub,SOC - LM,1:30:00
+Gunung Sitoli DC,Lahusa Hub,SOC - LM,2:45:00
+Palangka Raya DC,Khayan Hilir Hub,SOC - LM,2:22:00
+Percut Sei Tuan DC,Tenggulun Hub,SOC - LM,4:50:00
+Purbalingga DC,Sukoharjo Wonosobo Hub,SOC - LM,2:02:00
+Pekalongan 2 DC,Talun Hub,SOC - LM,1:30:00
+Balikpapan DC,Kembang Janggut Hub,SOC - LM,7:24:00
+Banjarbaru DC,Tapin Utara Hub,SOC - LM,3:35:00
+Lampung DC,Way Jepara Hub,SOC - LM,2:32:00
+Banyumas DC,Kroya Hub,SOC - LM,1:15:00
+Cakung DC,Tambun Selatan 2 Hub,SOC - LM,2:05:00
+Tapos DC,Cicurug Hub,SOC - LM,2:10:00
+Percut Sei Tuan DC,Medan Marelan Hub,SOC - LM,1:36:00
+Maros DC,Palakka Hub,SOC - LM,6:00:00
+Tapos DC,Surade Hub,SOC - LM,5:30:00
+Tapos DC,Sagaranten Hub,SOC - LM,5:09:00
+Kudus DC,Gabus Hub,SOC - LM,1:17:00
+Sunter DC,Panimbang Hub,SOC - LM,4:58:00
+Pangkal Pinang DC,Toboali Hub,SOC - LM,3:20:00
+Banyumas DC,Kedung Banteng Hub,SOC - LM,0:30:00
+Cinambo DC,Tanjungkerta Hub,SOC - LM,2:00:00
+Pekanbaru DC,Merbau Hub,SOC - LM,15:00:00
+Depok DC,Cariu Hub,SOC - LM,2:41:00
+Solo DC,Jatipuro Hub,SOC - LM,2:00:00
+Sunter DC,Benda 3 Hub,SOC - LM,2:20:00
+Pekalongan 2 DC,Kota Pekalongan Hub,SOC - LM,0:37:00
+Tapos DC,Gunungpuyuh Hub,SOC - LM,3:35:00
+Padang DC,Sijunjung Hub,SOC - LM,5:30:00
+Dumai DC,Bukit Kapur Hub,SOC - LM,0:30:00
+Pekalongan 2 DC,Bojong Hub,SOC - LM,1:15:00
+Balikpapan DC,Bengalon Hub,SOC - LM,13:37:00
+Jember DC,Candipuro Hub,SOC - LM,3:11:00
+Sunter DC,Kasemen Hub,SOC - LM,3:22:00
+Depok DC,Jasinga Hub,SOC - LM,5:10:00
+Cakung DC,Tanah Abang 7 Hub,SOC - LM,1:15:00
+Mantikulore DC,Toili 2 Hub,SOC - LM,19:00:00
+Sunter DC,Kalijati Hub,SOC - LM,3:40:00
+Malang DC,Kejayan Hub,SOC - LM,2:51:00
+Pekanbaru 2 DC,Keritang 2 Hub,SOC - LM,8:50:00
+Cakung 5 DC,Penjaringan 6 Hub,SOC - LM,1:54:00
+Purbalingga DC,Kejobong Hub,SOC - LM,0:50:00
+Gunung Sitoli DC,Gido Hub,SOC - LM,1:30:00
+Virtual Cirebon DC,Kandanghaur Hub,SOC - LM,1:30:00
+Tegal DC,Slawi Hub,SOC - LM,1:30:00
+Pontianak DC,Landak Hub,SOC - LM,6:00:00
+Padang DC,Banuhampu Hub,SOC - LM,6:30:00
+Sunter DC,Kopo Hub,SOC - LM,3:00:00
+Sidoarjo 2 DC,Tumpang Hub,SOC - LM,2:46:00
+Benowo DC,Sidotopo Wetan Hub,SOC - LM,1:05:00
+Tapos DC,Kab. Sukabumi Hub,SOC - LM,3:04:00
+Cinambo DC,Kiaracondong Hub,SOC - LM,0:30:00
+Ketapang Kalbar DC,Kendawangan Hub,SOC - LM,4:02:00
+Cakung DC,Taman Sari Jakarta Barat 3 Hub,SOC - LM,1:24:00
+Pontianak 2 DC,Belimbing Hub,SOC - LM,9:04:00
+Tegal DC,Dukuhturi 2 Hub,SOC - LM,0:35:00
+Cakung DC,Kelapa Gading 3 Hub,SOC - LM,0:45:00
+Semarang DC,Kaliwungu Hub,SOC - LM,0:37:00
+Sunter DC,Cipondoh 3 Hub,SOC - LM,2:20:00
+Purbalingga DC,Bojongsari Hub,SOC - LM,0:25:00
+Padang DC,Lembah Melintang Hub,SOC - LM,6:30:00
+Sunter DC,Carenang Hub,SOC - LM,3:40:00
+Palembang DC,Sukarami Hub,SOC - LM,0:15:00
+Virtual Cirebon DC,Majalengka 3 Hub,SOC - LM,1:20:00
+Sunter DC,Cimarga Hub,SOC - LM,3:43:00
+Tasikmalaya DC,Kawalu Hub,SOC - LM,0:35:00
+Cakung DC,Cakung 3 Hub,SOC - LM,0:33:00
+Merauke DC,Mandobo Hub,SOC - LM,11:00:00
+Banyumas 2 DC,Paguyangan Hub,SOC - LM,1:30:00
+Jambi DC,Bajubang Hub,SOC - LM,2:30:00
+Cakung DC,Bekasi Timur 2 Hub,SOC - LM,1:25:00
+Virtual Rungkut DC,Sumenep Hub,SOC - LM,5:30:00
+Benowo DC,Kembangbahu Hub,SOC - LM,1:55:00
+Bandung Kopo DC,Margaasih Hub,SOC - LM,0:40:00
+Virtual Cirebon DC,Jatitujuh Hub,SOC - LM,1:10:00
+Benowo DC,Sukomanunggal Hub,SOC - LM,0:55:00
+Cakung 5 DC,Medan Satria Hub,SOC - LM,0:36:00
+Ngawi 2 DC,Babadan Hub,SOC - LM,1:49:00
+Pekanbaru DC,Tapung Hilir Hub,SOC - LM,2:00:00
+Tapos DC,Pelabuhan Ratu Hub,SOC - LM,3:40:00
+Tegal DC,Taman Pemalang Hub,SOC - LM,1:19:00
+Cakung DC,Jagakarsa 4 Hub,SOC - LM,1:44:00
+Sunter DC,Pakuhaji Hub,SOC - LM,2:45:00
+Sungai Kakap DC,Bengkayang Hub,SOC - LM,5:00:00
+Siborong - Borong DC,Pangururan Hub,SOC - LM,3:30:00
+Cakung DC,Cibitung Bekasi Hub,SOC - LM,1:40:00
+Sunter DC,Batujaya Hub,SOC - LM,3:15:00
+Virtual Rungkut DC,Sokobanah Hub,SOC - LM,3:45:00
+Bandung Kopo DC,Sukajadi Hub,SOC - LM,0:55:00
+Semarang DC,Tembalang Hub,SOC - LM,2:15:00
+Ketapang Kalbar DC,Matan Hilir Utara Hub,SOC - LM,1:28:00
+Malang DC,Gempol 2 Hub,SOC - LM,1:53:00
+Balikpapan DC,Tenggarong Seberang Hub,SOC - LM,4:30:00
+Lampung DC,Ulubelu Hub,SOC - LM,4:30:00
+Lubuk Linggau DC,Batukuning Lakitan Ulu Hub,SOC - LM,2:31:00
+Virtual Rungkut DC,Pasean Hub,SOC - LM,4:01:00
+Cakung DC,Tanjung Priok 2 Hub,SOC - LM,1:25:00
+Cakung 5 DC,Neglasari Hub,SOC - LM,1:33:00
+Cakung DC,Pademangan 6 Hub,SOC - LM,1:45:00
+Wua-Wua DC,Tirawuta Hub,SOC - LM,2:53:00
+Kudus DC,Megawon Hub,SOC - LM,0:22:00
+Cakung 5 DC,Pasar Kemis Hub,SOC - LM,2:39:00
+Tapos DC,Cikidang Hub,SOC - LM,2:30:00
+Kalawat DC,Tuminting Hub,SOC - LM,0:37:00
+Cakung DC,Kebon Jeruk 3 Hub,SOC - LM,1:45:00
+Mantikulore DC,Ampibabo Hub,SOC - LM,4:30:00
+Dumai DC,Bangko Pusaka (Pusako) 2 Hub,SOC - LM,2:31:00
+Tasikmalaya DC,Indihiang Hub,SOC - LM,0:22:00
+Cakung DC,Kemayoran 3 Hub,SOC - LM,1:15:00
+Solo DC,Purwantoro Hub,SOC - LM,2:41:00
+Malang DC,Ponggok Hub,SOC - LM,3:40:00
+Depok DC,Ciawi Bogor Hub,SOC - LM,1:06:00
+Balikpapan DC,Sungai Kunjang Hub,SOC - LM,3:01:00
+Cinambo DC,Cisurupan Hub,SOC - LM,3:00:00
+Denpasar DC,Gianyar Hub,SOC - LM,0:45:00
+Depok DC,Cimanggis 2 Hub,SOC - LM,0:38:00
+Benowo DC,Plumpang Hub,SOC - LM,2:46:00
+Cakung 5 DC,Ciputat Timur Hub,SOC - LM,1:14:00
+Cakung 5 DC,Tarumajaya 2 Hub,SOC - LM,0:46:00
+Makassar DC,Wajo Hub,SOC - LM,1:00:00
+Sunter DC,Bayah Hub,SOC - LM,6:21:00
+Ngawi DC,Wungu Hub,SOC - LM,1:30:00
+Virtual Cirebon DC,Lemahabang Cirebon Hub,SOC - LM,1:45:00
+Berbah DC,Pandeyan Hub,SOC - LM,0:35:00
+Depok DC,Ciomas Hub,SOC - LM,1:08:00
+Dumai DC,Dumai Timur Hub,SOC - LM,0:47:00
+Kediri DC,Grogol Hub,SOC - LM,1:00:00
+Kebumen DC,Prembun Hub,SOC - LM,1:00:00
+Rungkut DC,Sidoarjo Hub,SOC - LM,1:29:00
+Banjarmasin 2 DC,Banjarbaru Hub,SOC - LM,0:54:00
+Balikpapan DC,Loa Janan Hub,SOC - LM,2:45:00
+Cakung DC,Bekasi Selatan Hub,SOC - LM,1:30:00
+Tanjung Pinang DC,Teluk Sebong Hub,SOC - LM,1:00:00
+Cakung 5 DC,Setiabudi Hub,SOC - LM,0:56:00
+Medan DC,Dolok Masihul Hub,SOC - LM,2:20:00
+Ngawi 2 DC,Kedunggalar Hub,SOC - LM,0:50:00
+Aceh DC,Mutiara Timur Hub,SOC - LM,3:30:00
+Sunter DC,Telukjambe Barat Hub,SOC - LM,2:40:00
+Jember DC,Besuki Hub,SOC - LM,2:55:00
+Semarang DC,Gunungpati Hub,SOC - LM,2:00:00
+Tegal DC,Talang Hub,SOC - LM,1:34:00
+Kediri DC,Kediri Hub,SOC - LM,0:25:00
+Tasikmalaya DC,Rajapolah Hub,SOC - LM,0:35:00
+Badung DC,Denpasar Utara Hub,SOC - LM,1:20:00
+Semarang DC,Guntur 3 Hub,SOC - LM,2:45:00
+Bandung Kopo DC,Cipatat Hub,SOC - LM,1:30:00
+Banyumas DC,Purwokerto Barat Hub,SOC - LM,0:51:00
+Mataram DC,Lembar Hub,SOC - LM,0:40:00
+Sidoarjo 2 DC,Sidayu Hub,SOC - LM,2:07:00
+Makassar DC,Sungguminasa Hub,SOC - LM,2:00:00
+Purbalingga DC,Kaligondang Hub,SOC - LM,0:30:00
+Depok DC,Parung Hub,SOC - LM,1:14:00
+Sunter DC,Cikampek 2 Hub,SOC - LM,2:47:00
+Sunter DC,Pagaden Hub,SOC - LM,3:40:00
+Sunter DC,Cempaka Putih 2 Hub,SOC - LM,0:51:00
+Cakung DC,Setu Bekasi Hub,SOC - LM,1:55:00
+Dumai DC,Tambusai 2 Hub,SOC - LM,7:04:00
+Tasikmalaya DC,Ciawi Tasik Hub,SOC - LM,0:50:00
+Banyumas 2 DC,Pejagoan Hub,SOC - LM,2:30:00
+Bandung Kopo DC,Pangalengan Hub,SOC - LM,2:15:00
+Banyumas 2 DC,Bawang Hub,SOC - LM,1:35:00
+Padang DC,Lubuk Begalung Hub,SOC - LM,0:30:00
+Kudus DC,Tawangharjo Hub,SOC - LM,1:52:00
+Jambi DC,Sumay Hub,SOC - LM,7:39:00
+Virtual Cirebon DC,Ciledug Kulon Hub,SOC - LM,1:55:00
+Medan DC,Medang Deras Hub,SOC - LM,2:40:00
+Semarang DC,Dempet Hub,SOC - LM,3:15:00
+Ketapang Kalbar DC,Sandai Hub,SOC - LM,6:00:00
+Rungkut DC,Mojoanyar Hub,SOC - LM,1:25:00
+Siborong - Borong DC,Pandan Hub,SOC - LM,7:00:00
+Cakung DC,Pesanggrahan 2 Hub,SOC - LM,1:45:00
+Balikpapan DC,Kota Bangun Hub,SOC - LM,5:00:00
+Purbalingga DC,Wanayasa Hub,SOC - LM,2:45:00
+Badung DC,Sukasada Hub,SOC - LM,2:30:00
+Cakung DC,Pesanggrahan 3 Hub,SOC - LM,1:57:00
+Pekanbaru DC,Bunut Hub,SOC - LM,4:51:00
+Mataram DC,Ampenan Hub,SOC - LM,0:45:00
+Benowo DC,Gresik Hub,SOC - LM,0:55:00
+Depok DC,Ciseeng Hub,SOC - LM,1:27:00
+Depok DC,Beji Kota Depok Hub,SOC - LM,0:38:00
+Malang DC,Kepanjen Hub,SOC - LM,1:30:00
+Maros DC,Enrekang Hub,SOC - LM,7:00:00
+Cakung DC,Cengkareng 6 Hub,SOC - LM,1:28:00
+Cakung DC,Cibitung 4 Hub,SOC - LM,1:50:00
+Cinambo DC,Cileunyi Hub,SOC - LM,0:55:00
+Balikpapan DC,Barong Tongkok 2 Hub,SOC - LM,14:10:00
+Tapos DC,Nyalindung Hub,SOC - LM,3:45:00
+Cakung 5 DC,Pondok Kelapa Hub,SOC - LM,0:38:00
+Purbalingga DC,Banjarnegara Hub,SOC - LM,1:30:00
+Palangka Raya DC,Kurun Hub,SOC - LM,5:31:00
+Cakung DC,Cakung 5 Hub,SOC - LM,1:10:00
+Sunter DC,Cilamaya Wetan Hub,SOC - LM,3:41:00
+Cakung 5 DC,Pondokgede Hub,SOC - LM,0:45:00
+Kudus DC,Bangsri Hub,SOC - LM,2:00:00
+Talang Kelapa DC,Talang Ubi Hub,SOC - LM,4:12:00
+Ketapang Kalbar DC,Matan Hilir Selatan 3 Hub,SOC - LM,1:00:00
+Kudus DC,Juwana Hub,SOC - LM,1:30:00
+Rungkut DC,Gempol Hub,SOC - LM,1:11:00
+Banyumas DC,Banyumas Hub,SOC - LM,1:11:00
+Aceh DC,Banda Sakti Hub,SOC - LM,9:12:00
+Siborong - Borong DC,Gunung Meriah Hub,SOC - LM,7:09:00
+Kawalu DC,Ciamis 2 Hub,SOC - LM,0:50:00
+Banjarbaru DC,Sungai Pandan 2 Hub,SOC - LM,5:05:00
+Cakung DC,Jatiasih 2 Hub,SOC - LM,1:36:00
+Banjarbaru DC,Muara Uya Hub,SOC - LM,7:28:00
+Sungai Kakap DC,Teluk Keramat 2 Hub,SOC - LM,9:00:00
+Sidoarjo 2 DC,Sedati Hub,SOC - LM,0:51:00
+Benowo DC,Panceng Hub,SOC - LM,1:50:00
+Sunter DC,Taktakan Hub,SOC - LM,3:57:00
+Banyumas DC,Baturaden Hub,SOC - LM,0:35:00
+Padang DC,Lubuk Basung Hub,SOC - LM,3:28:00
+Rungkut DC,Paiton Hub,SOC - LM,4:36:00
+Cinambo DC,Sumedang Selatan Hub,SOC - LM,1:10:00
+Ngawi DC,Gondang 2 Hub,SOC - LM,2:00:00
+Bandung Kopo DC,Bojongloa Kidul Hub,SOC - LM,0:25:00
+Kudus DC,Kembang Jepara Hub,SOC - LM,2:30:00
+Wua-Wua DC,Kadia 2 Hub,SOC - LM,0:48:00
+Bandung Kopo DC,Andir Hub,SOC - LM,0:40:00
+Kalawat DC,Tomohon Hub,SOC - LM,1:54:00
+Lampung DC,Katibung Hub,SOC - LM,2:20:00
+Jember DC,Muncar Hub,SOC - LM,3:25:00
+Mataram DC,Jonggat Hub,SOC - LM,1:00:00
+Jember DC,Pakusari Hub,SOC - LM,0:45:00
+Bandung Kopo DC,Sukaresmi Kab. Cianjur Hub,SOC - LM,3:45:00
+Benowo DC,Temayang 2 Hub,SOC - LM,3:10:00
+Semarang DC,Cepiring Hub,SOC - LM,1:10:00
+Depok DC,Tanah Sareal 2 Hub,SOC - LM,0:59:00
+Bandung Kopo DC,Balonggede Hub,SOC - LM,0:36:00
+Solo DC,Mojolaban Hub,SOC - LM,1:00:00
+Sidoarjo 2 DC,Sumberrejo Hub,SOC - LM,3:00:00
+Palembang DC,Seberang Ulu II Hub,SOC - LM,0:55:00
+Banyumas DC,Purwokerto Timur Hub,SOC - LM,0:35:00
+Cakung DC,Kebon Jeruk 10 Hub,SOC - LM,1:35:00
+Rungkut DC,Krembung Hub,SOC - LM,1:26:00
+Banjarmasin 2 DC,Kelumpang Barat Hub,SOC - LM,9:45:00
+Cakung DC,Babelan 4 Hub,SOC - LM,1:55:00
+Makassar DC,Bontomarannu Hub,SOC - LM,1:40:00
+Bandung Kopo DC,Banjaran Hub,SOC - LM,1:20:00
+Lampung DC,Gunung Terang 2 Hub,SOC - LM,5:00:00
+Cakung 5 DC,Serang Baru Hub,SOC - LM,1:23:00
+Sunter DC,Cipondoh 4 Hub,SOC - LM,2:10:00
+Siborong - Borong DC,Simpangkiri Hub,SOC - LM,8:11:00
+Cakung DC,Matraman 2 Hub,SOC - LM,1:15:00
+Siborong - Borong DC,Ulu Barumun Hub,SOC - LM,9:20:00
+Lampung DC,Abung Barat Hub,SOC - LM,3:35:00
+Kebumen DC,Karangsambung Hub,SOC - LM,1:00:00
+Lampung 2 DC,Kedamaian Hub,SOC - LM,1:20:00
+Sunter DC,Kelapa Dua 3 Hub,SOC - LM,2:07:00
+Virtual Rungkut DC,Proppo Hub,SOC - LM,4:55:00
+Aceh DC,Sukajaya Hub,SOC - LM,7:03:00
+Banjarmasin DC,Banjarmasin Barat Hub,SOC - LM,1:01:00
+Tapos DC,Pondok Aren Hub,SOC - LM,2:00:00
+Jambi DC,Tanah Sepenggal Lintas Hub,SOC - LM,9:30:00
+Kudus DC,Tahunan Hub,SOC - LM,1:47:00
+Denpasar DC,Kuta Hub,SOC - LM,1:00:00
+Virtual Cirebon DC,Nusaherang Hub,SOC - LM,2:30:00
+Medan DC,Dolok Merawan Hub,SOC - LM,3:10:00
+Cakung DC,Cibitung 3 Hub,SOC - LM,2:02:00
+Sunter DC,Pandeglang Hub,SOC - LM,3:43:00
+Kebumen DC,Kutoarjo Hub,SOC - LM,1:20:00
+Alak DC,Kelapa Lima Hub,SOC - LM,0:30:00
+Semarang 4 DC,Semarang Hub,SOC - LM,1:30:00
+Padang DC,Batang Kapas Hub,SOC - LM,3:45:00
+Jember DC,Pesanggaran Hub,SOC - LM,3:40:00
+Balikpapan DC,Bontang Selatan Hub,SOC - LM,7:54:00
+Cakung DC,Tambora 4 Hub,SOC - LM,1:35:00
+Jember DC,Bangorejo Hub,SOC - LM,3:10:00
+Pekanbaru DC,Minas Hub,SOC - LM,1:10:00
+Benowo DC,Sidayu Hub,SOC - LM,1:45:00
+Pekanbaru DC,Logas Tanah Darat Hub,SOC - LM,6:30:00
+Sunter DC,Rengasdengklok Hub,SOC - LM,2:45:00
+Benowo DC,Manyar Hub,SOC - LM,0:55:00
+Cakung DC,Cengkareng 11 Hub,SOC - LM,1:29:00
+Cakung DC,Kedung Waringin Hub,SOC - LM,1:55:00
+Kudus DC,Kayen Hub,SOC - LM,1:00:00
+Kediri DC,Kauman Hub,SOC - LM,1:25:00
+Aceh DC,Muara Batu Hub,SOC - LM,7:00:00
+Jember DC,Sukowono Hub,SOC - LM,1:27:00
+Cirebon 2 DC,Kandanghaur Hub,SOC - LM,2:00:00
+Depok DC,Klapanunggal 2 Hub,SOC - LM,1:01:00
+Pekanbaru 2 DC,Kerumutan Hub,SOC - LM,4:37:00
+Ketapang Kalbar DC,Air Upas Hub,SOC - LM,7:20:00
+Palangka Raya DC,Baamang 2 Hub,SOC - LM,9:27:00
+Virtual Rungkut DC,Konang Hub,SOC - LM,3:00:00
+Balikpapan DC,Balikpapan Kota Hub,SOC - LM,1:09:00
+Kudus DC,Gubug Hub,SOC - LM,1:31:00
+Mataram 2 DC,Sumbawa Hub,SOC - LM,9:15:00
+Malang DC,Sumberpucung Hub,SOC - LM,1:40:00
+Talang Kelapa DC,Kayu Agung Hub,SOC - LM,2:32:00
+Cakung 5 DC,Cileungsi 3 Hub,SOC - LM,1:28:00
+Tapos DC,Ciputat Hub,SOC - LM,1:15:00
+Banjarmasin DC,Anjir Muara Hub,SOC - LM,1:31:00
+Tegal DC,Ulujami Hub,SOC - LM,1:47:00
+Tegal DC,Songgom Hub,SOC - LM,1:15:00
+Cakung DC,Pasar Minggu Hub,SOC - LM,1:30:00
+Jember DC,Ranuyoso Hub,SOC - LM,2:41:00
+Bandung Kopo DC,Bandung Barat Hub,SOC - LM,1:02:00
+Ngawi DC,Loceret Hub,SOC - LM,1:50:00
+Padang DC,Sangir Hub,SOC - LM,7:00:00
+Cakung 5 DC,Sukaraja Hub,SOC - LM,1:21:00
+Padang DC,Lubuk Sikaping Hub,SOC - LM,8:30:00
+Bandung Kopo DC,Arjasari Hub,SOC - LM,1:15:00
+Balikpapan DC,Balikpapan Timur 2 Hub,SOC - LM,0:43:00
+Ngawi DC,Taman Madiun 2 Hub,SOC - LM,1:20:00
+Cakung DC,Penjaringan 14 Hub,SOC - LM,1:30:00
+Virtual Cirebon DC,Subang Kab. Kuningan Hub,SOC - LM,3:36:00
+Tapos DC,Pamulang 3 Hub,SOC - LM,1:20:00
+Benowo DC,Soko Hub,SOC - LM,3:15:00
+Banyumas 2 DC,Purwokerto Barat Hub,SOC - LM,0:30:00
+Baguala DC,Sirimau 2 Hub,SOC - LM,0:40:00
+Cakung DC,Tanjung Priok 4 Hub,SOC - LM,1:25:00
+Cakung 5 DC,Kebon Jeruk 6 Hub,SOC - LM,1:27:00
+Malang DC,Lesanpuro Hub,SOC - LM,0:45:00
+Medan DC,Namorambe Hub,SOC - LM,1:22:00
+Medan DC,Bandar Masilam Hub,SOC - LM,3:10:00
+Mataram DC,Batukliang Hub,SOC - LM,1:06:00
+Depok DC,Cibungbulang Hub,SOC - LM,2:00:00
+Mataram DC,Labuapi Hub,SOC - LM,0:30:00
+Pontianak 2 DC,Pontianak Timur Hub,SOC - LM,0:32:00
+Depok DC,Parung Panjang Hub,SOC - LM,1:30:00
+Sunter DC,Purwakarta Hub,SOC - LM,3:30:00
+Siborong - Borong DC,Natal Hub,SOC - LM,11:38:00
+Medan DC,Medan Maimun Hub,SOC - LM,0:56:00
+Berbah DC,Sentolo Hub,SOC - LM,1:50:00
+Cakung 5 DC,Penjaringan 4 Hub,SOC - LM,1:13:00
+Padang DC,Sipora Utara Hub,SOC - LM,24:00:00
+Denpasar DC,Banjarangkan Hub,SOC - LM,1:00:00
+Purbalingga DC,Kalikajar Hub,SOC - LM,2:45:00
+Tegal DC,Wanasari Hub,SOC - LM,0:55:00
+Cirebon 2 DC,Panjalu Hub,SOC - LM,2:40:00
+Maros DC,Pammana Hub,SOC - LM,6:01:00
+Kediri DC,Kandat Hub,SOC - LM,0:45:00
+Banjarbaru DC,Kelua Hub,SOC - LM,6:00:00
+Virtual Cirebon DC,Majalengka 2 Hub,SOC - LM,1:20:00
+Cakung DC,Kembangan 4 Hub,SOC - LM,2:01:00
+Pangkal Pinang DC,Mendo Barat 2 Hub,SOC - LM,0:33:00
+Batam DC,Bengkong Hub,SOC - LM,0:30:00
+Cinambo DC,Samarang Hub,SOC - LM,2:20:00
+Bandung Kopo DC,Pacet Kab. Cianjur 2 Hub,SOC - LM,3:05:00
+Palembang DC,Makarti Jaya Hub,SOC - LM,5:00:00
+Jember DC,Lumajang Hub,SOC - LM,2:40:00
+Kudus DC,Kunduran Hub,SOC - LM,3:07:00
+Sunter DC,Klari Hub,SOC - LM,3:32:00
+Sunter DC,Jatisari Hub,SOC - LM,3:11:00
+Lubuk Linggau DC,Lubuk Linggau Selatan Hub,SOC - LM,0:21:00
+Percut Sei Tuan DC,Medan Hub,SOC - LM,0:54:00
+Cirebon 2 DC,Kertasemaya Hub,SOC - LM,1:10:00
+Talang Kelapa DC,Sekayu Hub,SOC - LM,3:57:00
+Sunter DC,Sukamulya 2 Hub,SOC - LM,2:30:00
+Cakung 5 DC,Karang Tengah Hub,SOC - LM,1:57:00
+Tasikmalaya DC,Kadipaten Hub,SOC - LM,1:00:00
+Kampung Melayu DC,Air Napal Hub,SOC - LM,2:00:00
+Solo DC,Matesih Hub,SOC - LM,1:25:00
+Banjarmasin DC,Banjarmasin Selatan Hub,SOC - LM,0:57:00
+Cakung 5 DC,Cilodong Hub,SOC - LM,1:48:00
+Benowo DC,Temayang Hub,SOC - LM,3:11:00
+Pekanbaru 2 DC,Rengat Barat Hub,SOC - LM,5:41:00
+Tasikmalaya DC,Cipatujah Hub,SOC - LM,2:30:00
+Tapos DC,Pondok Aren 4 Hub,SOC - LM,1:50:00
+Kediri DC,Mojoroto Hub,SOC - LM,0:45:00
+Kebumen DC,Pejagoan Hub,SOC - LM,0:45:00
+Mantikulore DC,Mori Atas Hub,SOC - LM,11:00:00
+Aceh DC,Samalanga Hub,SOC - LM,4:30:00
+Sidoarjo 2 DC,Sukomanunggal Hub,SOC - LM,0:49:00
+Cakung 5 DC,Kelapa Dua 2 Hub,SOC - LM,1:40:00
+Dumai DC,Bagan Hulu Hub,SOC - LM,3:30:00
+Semarang 4 DC,Lasem Hub,SOC - LM,4:30:00
+Cakung 5 DC,Tanjung Priok 2 Hub,SOC - LM,0:41:00
+Rungkut DC,Rangkah Kidul Hub,SOC - LM,1:14:00
+Virtual Cirebon DC,Cirebon Hub,SOC - LM,1:00:00
+Sidoarjo 2 DC,Lowokwaru Hub,SOC - LM,2:07:00
+Cakung DC,Grogol Petamburan 4 Hub,SOC - LM,1:25:00
+Medan DC,Pantai Cermin Hub,SOC - LM,1:35:00
+Cakung 5 DC,Koja Hub,SOC - LM,0:39:00
+Lampung DC,Yosodadi Hub,SOC - LM,2:40:00
+Palangka Raya DC,Sebangau Hub,SOC - LM,0:34:00
+Virtual Cirebon DC,Weru Hub,SOC - LM,0:55:00
+Cakung DC,Bekasi Timur 3 Hub,SOC - LM,1:15:00
+Lampung DC,Sekincau Hub,SOC - LM,7:30:00
+Depok DC,Leuwisadeng 2 Hub,SOC - LM,2:29:00
+Medan DC,Munte Hub,SOC - LM,4:37:00
+Pontianak DC,Sungai Pinyuh Hub,SOC - LM,3:00:00
+Cinambo DC,Bojongsoang Hub,SOC - LM,0:50:00
+Berbah DC,Magelang Hub,SOC - LM,2:10:00
+Pekanbaru DC,Tualang Hub,SOC - LM,1:20:00
+Lampung DC,Abung Timur Hub,SOC - LM,4:35:00
+Sunter DC,Serang Hub,SOC - LM,3:50:00
+Maros DC,Bara Hub,SOC - LM,10:15:00
+Lampung DC,Waway Karya Hub,SOC - LM,2:12:00
+Maros DC,Bengo 2 Hub,SOC - LM,4:30:00
+Baguala DC,Sirimau Hub,SOC - LM,0:30:00
+Tegal DC,Brebes Hub,SOC - LM,0:47:00
+Sunter DC,Majalaya Kab. Karawang Hub,SOC - LM,3:25:00
+Sunter DC,Benda 2 Hub,SOC - LM,1:50:00
+Cakung 5 DC,Baros Serang Hub,SOC - LM,3:06:00
+Malang DC,Binangun Hub,SOC - LM,3:03:00
+Medan DC,Berastagi Hub,SOC - LM,3:37:00
+Jember DC,Jatiroto Hub,SOC - LM,1:45:00
+Ngawi 2 DC,Karangmalang Hub,SOC - LM,2:00:00
+Aceh DC,Tangse Hub,SOC - LM,5:08:00
+Badung DC,Kuta Utara Hub,SOC - LM,1:30:00
+Semarang DC,Singorojo Hub,SOC - LM,2:15:00
+Cakung DC,Kebayoran Lama Hub,SOC - LM,1:38:00
+Cakung DC,Bekasi Utara Hub,SOC - LM,1:26:00
+Virtual Cirebon DC,Sindang Hub,SOC - LM,1:10:00
+Semarang DC,Kranggan Hub,SOC - LM,2:44:00
+Malang DC,Puspo Hub,SOC - LM,1:30:00
+Tegal DC,Talang 2 Hub,SOC - LM,0:40:00
+Dungingi DC,Limboto Hub,SOC - LM,1:01:00
+Pekanbaru DC,Tenayan Raya Hub,SOC - LM,0:57:00
+Sidoarjo 2 DC,Blega Hub,SOC - LM,2:25:00
+Lampung DC,Sekampung Udik Hub,SOC - LM,1:30:00
+Percut Sei Tuan DC,Medan Deli Hub,SOC - LM,1:24:00
+Sunter DC,Teluknaga 3 Hub,SOC - LM,2:20:00
+Pekanbaru DC,Tampan Pekanbaru Hub,SOC - LM,0:52:00
+Percut Sei Tuan DC,Langsa Kota Hub,SOC - LM,5:06:00
+Jember DC,Rambipuji Hub,SOC - LM,0:45:00
+Sidoarjo 2 DC,Sidoarjo 2 Hub,SOC - LM,1:22:00
+Tasikmalaya DC,Mangunreja Hub,SOC - LM,0:56:00
+Pontianak DC,Sekadau Hilir Hub,SOC - LM,7:20:00
+Benowo DC,Sugihwaras Hub,SOC - LM,3:30:00
+Tapos DC,Ciputat 2 Hub,SOC - LM,1:10:00
+Balikpapan DC,Tanah Grogot Hub,SOC - LM,6:39:00
+Cakung 5 DC,Rangkasbitung Hub,SOC - LM,2:36:00
+Rungkut DC,Gedangan 6 Hub,SOC - LM,0:55:00
+Padang DC,Pauh 2 Hub,SOC - LM,0:20:00
+Cakung 5 DC,Karang Bahagia Hub,SOC - LM,1:18:00
+Bandung Kopo DC,Sukaluyu Hub,SOC - LM,2:02:00
+Bandung Kopo DC,Warungkondang Hub,SOC - LM,3:00:00
+Jember DC,Glenmore Hub,SOC - LM,2:15:00
+Talang Kelapa DC,Sungai Lilin 3 Hub,SOC - LM,4:56:00
+Malang DC,Pronojiwo Hub,SOC - LM,3:01:00
+Cakung 5 DC,Parung Hub,SOC - LM,1:42:00
+Cakung DC,Babelan 2 Hub,SOC - LM,1:50:00
+Kawalu DC,Kawali Hub,SOC - LM,1:50:00
+Banjarmasin DC,Pulau Laut Tengah Hub,SOC - LM,8:00:00
+Benowo DC,Tuban Hub,SOC - LM,3:26:00
+Rungkut DC,Wonoayu 2 Hub,SOC - LM,0:50:00
+Jambi DC,Siulak Hub,SOC - LM,16:00:00
+Kudus DC,Grobogan Hub,SOC - LM,1:47:00
+Bengkulu DC,Bengkulu Hub,SOC - LM,0:27:00
+Cakung DC,Kembangan 5 Hub,SOC - LM,1:35:00
+Bandung Kopo DC,Rancabali Hub,SOC - LM,1:30:00
+Kudus DC,Karangrayung Hub,SOC - LM,1:48:00
+Ketapang Kalbar DC,Simpang Hilir Hub,SOC - LM,3:10:00
+Prabumulih DC,Lubai Ulu 2 Hub,SOC - LM,1:38:00
+Sunter DC,Teluknaga Hub,SOC - LM,2:05:00
+Maros DC,Libureng Hub,SOC - LM,5:31:00
+Ngawi DC,Padangan Hub,SOC - LM,1:30:00
+Depok DC,Ciomas 4 Hub,SOC - LM,1:25:00
+Banyumas 2 DC,Cilongok Hub,SOC - LM,1:00:00
+Ngawi 2 DC,Tegalombo Hub,SOC - LM,3:30:00
+Lampung DC,Pugung Hub,SOC - LM,2:52:00
+Virtual Cirebon DC,Widasari Hub,SOC - LM,1:10:00
+Mataram 2 DC,Empang Hub,SOC - LM,11:07:00
+Berbah DC,Kokap Hub,SOC - LM,2:00:00
+Solo DC,Jatisrono Hub,SOC - LM,2:25:00
+Lampung DC,Pringsewu Hub,SOC - LM,3:10:00
+Ngawi 2 DC,Pulung Hub,SOC - LM,2:30:00
+Pekanbaru 2 DC,Tanah Merah Hub,SOC - LM,6:00:00
+Makassar DC,Bontonompo Selatan Hub,SOC - LM,3:10:00
+Kudus DC,Trangkil Hub,SOC - LM,1:30:00
+Kampung Melayu DC,Lebong Atas Hub,SOC - LM,4:14:00
+Depok DC,Citeureup Hub,SOC - LM,0:41:00
+Kebumen DC,Grabag Hub,SOC - LM,1:30:00
+Kediri DC,Pesantren Hub,SOC - LM,0:17:00
+Berbah DC,Depok 3 Hub,SOC - LM,0:36:00
+Banyumas DC,Cilacap Hub,SOC - LM,2:15:00
+Jember DC,Sumbersuko Hub,SOC - LM,2:30:00
+Semarang DC,Ngaliyan Hub,SOC - LM,1:30:00
+Banyumas DC,Karanglewas Hub,SOC - LM,1:00:00
+Bandung Kopo DC,Cimahi Utara Hub,SOC - LM,0:52:00
+Prabumulih DC,Muara Enim Hub,SOC - LM,2:48:00
+Sidoarjo 2 DC,Pakis Malang Hub,SOC - LM,2:21:00
+Kebumen DC,Kebumen Hub,SOC - LM,0:45:00
+Malang DC,Pandaan Hub,SOC - LM,1:19:00
+Depok DC,Kemang Hub,SOC - LM,0:59:00
+Jambi DC,Tanjung Jabung Barat Hub,SOC - LM,4:28:00
+Kudus DC,Jati 4 Hub,SOC - LM,0:35:00
+Jember DC,Tenggarang Hub,SOC - LM,1:50:00
+Kawalu DC,Cijulang Hub,SOC - LM,3:45:00
+Banyumas DC,Gumelar 2 Hub,SOC - LM,1:51:00
+Gunung Sitoli DC,Tuhemberua Hub,SOC - LM,1:30:00
+Semarang 4 DC,Blora Hub,SOC - LM,4:30:00
+Sidoarjo 2 DC,Sukapura Hub,SOC - LM,2:25:00
+Jember DC,Genteng Hub,SOC - LM,2:40:00
+Balikpapan DC,Balikpapan Utara 3 Hub,SOC - LM,1:00:00
+Siborong - Borong DC,Pahae Jae Hub,SOC - LM,2:23:00
+Lampung DC,Kalirejo Hub,SOC - LM,2:47:00
+Cakung DC,Pondok Kelapa Hub,SOC - LM,1:05:00
+Purbalingga DC,Randudongkal Hub,SOC - LM,2:00:00
+Makassar DC,Bajeng Hub,SOC - LM,2:00:00
+Berbah DC,Gamping Hub,SOC - LM,1:10:00
+Lampung DC,Metro Utara Hub,SOC - LM,2:09:00
+Dungingi DC,Tilango Hub,SOC - LM,0:17:00
+Depok DC,Cimanggis Hub,SOC - LM,0:27:00
+Siborong - Borong DC,Kota Pinang Hub,SOC - LM,9:08:00
+Cakung DC,Ciracas 2 Hub,SOC - LM,1:35:00
+Talang Kelapa DC,Babat Supat Hub,SOC - LM,5:30:00
+Malang DC,Junrejo Hub,SOC - LM,1:14:00
+Cinambo DC,Kersamanah Hub,SOC - LM,1:56:00
+Kudus DC,Kudus Hub,SOC - LM,0:30:00
+Tapos DC,Serpong Utara Hub,SOC - LM,1:40:00
+Cakung DC,Penjaringan 4 Hub,SOC - LM,1:45:00
+Depok DC,Bogor Selatan 2 Hub,SOC - LM,1:11:00
+Batam DC,Sekupang Hub,SOC - LM,1:11:00
+Palembang DC,Peninjauan Hub,SOC - LM,6:05:00
+Ngawi 2 DC,Ngawi Hub,SOC - LM,0:37:00
+Tegal DC,Cikeusal Lor Hub,SOC - LM,1:57:00
+Bandung Kopo DC,Cidadap Hub,SOC - LM,1:03:00
+Virtual Rungkut DC,Bangkalan Kota Hub,SOC - LM,1:58:00
+Cakung DC,Jatiasih 3 Hub,SOC - LM,1:15:00
+Benowo DC,Krembangan 2 Hub,SOC - LM,0:59:00
+Rungkut DC,Rembang Pasuruan Hub,SOC - LM,1:30:00
+Sidoarjo 2 DC,Kokop Hub,SOC - LM,2:50:00
+Jambi DC,Bangko Hub,SOC - LM,9:07:00
+Lubuk Linggau DC,Pagar Alam Utara Hub,SOC - LM,7:00:00
+Berbah DC,Imogiri Hub,SOC - LM,0:50:00
+Mantikulore DC,Palu Timur Hub,SOC - LM,0:58:00
+Kudus DC,Kaliori Hub,SOC - LM,2:21:00
+Makassar DC,Tamalatea Hub,SOC - LM,3:40:00
+Lampung DC,Tanjung Bintang Hub,SOC - LM,1:52:00
+Rungkut DC,Probolinggo Hub,SOC - LM,3:31:00
+Virtual Rungkut DC,Pamekasan Hub,SOC - LM,4:35:00
+Semarang 4 DC,Margoyoso Hub,SOC - LM,3:30:00
+Pekanbaru 2 DC,Tanah Merah Kab. Indragiri Hilir Hub,SOC - LM,18:00:00
+Cakung DC,Pondok Ranggon Hub,SOC - LM,2:00:00
+Cakung DC,Cikarang Utara 3 Hub,SOC - LM,2:00:00
+Benowo DC,Benowo Hub,SOC - LM,0:40:00
+Depok DC,Sukamakmur Hub,SOC - LM,2:01:00
+Banjarmasin 2 DC,Beruntung Baru Hub,SOC - LM,0:52:00
+Banyumas 2 DC,Rowokele Hub,SOC - LM,1:33:00
+Bandung Kopo DC,Batujajar Hub,SOC - LM,1:02:00
+Solo DC,Solo Hub,SOC - LM,0:50:00
+Pekalongan 2 DC,Subah Hub,SOC - LM,0:49:00
+Cakung DC,Matraman 3 Hub,SOC - LM,1:18:00
+Sunter DC,Neglasari Hub,SOC - LM,2:50:00
+Pontianak DC,Silat Hilir Hub,SOC - LM,10:45:00
+Sunter DC,Legok 2 Hub,SOC - LM,2:05:00
+Depok DC,Cipayung Kota Depok Hub,SOC - LM,0:50:00
+Cakung DC,Kembangan 2 Hub,SOC - LM,1:30:00
+Wolio DC,Barangka Hub,SOC - LM,6:06:00
+Jambi DC,Sungai Penuh Hub,SOC - LM,16:01:00
+Pekanbaru DC,Lima Puluh Hub,SOC - LM,0:47:00
+Sunter DC,Ciruas Hub,SOC - LM,3:10:00
+Ketapang Kalbar DC,Seponti Hub,SOC - LM,7:00:00
+Cakung DC,Kembangan 7 Hub,SOC - LM,1:30:00
+Denpasar DC,Denpasar Selatan Hub,SOC - LM,1:10:00
+Medan DC,Medan Johor Hub,SOC - LM,0:58:00
+Bengkulu DC,Kota Argamakmur Hub,SOC - LM,2:15:00
+Pekalongan 2 DC,Kota Pekalongan Timur Hub,SOC - LM,0:30:00
+Pekanbaru 2 DC,Batang Peranap Hub,SOC - LM,9:00:00
+Percut Sei Tuan DC,Medan Timur Hub,SOC - LM,1:45:00
+Benowo DC,Lamongan Hub,SOC - LM,1:24:00
+Sidoarjo 2 DC,Sampang Hub,SOC - LM,3:12:00
+Sidoarjo 2 DC,Baureno Hub,SOC - LM,2:36:00
+Lampung DC,Kota Agung Hub,SOC - LM,3:52:00
+Rungkut DC,Maron Hub,SOC - LM,3:51:00
+Rungkut DC,Sukapura Hub,SOC - LM,3:25:00
+Aceh DC,Sukakarya Kota Sabang Hub,SOC - LM,7:45:00
+Lampung DC,Padang Cermin Hub,SOC - LM,2:00:00
+Pontianak 2 DC,Kubu Raya Hub,SOC - LM,0:36:00
+Solo DC,Wonogiri Hub,SOC - LM,1:50:00
+Banyumas DC,Adipala Hub,SOC - LM,1:43:00
+Talang Kelapa DC,Pemulutan Hub,SOC - LM,1:32:00
+Depok DC,Klapanunggal Hub,SOC - LM,1:59:00
+Pekanbaru DC,Simpang Kanan Rokan Hilir Hub,SOC - LM,8:48:00
+Tegal DC,Larangan 4 Hub,SOC - LM,1:45:00
+Jember DC,Ajung Hub,SOC - LM,0:25:00
+Mataram DC,Aikmel Hub,SOC - LM,2:30:00
+Pekanbaru DC,Bangkinang Hub,SOC - LM,2:00:00
+Sidoarjo 2 DC,Sukolilo Hub,SOC - LM,1:08:00
+Sunter DC,Cipunagara Hub,SOC - LM,4:30:00
+Lampung DC,Rawa Jitu Selatan Hub,SOC - LM,6:30:00
+Medan DC,Kualuh Selatan 2 Hub,SOC - LM,6:20:00
+Maros DC,Lau Hub,SOC - LM,1:00:00
+Ngawi DC,Kalitidu Hub,SOC - LM,2:00:00
+Cakung DC,Cikarang Pusat Hub,SOC - LM,1:40:00
+Malang DC,Donomulyo Hub,SOC - LM,2:55:00
+Palembang DC,Buay Madang Hub,SOC - LM,6:10:00
+Mataram DC,Sekarbela Hub,SOC - LM,0:40:00
+Cinambo DC,Cipadung Kulon Hub,SOC - LM,0:22:00
+Tanjung Redeb DC,Derawan Hub,SOC - LM,3:16:00
+Tanjung Redeb DC,Tanjung Selor Hub,SOC - LM,3:25:00
+Banjarmasin DC,Pelaihari Hub,SOC - LM,2:30:00
+Sunter DC,Senen Hub,SOC - LM,0:51:00
+Dumai DC,Bangun Purba Hub,SOC - LM,7:00:00
+Tanjung Pinang DC,Tanjung Pinang Barat Hub,SOC - LM,0:45:00
+Medan DC,Rantau Selatan Hub,SOC - LM,8:00:00
+Palangka Raya DC,Mentaya Hilir Selatan Hub,SOC - LM,8:00:00
+Kediri DC,Wates Hub,SOC - LM,0:30:00
+Cakung DC,Karang Bahagia Hub,SOC - LM,2:05:00
+Berbah DC,Gamping 3 Hub,SOC - LM,1:10:00
+Sidoarjo 2 DC,Arosbaya Hub,SOC - LM,2:42:00
+Sunter DC,Karang Tengah Hub,SOC - LM,2:05:00
+Rungkut DC,Pungging Hub,SOC - LM,1:28:00
+Palangka Raya DC,Arut Selatan Hub,SOC - LM,14:24:00
+Cakung DC,Cilincing Hub,SOC - LM,0:54:00
+Tanjung Redeb DC,Teluk Bayur 2 Hub,SOC - LM,0:15:00
+Banyumas DC,Sidareja Hub,SOC - LM,2:45:00
+Wolio DC,Kulisusu Hub,SOC - LM,9:00:00
+Prabumulih DC,Merapi Barat Hub,SOC - LM,3:42:00
+Solo DC,Ngemplak Kab. Boyolali Hub,SOC - LM,0:35:00
+Malang DC,Garum Hub,SOC - LM,3:30:00
+Medan DC,Simpang Empat Hub,SOC - LM,4:00:00
+Sunter DC,Cisalak Hub,SOC - LM,4:30:00
+Siborong - Borong DC,Sidikalang Hub,SOC - LM,3:47:00
+Padang DC,Koto Tangah Hub,SOC - LM,0:50:00
+Sunter DC,Telagasari Hub,SOC - LM,2:50:00
+Ngawi DC,Gondang Hub,SOC - LM,2:00:00
+Cakung 5 DC,Makasar Hub,SOC - LM,0:40:00
+Kediri DC,Munjungan Hub,SOC - LM,3:30:00
+Ngawi 2 DC,Ponorogo Hub,SOC - LM,2:04:00
+Mantikulore DC,Bahodopi 4 Hub,SOC - LM,16:48:00
+Banjarbaru DC,Sungai Raya Hulu Sungai Selatan Hub,SOC - LM,3:00:00
+Kudus DC,Pecangaan 5 Hub,SOC - LM,1:20:00
+Bandung Kopo DC,Bojongloa Kaler Hub,SOC - LM,0:24:00
+Siborong - Borong DC,Siborong - Borong Hub,SOC - LM,0:30:00
+Banjarmasin DC,Alalak Hub,SOC - LM,1:47:00
+Lampung 2 DC,Natar 3 Hub,SOC - LM,1:11:00
+Mataram 2 DC,Mpunda Hub,SOC - LM,15:00:00
+Solo DC,Andong Hub,SOC - LM,1:15:00
+Palangka Raya DC,Kotawaringin Lama 2 Hub,SOC - LM,12:30:00
+Virtual Rungkut DC,Pasongsongan Hub,SOC - LM,4:20:00
+Cakung 5 DC,Gambir 3 Hub,SOC - LM,1:03:00
+Padang DC,Payakumbuh Timur Hub,SOC - LM,6:30:00
+Percut Sei Tuan DC,Hamparan Perak Hub,SOC - LM,2:10:00
+Percut Sei Tuan DC,Babalan Hub,SOC - LM,4:15:00
+Berbah DC,Yogyakarta Hub,SOC - LM,0:45:00
+Semarang DC,Demak Hub,SOC - LM,2:13:00
+Bandung Kopo DC,Cikalongkulon Hub,SOC - LM,2:31:00
+Lubuk Linggau DC,Linggau Timur Satu Hub,SOC - LM,0:30:00
+Kampung Melayu DC,Ketahun Hub,SOC - LM,3:37:00
+Purbalingga DC,Moga Hub,SOC - LM,2:00:00
+Bandung Kopo DC,Cilaku Hub,SOC - LM,3:00:00
+Rungkut DC,Surabaya Hub,SOC - LM,0:15:00
+Sunter DC,Cijaku Hub,SOC - LM,5:20:00
+Cinambo DC,Garut Hub,SOC - LM,2:20:00
+Pontianak DC,Sanggau Hub,SOC - LM,4:30:00
+Banjarmasin DC,Selat Hub,SOC - LM,2:41:00
+Tasikmalaya DC,Cikalong Hub,SOC - LM,3:20:00
+Kebumen DC,Loano Hub,SOC - LM,2:00:00
+Cakung DC,Cibitung 2 Hub,SOC - LM,2:08:00
+Dumai DC,Tanah Putih Tanjung Melawan Hub,SOC - LM,2:08:00
+Medan DC,Pulau Rakyat Hub,SOC - LM,6:25:00
+Badung DC,Mendoyo Hub,SOC - LM,2:30:00
+Maros DC,Belawa Hub,SOC - LM,6:31:00
+Ngawi 2 DC,Plaosan Hub,SOC - LM,1:20:00
+Cakung DC,Jagakarsa 2 Hub,SOC - LM,1:50:00
+Medan DC,Tebing Syahbandar Hub,SOC - LM,2:40:00
+Jambi DC,Limun Hub,SOC - LM,6:20:00
+Sidoarjo 2 DC,Wonocolo Hub,SOC - LM,0:45:00
+Palembang DC,Talang Kelapa Hub,SOC - LM,0:51:00
+Bandung Kopo DC,Sukanagara Hub,SOC - LM,4:38:00
+Palangka Raya DC,Nengah Bulik Hub,SOC - LM,15:36:00
+Badung DC,Mengwi Badung Hub,SOC - LM,1:00:00
+Kediri DC,Papar Hub,SOC - LM,0:59:00
+Maros DC,Baebunta Hub,SOC - LM,13:00:00
+Semarang 4 DC,Banyumanik Hub,SOC - LM,2:00:00
+Denpasar DC,Uluwatu Hub,SOC - LM,1:30:00
+Rungkut DC,Taman Hub,SOC - LM,0:45:00
+Talang Kelapa DC,Payaraman Hub,SOC - LM,2:06:00
+Solo DC,Nguntoronadi Kab. Wonogiri Hub,SOC - LM,2:10:00
+Sidoarjo 2 DC,Tosari Hub,SOC - LM,3:29:00
+Cakung 5 DC,Taman Sari 6 Hub,SOC - LM,0:54:00
+Solo DC,Plupuh Hub,SOC - LM,1:00:00
+Depok DC,Tanah Sareal Hub,SOC - LM,0:54:00
+Cakung DC,Setiabudi Hub,SOC - LM,1:15:00
+Mataram DC,Sakra Barat Hub,SOC - LM,2:05:00
+Aceh DC,Woyla Hub,SOC - LM,5:26:00
+Cakung DC,Penjaringan 6 Hub,SOC - LM,1:57:00
+Semarang DC,Sumowono Hub,SOC - LM,2:15:00
+Semarang DC,Mijen Demak Hub,SOC - LM,2:45:00
+Kebumen DC,Purworejo Hub,SOC - LM,1:55:00
+Lampung DC,Pulau Panggung Hub,SOC - LM,3:20:00
+Berbah DC,Depok 2 Hub,SOC - LM,0:35:00
+Semarang DC,Semarang Hub,SOC - LM,1:30:00
+Pekalongan 2 DC,Pekalongan Selatan Hub,SOC - LM,0:40:00
+Simboro Dan Kepulauan DC,Tobadak Hub,SOC - LM,3:31:00
+Talang Kelapa DC,Lempuing Hub,SOC - LM,3:56:00
+Tapos DC,Ciemas Hub,SOC - LM,5:35:00
+Dungingi DC,Gorontalo Hub,SOC - LM,0:30:00
+Cakung 5 DC,Cimanggis 4 Hub,SOC - LM,1:04:00
+Bandung Kopo DC,Sindangbarang Hub,SOC - LM,7:00:00
+Pontianak DC,Putussibau Selatan Hub,SOC - LM,14:52:00
+Balikpapan DC,Samboja (Semboja) Hub,SOC - LM,2:30:00
+Tanjung Pandan DC,Manggar Hub,SOC - LM,1:34:00
+Cirebon 2 DC,Leuwimunding Hub,SOC - LM,1:15:00
+Cinambo DC,Wado Hub,SOC - LM,2:35:00
+Virtual Cirebon DC,Haurgeulis Hub,SOC - LM,2:15:00
+Purbalingga DC,Purwonegoro Hub,SOC - LM,1:30:00
+Lampung DC,Way Serdang Hub,SOC - LM,5:25:00
+Denpasar DC,Tegallalang Hub,SOC - LM,0:45:00
+Ngawi DC,Gemarang Hub,SOC - LM,1:00:00
+Siborong - Borong DC,Laguboti Hub,SOC - LM,3:17:00
+Percut Sei Tuan DC,Stabat Hub,SOC - LM,1:22:00
+Bengkulu DC,Kota Manna Hub,SOC - LM,3:36:00
+Jambi 2 DC,Kumpeh Ulu Hub,SOC - LM,1:02:00
+Tasikmalaya DC,Tasikmalaya Hub,SOC - LM,0:25:00
+Depok DC,Babakan Madang Hub,SOC - LM,0:35:00
+Dumai DC,Bonai Darussalam Hub,SOC - LM,3:37:00
+Tapos DC,Pondok Aren 5 Hub,SOC - LM,1:50:00
+Sunter DC,Karawang Barat Hub,SOC - LM,2:20:00
+Alak DC,Alak Hub,SOC - LM,0:30:00
+Solo DC,Bendosari Hub,SOC - LM,1:00:00
+Berbah DC,Depok Hub,SOC - LM,0:56:00
+Solo DC,Colomadu 3 Hub,SOC - LM,0:30:00
+Lampung DC,Pesisir Selatan Hub,SOC - LM,7:00:00
+Banjarmasin DC,Sungai Loban Hub,SOC - LM,6:30:00
+Palangka Raya DC,Pangkalan Banteng 2 Hub,SOC - LM,12:46:00
+Sungai Kakap DC,Jawai Hub,SOC - LM,8:00:00
+Solo DC,Gemolong Hub,SOC - LM,1:11:00
+Kediri DC,Plemahan Hub,SOC - LM,1:01:00
+Rungkut DC,Grati Hub,SOC - LM,2:16:00
+Cinambo DC,Kab. Garut Hub,SOC - LM,1:35:00
+Sunter DC,Balaraja Hub,SOC - LM,2:40:00
+Bandung Kopo DC,Cimahi Utara 2 Hub,SOC - LM,0:45:00
+Tasikmalaya DC,Sukaraja Tasikmalaya Hub,SOC - LM,1:00:00
+Sungai Kakap DC,Sei Sungai Kakap Hub,SOC - LM,0:30:00
+Cakung 5 DC,Cipayung Jakarta Timur Hub,SOC - LM,0:48:00
+Cakung DC,Taman Sari 4 Hub,SOC - LM,1:15:00
+Cakung DC,Pasar Rebo Hub,SOC - LM,1:30:00
+Benowo DC,Menganti Hub,SOC - LM,1:02:00
+Makassar DC,Ujung Bulu Hub,SOC - LM,6:10:00
+Cirebon 2 DC,Depok Cirebon Hub,SOC - LM,1:14:00
+Banjarmasin 2 DC,Murung Hub,SOC - LM,15:30:00
+Lampung DC,Balik Bukit Hub,SOC - LM,6:36:00
+Solo DC,Wuryantoro Hub,SOC - LM,2:00:00
+Aceh DC,Seulimeum Hub,SOC - LM,1:54:00
+Aceh DC,Kuala Hub,SOC - LM,6:16:00
+Sidoarjo 2 DC,Pungging Hub,SOC - LM,1:13:00
+Semarang 4 DC,Mijen Demak Hub,SOC - LM,2:45:00
+Ngawi 2 DC,Nawangan Hub,SOC - LM,4:22:00
+Siborong - Borong DC,Pahae Julu Hub,SOC - LM,1:44:00
+Jailolo DC,Tobelo Selatan Hub,SOC - LM,5:30:00
+Banyumas 2 DC,Majenang Hub,SOC - LM,3:00:00
+Balikpapan DC,Kongbeng 2 Hub,SOC - LM,17:34:00
+Sidoarjo 2 DC,Menganti Hub,SOC - LM,0:51:00
+Siborong - Borong DC,Parlilitan Hub,SOC - LM,3:00:00
+Cinambo DC,Cisompet Hub,SOC - LM,5:30:00
+Banjarmasin 2 DC,Kintap Hub,SOC - LM,4:00:00
+Cakung 5 DC,Cikeusik Hub,SOC - LM,5:32:00
+Kalawat DC,Amurang Barat Hub,SOC - LM,3:27:00
+Kudus DC,Godong Hub,SOC - LM,1:43:00
+Dumai DC,Rupat Hub,SOC - LM,8:00:00
+Malang DC,Wlingi Hub,SOC - LM,2:30:00
+Palembang DC,Palembang Hub,SOC - LM,0:31:00
+Cinambo DC,Regol 2 Hub,SOC - LM,0:45:00
+Berbah DC,Sinduharjo Hub,SOC - LM,0:53:00
+Banjarbaru DC,Tanjung Hub,SOC - LM,6:30:00
+Tanjung Pinang DC,Tanjung Pinang Timur Hub,SOC - LM,0:40:00
+Sidoarjo 2 DC,Bangkalan Kota Hub,SOC - LM,1:35:00
+Sunter DC,Tanah Abang Hub,SOC - LM,1:25:00
+Solo DC,Karanganyar Hub,SOC - LM,0:34:00
+Prabumulih DC,Simpang Blimbing Hub,SOC - LM,1:41:00
+Depok DC,Gunung Sindur Hub,SOC - LM,1:11:00
+Denpasar DC,Karangasem Hub,SOC - LM,2:05:00
+Sunter DC,Cisauk Hub,SOC - LM,2:25:00
+Tapos DC,Cikakak Hub,SOC - LM,4:15:00
+Banyumas DC,Cilongok Hub,SOC - LM,0:58:00
+Jambi DC,Sungai Gelam 2 Hub,SOC - LM,1:53:00
+Banjarmasin DC,Batulicin 4 Hub,SOC - LM,7:05:00
+Berbah DC,Godean Hub,SOC - LM,1:10:00
+Pangkal Pinang DC,Sungai Liat Hub,SOC - LM,1:19:00
+Ketapang Kalbar DC,Matan Hilir Selatan Hub,SOC - LM,1:30:00
+Badung DC,Negara Hub,SOC - LM,3:00:00
+Kediri DC,Pogalan Hub,SOC - LM,1:50:00
+Depok DC,Ciawi Bogor 2 Hub,SOC - LM,1:01:00
+Talang Kelapa DC,Sungai Lilin Hub,SOC - LM,5:09:00
+Sidoarjo 2 DC,Palang Hub,SOC - LM,3:45:00
+Semarang DC,Genuk Hub,SOC - LM,2:04:00
+Malang DC,Pujon Hub,SOC - LM,1:46:00
+Sunter DC,Sukamulya Hub,SOC - LM,2:52:00
+Pekalongan 2 DC,Bandar Hub,SOC - LM,1:15:00
+Virtual Rungkut DC,Pegantenan Hub,SOC - LM,4:38:00
+Benowo DC,Driyorejo Hub,SOC - LM,1:12:00
+Kudus DC,Mlonggo Hub,SOC - LM,2:03:00
+Cinambo DC,Majalaya Hub,SOC - LM,1:40:00
+Badung DC,Seririt Hub,SOC - LM,3:00:00
+Berbah DC,Semanu Hub,SOC - LM,1:45:00
+Padang DC,Tanjung Mutiara Hub,SOC - LM,3:10:00
+Rungkut DC,Puri 3 Hub,SOC - LM,1:30:00
+Banyumas 2 DC,Banjarnegara Hub,SOC - LM,1:42:00
+Pekanbaru 2 DC,Pulau Burung Hub,SOC - LM,21:00:00
+Sunter DC,Gunungsari Serang Hub,SOC - LM,3:29:00
+Batam DC,Batam 2 Hub,SOC - LM,0:10:00
+Pekanbaru DC,Kampar Kiri Hilir Hub,SOC - LM,1:29:00
+Cakung 5 DC,Jatisampurna Hub,SOC - LM,1:33:00
+Sungai Kakap DC,Mempawah Hub,SOC - LM,4:00:00
+Ngawi DC,Bagor Hub,SOC - LM,1:30:00
+Pekanbaru DC,Koto Gasib 2 Hub,SOC - LM,2:40:00
+Balikpapan DC,Sepaku 2 Hub,SOC - LM,2:37:00
+Virtual Rungkut DC,Batang Batang Hub,SOC - LM,6:25:00
+Cakung 5 DC,Karawaci 2 Hub,SOC - LM,1:27:00
+Rungkut DC,Kutorejo Hub,SOC - LM,2:10:00
+Cakung DC,Penjaringan 27 Hub,SOC - LM,1:31:00
+Talang Kelapa DC,Suak Tapeh Hub,SOC - LM,2:52:00
+Pontianak 2 DC,Batu Ampar Hub,SOC - LM,11:59:00
+Ngawi DC,Cepu Hub,SOC - LM,2:00:00
+Pekanbaru 2 DC,Pelangiran Hub,SOC - LM,23:00:00
+Siborong - Borong DC,Batang Toru Hub,SOC - LM,6:07:00
+Cakung 5 DC,Bogor Tengah Hub,SOC - LM,1:39:00
+Siborong - Borong DC,Tapian Nauli Hub,SOC - LM,5:50:00
+Tapos DC,Sukabumi Hub,SOC - LM,3:09:00
+Bandung Kopo DC,Katapang Hub,SOC - LM,0:43:00
+Cakung DC,Kelapa Gading Hub,SOC - LM,1:04:00
+Dumai DC,Dumai Hub,SOC - LM,0:45:00
+Ketapang Kalbar DC,Sungai Melayu Rayak Hub,SOC - LM,3:43:00
+Jember DC,Patrang Hub,SOC - LM,0:45:00
+Banyumas 2 DC,Madukara Hub,SOC - LM,1:45:00
+Berbah DC,Jetis 2 Hub,SOC - LM,1:46:00
+Bandung Kopo DC,Cibinong Cianjur Hub,SOC - LM,6:00:00
+Sunter DC,Pagedangan Hub,SOC - LM,1:53:00
+Benowo DC,Bojonegoro Hub,SOC - LM,3:30:00
+Balikpapan DC,Kaliorang Hub,SOC - LM,13:33:00
+Medan DC,Blang Kejeren Hub,SOC - LM,25:35:00
+Kawalu DC,Kalipucang Hub,SOC - LM,2:50:00
+Siborong - Borong DC,Sipoholon Hub,SOC - LM,0:10:00
+Sidoarjo 2 DC,Lesanpuro Hub,SOC - LM,2:31:00
+Cakung 5 DC,Cikande Hub,SOC - LM,2:22:00
+Cakung 5 DC,Pulo Gadung 3 Hub,SOC - LM,0:31:00
+Cakung 5 DC,Majalaya Kab. Karawang Hub,SOC - LM,1:52:00
+Banjarbaru DC,Dusun Timur Hub,SOC - LM,7:33:00
+Pontianak 2 DC,Tayan Hilir Hub,SOC - LM,4:46:00
+Cakung 5 DC,Anyar Hub,SOC - LM,2:55:00
+Palembang DC,Sukajadi Baturaja Timur Hub,SOC - LM,5:15:00
+Solo DC,Jaten Hub,SOC - LM,1:00:00
+Semarang DC,Ambarawa Hub,SOC - LM,1:51:00
+Cakung 5 DC,Rengasdengklok Hub,SOC - LM,1:54:00
+Cakung 5 DC,Pancoran 2 Hub,SOC - LM,0:50:00
+Cakung 5 DC,Mustika Jaya Hub,SOC - LM,1:28:00
+Sunter DC,Purwasari Hub,SOC - LM,2:40:00
+Mataram 2 DC,Menggelewa Hub,SOC - LM,12:00:00
+Cakung 5 DC,Klari Hub,SOC - LM,1:24:00
+Banyumas 2 DC,Baturaden Hub,SOC - LM,0:45:00
+Sungai Kakap DC,Singkawang Hub,SOC - LM,5:13:00
+Simboro Dan Kepulauan DC,Tikke Raya Hub,SOC - LM,7:38:00
+Kalawat DC,Ratahan Hub,SOC - LM,2:34:00
+Pekanbaru 2 DC,Seberida Hub,SOC - LM,7:38:00
+Wolio DC,Mawasangka Tengah Hub,SOC - LM,5:30:00
+Sidoarjo 2 DC,Sukun Hub,SOC - LM,3:01:00
+Depok DC,Cisarua Bogor Hub,SOC - LM,1:25:00
+Jambi 2 DC,Sungai Gelam 2 Hub,SOC - LM,1:22:00
+Manokwari Barat DC,Ransiki Hub,SOC - LM,3:00:00
+Kudus DC,Pecangaan Hub,SOC - LM,1:18:00
+Jember DC,Pujer Hub,SOC - LM,2:10:00
+Ngawi 2 DC,Pacitan Hub,SOC - LM,4:32:00
+Sungai Kakap DC,Selakau Hub,SOC - LM,5:40:00
+Berbah DC,Sewon Hub,SOC - LM,0:52:00
+Cakung 5 DC,Tanah Sareal 2 Hub,SOC - LM,1:26:00
+Benowo DC,Brondong Hub,SOC - LM,2:42:00
+Bandung Kopo DC,Cisewu Hub,SOC - LM,3:47:00
+Jambi DC,Merlung Hub,SOC - LM,4:50:00
+Cakung 5 DC,Parung Panjang Hub,SOC - LM,1:45:00
+Siborong - Borong DC,Batang Natal Hub,SOC - LM,10:00:00
+Tegal DC,Margasari Hub,SOC - LM,2:04:00
+Pekalongan 2 DC,Tulis Hub,SOC - LM,0:30:00
+Semarang DC,Temanggung Hub,SOC - LM,2:45:00
+Palangka Raya DC,Kasongan Hub,SOC - LM,3:00:00
+Banyumas 2 DC,Sumpiuh Hub,SOC - LM,1:15:00
+Malang DC,Ngantang Hub,SOC - LM,2:37:00
+Cakung 5 DC,Panongan 3 Hub,SOC - LM,1:49:00
+Labuhan Bajo DC,Borong Hub,SOC - LM,5:30:00
+Baguala DC,Kota Masohi Hub,SOC - LM,11:00:00
+Palangka Raya DC,Mentawa Baru Hub,SOC - LM,7:40:00
+Cakung 5 DC,Babelan 2 Hub,SOC - LM,1:22:00
+Cakung 5 DC,Pasar Rebo Hub,SOC - LM,0:53:00
+Bandung Kopo DC,Sindangkerta Hub,SOC - LM,1:50:00
+Semarang DC,Gemuh Hub,SOC - LM,1:11:00
+Sunter DC,Labuan Hub,SOC - LM,5:20:00
+Sunter DC,Cibogo Hub,SOC - LM,3:15:00
+Pontianak 2 DC,Kubu Hub,SOC - LM,15:11:00
+Medan DC,Bilah Hilir Hub,SOC - LM,10:30:00
+Cinambo DC,Singajaya Hub,SOC - LM,4:20:00
+Cakung 5 DC,Kebon Jeruk 5 Hub,SOC - LM,2:07:00
+Berbah DC,Salaman Hub,SOC - LM,1:50:00
+Banyumas DC,Wanareja Hub,SOC - LM,2:45:00
+Ketapang Kalbar DC,Nanga Tayap 2 Hub,SOC - LM,3:30:00
+Dumai DC,Kubu Babussalam Hub,SOC - LM,4:14:00
+Balikpapan DC,Balikpapan Barat Hub,SOC - LM,1:00:00
+Lampung 2 DC,Tanjung Karang Barat Hub,SOC - LM,1:40:00
+Lampung DC,Katibung 2 Hub,SOC - LM,22:41:00
+Sidoarjo 2 DC,Sampang 2 Hub,SOC - LM,3:28:00
+Cakung 5 DC,Sawangan Kota Depok Hub,SOC - LM,1:49:00
+Sunter DC,Menes Hub,SOC - LM,4:50:00
+Cakung 5 DC,Kalideres 5 Hub,SOC - LM,1:10:00
+Sunter DC,Purwadadi Hub,SOC - LM,3:40:00
+Sidoarjo 2 DC,Jetis Hub,SOC - LM,1:09:00
+Padang DC,Tapan Hub,SOC - LM,7:08:00
+Banjarbaru DC,Kandangan Hub,SOC - LM,3:53:00
+Cakung DC,Kalideres 4 Hub,SOC - LM,1:55:00
+Malang DC,Gedangan Malang Hub,SOC - LM,2:39:00
+Kediri DC,Dongko Hub,SOC - LM,3:04:00
+Cirebon 2 DC,Kroya Indramayu Hub,SOC - LM,2:55:00
+Sunter DC,Baros Serang Hub,SOC - LM,4:15:00
+Padang DC,Sitiung Hub,SOC - LM,8:28:00
+Maros DC,Watang Sawitto Hub,SOC - LM,5:50:00
+Jambi DC,Bangko Barat Hub,SOC - LM,9:54:00
+Cirebon 2 DC,Astanajapura Hub,SOC - LM,0:40:00
+Semarang DC,Jumo Hub,SOC - LM,3:07:00
+Cakung 5 DC,Cipondoh 4 Hub,SOC - LM,2:27:00
+Semarang DC,Ngadirejo Hub,SOC - LM,3:09:00
+Dumai DC,Bengkalis Hub,SOC - LM,6:00:00
+Prabumulih DC,Tanjung Agung Hub,SOC - LM,4:00:00
+Semarang DC,Wonosalam 2 Hub,SOC - LM,2:20:00
+Cakung 5 DC,Kebon Jeruk 10 Hub,SOC - LM,1:05:00
+Lampung DC,Blambangan Umpu Hub,SOC - LM,5:35:00
+Semarang 4 DC,Pringapus Hub,SOC - LM,2:00:00
+Percut Sei Tuan DC,Hinai Hub,SOC - LM,2:30:00
+Cakung DC,Pademangan Hub,SOC - LM,2:00:00
+Jember DC,Sobo Hub,SOC - LM,3:49:00
+Cakung 5 DC,Pondok Aren 5 Hub,SOC - LM,1:21:00
+Talang Kelapa DC,Dabuk Rejo Hub,SOC - LM,4:15:00
+Siborong - Borong DC,Sipahutar Hub,SOC - LM,3:30:00
+Cirebon 2 DC,Paseh Hub,SOC - LM,1:49:00
+Cakung 5 DC,Gunung Putri 2 Hub,SOC - LM,1:25:00
+Sidoarjo 2 DC,Krembangan 2 Hub,SOC - LM,0:55:00
+Solo DC,Kartosura Hub,SOC - LM,0:25:00
+Padang DC,Padang Panjang Hub,SOC - LM,6:00:00
+Banjarmasin DC,Simpang Empat Tanah Bumbu Hub,SOC - LM,7:43:00
+Lampung 2 DC,Bumi Waras Hub,SOC - LM,1:28:00
+Kudus DC,Kedung Hub,SOC - LM,1:01:00
+Mataram DC,Pringgabaya Hub,SOC - LM,2:20:00
+Cakung 5 DC,Cibinong Bogor Hub,SOC - LM,1:40:00
+Cirebon 2 DC,Widasari Hub,SOC - LM,1:25:00
+Lampung DC,Tulang Bawang Tengah Hub,SOC - LM,4:01:00
+Bandung Kopo DC,Gununghalu Hub,SOC - LM,2:17:00
+Aceh DC,Kuta Makmur Hub,SOC - LM,6:07:00
+Banjarbaru DC,Labuan Amas Selatan Hub,SOC - LM,4:45:00
+Cakung 5 DC,Teluknaga Hub,SOC - LM,1:36:00
+Tegal DC,Pangkah Hub,SOC - LM,1:05:00
+Virtual Rungkut DC,Bluto Hub,SOC - LM,5:27:00
+Jambi DC,Batin XXIV Hub,SOC - LM,4:05:00
+Banjarbaru DC,Laung Tuhup Hub,SOC - LM,18:00:00
+Palembang DC,Ilir Timur II Hub,SOC - LM,0:56:00
+Maros DC,Tallo Hub,SOC - LM,1:00:00
+Kawalu DC,Panjalu Hub,SOC - LM,1:30:00
+Wua-Wua DC,Andoolo Hub,SOC - LM,2:30:00
+Sidoarjo 2 DC,Plumpang Hub,SOC - LM,3:21:00
+Kalawat DC,Tompaso Baru Hub,SOC - LM,5:04:00
+Siborong - Borong DC,Sipirok Hub,SOC - LM,3:10:00
+Pekanbaru DC,Singingi Hilir Hub,SOC - LM,4:21:00
+Jember DC,Bondowoso Hub,SOC - LM,1:45:00
+Cakung 5 DC,Legok 2 Hub,SOC - LM,1:59:00
+Sidoarjo 2 DC,Sidotopo Wetan Hub,SOC - LM,1:10:00
+Cakung 5 DC,Bekasi Timur 3 Hub,SOC - LM,1:07:00
+Abepura DC,Nimbokrang Hub,SOC - LM,3:00:00
+Cirebon 2 DC,Cilimus Hub,SOC - LM,0:50:00
+Cakung 5 DC,Pancoran Mas Hub,SOC - LM,1:30:00
+Balikpapan DC,Long Ikis Hub,SOC - LM,4:00:00
+Siborong - Borong DC,Barumun Tengah Hub,SOC - LM,6:00:00
+Alak DC,Maulafa Hub,SOC - LM,0:40:00
+Cirebon 2 DC,Sumber Hub,SOC - LM,0:40:00
+Banyumas 2 DC,Kedungmenjangan Hub,SOC - LM,1:20:00
+Solo DC,Cepogo Hub,SOC - LM,1:01:00
+Pontianak DC,Belitang Hilir Hub,SOC - LM,7:56:00
+Banyumas DC,Cimanggu 2 Hub,SOC - LM,2:15:00
+Kediri DC,Jombang Hub,SOC - LM,1:32:00
+Tapos DC,Cicantayan Hub,SOC - LM,3:01:00
+Dumai DC,Ujung Batu Hub,SOC - LM,5:18:00
+Tanjung Pandan DC,Tanjung Pandan 2 Hub,SOC - LM,0:30:00
+Lubuk Linggau DC,Tebing Tinggi Hub,SOC - LM,2:44:00
+Cakung 5 DC,Jatiasih 3 Hub,SOC - LM,1:03:00
+Pekanbaru DC,Marpoyan Damai Hub,SOC - LM,1:10:00
+Jambi 2 DC,Jambi Timur Hub,SOC - LM,0:50:00
+Bandung Kopo DC,Soreang Hub,SOC - LM,0:50:00
+Banjarmasin 2 DC,Kelumpang Hilir 2 Hub,SOC - LM,7:31:00
+Bandung Kopo DC,Cugenang Hub,SOC - LM,3:00:00
+Cakung 5 DC,Gunung Putri Hub,SOC - LM,1:45:00
+Cakung 5 DC,Cengkareng 4 Hub,SOC - LM,1:35:00
+Cirebon 2 DC,Karangampel Hub,SOC - LM,1:20:00
+Simboro Dan Kepulauan DC,Aralle Hub,SOC - LM,4:00:00
+Ngawi 2 DC,Kauman Ponorogo Hub,SOC - LM,2:03:00
+Bandung Kopo DC,Cidaun Hub,SOC - LM,7:00:00
+Cinambo DC,Rancaekek Hub,SOC - LM,1:05:00
+Sungai Kakap DC,Sungai Raya Bengkayang Hub,SOC - LM,4:00:00
+Medan DC,Batubara Hub,SOC - LM,2:52:00
+Sidoarjo 2 DC,Paciran Hub,SOC - LM,3:01:00
+Cakung 5 DC,Cimanggis 2 Hub,SOC - LM,1:04:00
+Cinambo DC,Blubur Limbangan Hub,SOC - LM,1:40:00
+Mantikulore DC,Buko Selatan Hub,SOC - LM,20:00:00
+Jambi DC,Tebo Ilir Hub,SOC - LM,5:15:00
+Banjarmasin 2 DC,Angsana Hub,SOC - LM,6:03:00
+Banjarmasin DC,Takisung Hub,SOC - LM,3:00:00
+Palembang DC,Semende Darat Ulu Hub,SOC - LM,9:00:00
+Alak DC,Malaka Tengah Hub,SOC - LM,8:00:00
+Pekanbaru 2 DC,Kempas Hub,SOC - LM,11:01:00
+Palembang DC,Semendawai Timur Hub,SOC - LM,4:48:00
+Palembang DC,Madang Suku 2 Hub,SOC - LM,5:03:00
+Aceh DC,Kota Juang Hub,SOC - LM,7:20:00
+Berbah DC,Tempel Hub,SOC - LM,1:00:00
+Kediri DC,Sumobito Hub,SOC - LM,2:15:00
+Berbah DC,Pedan Hub,SOC - LM,1:45:00
+Talang Kelapa DC,Bayung Lencir Hub,SOC - LM,6:37:00
+Cakung 5 DC,Cakung 4 Hub,SOC - LM,0:24:00
+Berbah DC,Bandongan Hub,SOC - LM,2:11:00
+Percut Sei Tuan DC,Kuala Binjai Barat Hub,SOC - LM,2:13:00
+Semarang DC,Weleri Hub,SOC - LM,1:45:00
+Sidoarjo 2 DC,Lamongan Hub,SOC - LM,2:09:00
+Jambi 2 DC,Mestong Hub,SOC - LM,1:05:00
+Pontianak DC,Sei Ambawang Hub,SOC - LM,0:28:00
+Kalawat DC,Manado Hub,SOC - LM,0:30:00
+Cakung 5 DC,Pondok Aren Hub,SOC - LM,1:30:00
+Abepura DC,Muara Tami Hub,SOC - LM,1:00:00
+Cakung 5 DC,Babelan 4 Hub,SOC - LM,0:52:00
+Siborong - Borong DC,Balige Hub,SOC - LM,1:39:00
+Banjarmasin DC,Banjarmasin Hub,SOC - LM,1:00:00
+Lampung DC,Sumber Jaya Hub,SOC - LM,5:17:00
+Talang Kelapa DC,Rambang Niru Hub,SOC - LM,4:30:00
+Cakung 5 DC,Citeureup Hub,SOC - LM,1:25:00
+Kediri DC,Kepung Hub,SOC - LM,1:25:00
+Sunter DC,Cibatu 2 Hub,SOC - LM,3:06:00
+Balikpapan DC,Sungai Pinang Hub,SOC - LM,5:00:00
+Sunter DC,Citangkil Hub,SOC - LM,3:20:00
+Wolio DC,Wangi-Wangi Selatan Hub,SOC - LM,11:03:00
+Lampung DC,Bandar Mataram Hub,SOC - LM,3:42:00
+Semarang DC,Sidomukti Hub,SOC - LM,1:50:00
+Palembang DC,Cempaka Hub,SOC - LM,3:55:00
+Lubuk Linggau DC,Suku Tengah Hub,SOC - LM,1:36:00
+Badung DC,Abiansemal Hub,SOC - LM,0:45:00
+Berbah DC,Magelang Tengah Hub,SOC - LM,1:10:00
+Cakung 5 DC,Grogol Petamburan 4 Hub,SOC - LM,1:11:00
+Solo DC,Kebakkramat Hub,SOC - LM,1:15:00
+Palangka Raya DC,Kota Besi Hub,SOC - LM,7:00:00
+Cakung DC,Cibarusah Hub,SOC - LM,2:35:00
+Banyumas DC,Salem Hub,SOC - LM,3:00:00
+Banjarmasin DC,Mandastana 2 Hub,SOC - LM,1:30:00
+Maros DC,Wara Hub,SOC - LM,9:55:00
+Siborong - Borong DC,Dolok Sanggul Hub,SOC - LM,1:40:00
+Jember DC,Wringin Hub,SOC - LM,2:30:00
+Makassar DC,Benteng Hub,SOC - LM,16:02:00
+Cakung 5 DC,Cipanas Lebak Hub,SOC - LM,3:43:00
+Palembang DC,Sematang Borang Hub,SOC - LM,1:01:00
+Mantikulore DC,Dondo Hub,SOC - LM,11:00:00
+Palangka Raya DC,Katingan Hilir 2 Hub,SOC - LM,3:20:00
+Virtual Cirebon DC,Bantarujeg Hub,SOC - LM,2:40:00
+Sidoarjo 2 DC,Pasuruan Hub,SOC - LM,1:50:00
+Lampung DC,Terbanggi Besar 3 Hub,SOC - LM,2:21:00
+Cakung 5 DC,Tapos 2 Hub,SOC - LM,1:18:00
+Sunter DC,Cibaliung Hub,SOC - LM,5:54:00
+Benowo DC,Mulyorejo 2 Hub,SOC - LM,1:02:00
+Banjarbaru DC,Awayan Hub,SOC - LM,6:07:00
+Semarang DC,Pedurungan 9 Hub,SOC - LM,2:00:00
+Semarang 4 DC,Sayung Hub,SOC - LM,3:04:00
+Sunter DC,Cipanas Lebak Hub,SOC - LM,4:45:00
+Pontianak 2 DC,Batu Ampar 2 Hub,SOC - LM,13:45:00
+Banjarmasin DC,Landasan Ulin Hub,SOC - LM,1:00:00
+Badung DC,Selemadeg Hub,SOC - LM,1:30:00
+Badung DC,Baturiti Hub,SOC - LM,0:35:00
+Siborong - Borong DC,Saipar Dolok Hub,SOC - LM,3:40:00
+Ngawi DC,Ngraho Hub,SOC - LM,1:22:00
+Percut Sei Tuan DC,Percut Sei Tuan 3 Hub,SOC - LM,1:00:00
+Sungai Kakap DC,Teluk Keramat Hub,SOC - LM,9:09:00
+Lampung DC,Pakuan Ratu Hub,SOC - LM,7:40:00
+Maros DC,Panca Rijang Hub,SOC - LM,6:00:00
+Jember DC,Yosowilangun Hub,SOC - LM,2:15:00
+Sungai Kakap DC,Sungai Kakap Hub,SOC - LM,0:30:00
+Palangka Raya DC,Telawang Hub,SOC - LM,10:00:00
+Cakung 5 DC,Cimanggu Hub,SOC - LM,5:42:00
+Cakung 5 DC,Cikarang Selatan Hub,SOC - LM,1:05:00
+Bandung Kopo DC,Takokak Hub,SOC - LM,4:46:00
+Abepura DC,Arso 2 Hub,SOC - LM,1:15:00
+Malang DC,Dampit Hub,SOC - LM,1:46:00
+Pangkal Pinang DC,Lubuk Besar 2 Hub,SOC - LM,2:32:00
+Palangka Raya DC,Sukamara Hub,SOC - LM,17:38:00
+Pontianak DC,Bunut Hulu 3 Hub,SOC - LM,14:55:00
+Lubuk Linggau DC,Ulu Rawas Hub,SOC - LM,4:20:00
+Cirebon 2 DC,Nusaherang Hub,SOC - LM,1:24:00
+Cakung 5 DC,Puloampel Hub,SOC - LM,3:54:00
+Banjarmasin DC,Pulau Laut Utara Hub,SOC - LM,9:18:00
+Berbah DC,Seyegan Hub,SOC - LM,1:10:00
+Cakung 5 DC,Ciampea 2 Hub,SOC - LM,2:00:00
+Cakung 5 DC,Ciomas Hub,SOC - LM,1:40:00
+Cinambo DC,Pameungpeuk Hub,SOC - LM,6:00:00
+Mantikulore DC,Bumi Raya Hub,SOC - LM,13:00:00
+Cakung DC,Medan Satria 2 Hub,SOC - LM,1:15:00
+Sunter DC,Maniis Hub,SOC - LM,4:00:00
+Pekanbaru 2 DC,Kateman Hub,SOC - LM,18:00:00
+Kediri DC,Mojo Hub,SOC - LM,0:40:00
+Solo DC,Sawit Hub,SOC - LM,0:40:00
+Cakung DC,Makasar Hub,SOC - LM,1:10:00
+Ketapang Kalbar DC,Singkup Hub,SOC - LM,6:30:00
+Kudus DC,Wirosari Hub,SOC - LM,2:36:00
+Cinambo DC,Cikajang Hub,SOC - LM,3:00:00
+Mataram DC,Sembalun Hub,SOC - LM,3:30:00
+Tasikmalaya DC,Cibalong Hub,SOC - LM,1:20:00
+Banjarbaru DC,Simpang Empat Banjar Hub,SOC - LM,2:00:00
+Banjarbaru DC,Binuang Hub,SOC - LM,2:30:00
+Tasikmalaya DC,Karangnunggal Hub,SOC - LM,1:50:00
+Padang DC,Silungkang Hub,SOC - LM,4:50:00
+Cakung 5 DC,Pagedangan 2 Hub,SOC - LM,2:17:00
+Sorong Utara DC,Teminabuan Hub,SOC - LM,4:30:00
+Batam DC,Batu Aji Hub,SOC - LM,1:13:00
+Ngawi DC,Nganjuk Hub,SOC - LM,1:40:00
+Cakung 5 DC,Cimarga Hub,SOC - LM,2:54:00
+Pontianak DC,Kembayan Hub,SOC - LM,5:00:00
+Mantikulore DC,Luwuk Hub,SOC - LM,16:30:00
+Lubuk Linggau DC,Pendopo Hub,SOC - LM,3:40:00
+Siborong - Borong DC,Pollung Hub,SOC - LM,1:51:00
+Ngawi 2 DC,Punung Hub,SOC - LM,5:03:00
+Cirebon 2 DC,Maja Hub,SOC - LM,1:40:00
+Maros DC,Dua Boccoe Hub,SOC - LM,6:00:00
+Sidoarjo 2 DC,Sidoarjo Hub,SOC - LM,0:20:00
+Jember DC,Ambulu Hub,SOC - LM,1:25:00
+Pontianak 2 DC,Kubu 2 Hub,SOC - LM,11:20:00
+Tapos DC,Jampang Tengah Hub,SOC - LM,3:30:00
+Ngawi DC,Kertosono Hub,SOC - LM,2:32:00
+Jailolo DC,Oba Utara Hub,SOC - LM,3:40:00
+Pekanbaru 2 DC,Reteh Hub,SOC - LM,18:00:00
+Cakung 5 DC,Sindangresmi Hub,SOC - LM,4:49:00
+Badung DC,Petang Hub,SOC - LM,0:45:00
+Makassar DC,Pajukukang Hub,SOC - LM,5:00:00
+Balikpapan DC,Muara Lawa Hub,SOC - LM,11:00:00
+Cinambo DC,Panyileukan Hub,SOC - LM,0:17:00
+Cirebon 2 DC,Jatinangor Hub,SOC - LM,4:00:00
+Medan DC,Na IX-X Hub,SOC - LM,7:00:00
+Tanjung Redeb DC,Sambaliung Hub,SOC - LM,0:30:00
+Labuhan Bajo DC,Lembor Hub,SOC - LM,2:06:00
+Jambi DC,Muara Papalik Hub,SOC - LM,4:00:00
+Virtual Cirebon DC,Karangampel Hub,SOC - LM,1:10:00
+Cakung 5 DC,Cipondoh 3 Hub,SOC - LM,1:39:00
+Benowo DC,Semanding Hub,SOC - LM,3:00:00
+Mantikulore DC,Pamona Puselemba Hub,SOC - LM,8:46:00
+Palembang DC,Lubai Ulu 3 Hub,SOC - LM,4:58:00
+Pekanbaru DC,Tandun Hub,SOC - LM,5:01:00
+Solo DC,Jebres 2 Hub,SOC - LM,0:55:00
+Kediri DC,Mojowarno Jombang Hub,SOC - LM,1:31:00
+Kebumen DC,Ayah Hub,SOC - LM,2:30:00
+Sidoarjo 2 DC,Sepulu Hub,SOC - LM,3:15:00
+Cakung 5 DC,Karawang Barat Hub,SOC - LM,2:31:00
+Banjarmasin DC,Pulau Laut Timur Hub,SOC - LM,9:00:00
+Pontianak 2 DC,Kubu Raya 2 Hub,SOC - LM,3:48:00
+Kampung Melayu DC,Selupu Rejang Hub,SOC - LM,2:59:00
+Semarang 4 DC,Weleri Hub,SOC - LM,1:43:00
+Kudus DC,Tlogowungu Hub,SOC - LM,1:16:00
+Cakung 5 DC,Pancoran 3 Hub,SOC - LM,1:04:00
+Labuhan Bajo DC,Aesesa Hub,SOC - LM,11:00:00
+Banjarbaru DC,Tapin Selatan Hub,SOC - LM,2:30:00
+Sidoarjo 2 DC,Karangploso Hub,SOC - LM,1:46:00
+Palembang DC,Simpang Hub,SOC - LM,7:37:00
+Palangka Raya DC,Balai Riam Hub,SOC - LM,14:00:00
+Labuhan Bajo DC,Ende Tengah Hub,SOC - LM,11:00:00
+Tanjung Redeb DC,Talisayan Hub,SOC - LM,4:30:00
+Cirebon 2 DC,Majalengka 2 Hub,SOC - LM,1:42:00
+Semarang 4 DC,Jumo Hub,SOC - LM,2:39:00
+Kampung Melayu DC,Talang Empat Hub,SOC - LM,1:30:00
+Semarang 4 DC,Purwodadi Hub,SOC - LM,3:30:00
+Virtual Rungkut DC,Kalianget Hub,SOC - LM,6:24:00
