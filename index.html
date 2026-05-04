@@ -233,17 +233,18 @@ function buildMapUrl(dcName, stopNames){
 // ── CSV ───────────────────────────────────────────────────────────────────────
 async function fetchCSV(url){const r=await fetch(url+'?t='+Date.now());if(!r.ok)throw new Error('HTTP '+r.status);return r.text();}
 function splitLine(line){const o=[];let c='',q=false;for(const ch of line){if(ch==='"')q=!q;else if(ch===','&&!q){o.push(c.trim());c='';}else c+=ch;}o.push(c.trim());return o;}
+function cleanHeader(csv){return csv.replace(/\r\n/g,'\n').replace(/\r/g,'\n');}
 
 function parseAdo(csv){
-  const ls=csv.trim().split(/\r?\n/);
-  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').toLowerCase());
+  const ls=cleanHeader(csv).trim().split('\n');
+  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').replace(/\r/g,'').toLowerCase());
   const di=h.indexOf('dc'),li=h.indexOf('lm'),ai=h.indexOf('ado'),ti=h.indexOf('type'),ci=h.indexOf('city');
   if(di<0||li<0||ai<0)throw new Error('Missing: dc/lm/ado');
   return ls.slice(1).map(l=>{const c=splitLine(l);const a=parseInt(c[ai]);if(!c[di]||!c[li]||isNaN(a)||a<0)return null;return{dc:c[di],lm:c[li],ado:a,city:ci>=0?c[ci]:'',type:ti>=0?c[ti]:'Multi'};}).filter(Boolean);
 }
 function parseTT(csv){
-  const ls=csv.trim().split(/\r?\n/);
-  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').toLowerCase());
+  const ls=cleanHeader(csv).trim().split('\n');
+  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').replace(/\r/g,'').toLowerCase());
   const oi=h.indexOf('origin_station'),di=h.indexOf('dest_station');
   const fi=h.findIndex(x=>x.includes('duration_final'));
   if(oi<0||di<0||fi<0)throw new Error('Missing TT columns');
@@ -252,8 +253,8 @@ function parseTT(csv){
   return out;
 }
 function parseCO(csv){
-  const ls=csv.trim().split(/\r?\n/);
-  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').toLowerCase());
+  const ls=cleanHeader(csv).trim().split('\n');
+  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').replace(/\r/g,'').toLowerCase());
   const ni=h.findIndex(x=>x.includes('lm_station')||x.includes('lm station'));
   const s1=h.findIndex(x=>x.includes('1trip')||x==='last_1trip');
   const sm=h.findIndex(x=>x.includes('multi')||x==='last_multi');
@@ -263,8 +264,8 @@ function parseCO(csv){
   return out;
 }
 function parseCoords(csv){
-  const ls=csv.trim().split(/\r?\n/);
-  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').toLowerCase());
+  const ls=cleanHeader(csv).trim().split('\n');
+  const h=ls[0].split(',').map(x=>x.trim().replace(/"/g,'').replace(/\r/g,'').toLowerCase());
   const ni=h.indexOf('name'),loi=h.indexOf('longitude'),lai=h.indexOf('latitude');
   if(ni<0||loi<0||lai<0)throw new Error('Missing coords columns');
   const out={};
