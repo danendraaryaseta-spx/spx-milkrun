@@ -249,7 +249,18 @@ function parseTT(csv){
   const fi=h.findIndex(x=>x.includes('duration_final'));
   if(oi<0||di<0||fi<0)throw new Error('Missing TT columns');
   const out={};
-  ls.slice(1).forEach(l=>{const c=splitLine(l);const o=c[oi],d=c[di],dur=c[fi];if(!o||!d||!dur)return;const p=dur.split(':').map(Number);if(p.some(isNaN))return;const m=p[0]*60+p[1]+Math.round((p[2]||0)/60);const k=o+'|||'+d;if(!out[k]||out[k]>m)out[k]=m;});
+  const setMin=(k,m)=>{if(!out[k]||out[k]>m)out[k]=m;};
+  ls.slice(1).forEach(l=>{
+    const c=splitLine(l);
+    const o=c[oi]?.trim(),d=c[di]?.trim(),dur=c[fi]?.trim();
+    if(!o||!d||!dur||dur==="#NUM!")return;
+    const p=dur.split(':').map(Number);
+    if(p.length<2||p.some(isNaN))return;
+    const m=p[0]*60+p[1]+Math.round((p[2]||0)/60);
+    if(m<=0)return;
+    setMin(o+'|||'+d, m);
+    setMin(d+'|||'+o, m);
+  });
   return out;
 }
 function parseCO(csv){
