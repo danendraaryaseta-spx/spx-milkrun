@@ -129,6 +129,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <div class="rule-item"><b>Min utz/slot</b> — Jabo/Jawa ≥ 75% · Non-Jawa ≥ 70%</div>
     <div class="rule-item"><b>Utz floor</b> — No route &lt;60% Jawa · &lt;50% Non-Jawa</div>
     <div class="rule-item"><b>Map</b> — Google Maps route link when coords available</div>
+    <div class="rule-item"><b>Sequential only</b> — stops sorted nearest→farthest from DC · no backtracking</div>
   </div>
 </div>
 
@@ -359,19 +360,32 @@ function run(){
   let suggestions=[];
   const unresolved=[];
 
+  // Sequential check: stops must be in progressive distance order from DC
+  // (no stop should be closer to DC than the previous stop — avoids backtracking)
+  function isSequential(combo){
+    for(let i=1;i<combo.length;i++){
+      if(combo[i].tt<combo[i-1].tt) return false;
+    }
+    return true;
+  }
+
   for(const[city,group] of Object.entries(cityGroups)){
     const withTT=group.filter(r=>r.tt!==null).sort((a,b)=>a.tt-b.tt);
     const noTT=group.filter(r=>r.tt===null);
     let cityHasSugg=false;
     for(let sz=2;sz<=Math.min(maxS,withTT.length);sz++){
       for(const combo of combs(withTT,sz)){
-        const total=combo.reduce((s,r)=>s+r.ado,0);
+        // Sort combo by TT from DC before sequential check
+        const sorted=combo.slice().sort((a,b)=>a.tt-b.tt);
+        // Reject if not sequential (would require backtracking)
+        if(!isSequential(sorted))continue;
+        const total=sorted.reduce((s,r)=>s+r.ado,0);
         if(total<minAdo||total>rules.maxAdo)continue;
         const slots=calcSlots(total,tgtUtz);
         const utz=calcUtz(total,slots);
         if(utz<rules.minFloor)continue;
-        const tt=combo.reduce((s,r)=>s+r.tt,0);
-        suggestions.push({stops:combo.map(r=>r.lm),ados:combo.map(r=>r.ado),cutoffs:combo.map(r=>r.cutoff),total,city,sz,slots,utz:Math.round(utz*100),tt,score:Math.abs(utz*100-tgtUtz*100)});
+        const tt=sorted.reduce((s,r)=>s+r.tt,0);
+        suggestions.push({stops:sorted.map(r=>r.lm),ados:sorted.map(r=>r.ado),cutoffs:sorted.map(r=>r.cutoff),total,city,sz,slots,utz:Math.round(utz*100),tt,score:Math.abs(utz*100-tgtUtz*100)});
         cityHasSugg=true;
       }
     }
