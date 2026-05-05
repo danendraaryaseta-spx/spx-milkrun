@@ -129,7 +129,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
     <div class="rule-item"><b>Min utz/slot</b> — Jabo/Jawa ≥ 75% · Non-Jawa ≥ 70%</div>
     <div class="rule-item"><b>Utz floor</b> — No route &lt;60% Jawa · &lt;50% Non-Jawa</div>
     <div class="rule-item"><b>Map</b> — Google Maps route link when coords available</div>
-    <div class="rule-item"><b>Sequential only</b> — stops sorted nearest→farthest from DC · no backtracking</div>
+    <div class="rule-item"><b>No backtracking</b> — corridor check via coordinates · rejects stops in opposite directions</div>
   </div>
 </div>
 
@@ -360,11 +360,31 @@ function run(){
   let suggestions=[];
   const unresolved=[];
 
-  // Sequential check: stops must be in progressive distance order from DC
-  // (no stop should be closer to DC than the previous stop — avoids backtracking)
-  function isSequential(combo){
-    for(let i=1;i<combo.length;i++){
-      if(combo[i].tt<combo[i-1].tt) return false;
+  // Haversine distance between two coordinate pairs
+  function hdist(c1,c2){
+    const R=6371,dLat=(c2.lat-c1.lat)*Math.PI/180,dLon=(c2.lon-c1.lon)*Math.PI/180;
+    const a=Math.sin(dLat/2)**2+Math.cos(c1.lat*Math.PI/180)*Math.cos(c2.lat*Math.PI/180)*Math.sin(dLon/2)**2;
+    return R*2*Math.asin(Math.sqrt(a));
+  }
+
+  // Corridor check: for each consecutive pair of stops (sorted by dist from DC),
+  // the direct stop-to-stop distance should not be much greater than the
+  // difference in their distances from DC. If ratio > threshold, they're in
+  // different directions and require backtracking.
+  const BACKTRACK_THRESHOLD = 1.8;
+  function isCorridorCombo(sortedStops, dcCoord){
+    if(!dcCoord) return true; // no coords available, skip check
+    for(let i=0;i<sortedStops.length-1;i++){
+      const c1=COORDS[sortedStops[i].lm];
+      const c2=COORDS[sortedStops[i+1].lm];
+      if(!c1||!c2) continue; // no coords for this stop, skip
+      const dAB=hdist(c1,c2);
+      const dDC1=hdist(dcCoord,c1);
+      const dDC2=hdist(dcCoord,c2);
+      const diff=Math.abs(dDC2-dDC1);
+      if(diff<1) continue; // stops very close to each other, skip
+      const ratio=dAB/diff;
+      if(ratio>BACKTRACK_THRESHOLD) return false; // backtracking detected
     }
     return true;
   }
@@ -372,13 +392,18 @@ function run(){
   for(const[city,group] of Object.entries(cityGroups)){
     const withTT=group.filter(r=>r.tt!==null).sort((a,b)=>a.tt-b.tt);
     const noTT=group.filter(r=>r.tt===null);
+    const dcCoord=COORDS[dc]||null;
     let cityHasSugg=false;
     for(let sz=2;sz<=Math.min(maxS,withTT.length);sz++){
       for(const combo of combs(withTT,sz)){
-        // Sort combo by TT from DC before sequential check
-        const sorted=combo.slice().sort((a,b)=>a.tt-b.tt);
-        // Reject if not sequential (would require backtracking)
-        if(!isSequential(sorted))continue;
+        // Sort stops by distance from DC (nearest first) using coords if available, else TT
+        const sorted=combo.slice().sort((a,b)=>{
+          const ca=COORDS[a.lm],cb=COORDS[b.lm];
+          if(ca&&cb&&dcCoord) return hdist(dcCoord,ca)-hdist(dcCoord,cb);
+          return a.tt-b.tt;
+        });
+        // Reject combos that require backtracking between stops
+        if(!isCorridorCombo(sorted,dcCoord)) continue;
         const total=sorted.reduce((s,r)=>s+r.ado,0);
         if(total<minAdo||total>rules.maxAdo)continue;
         const slots=calcSlots(total,tgtUtz);
