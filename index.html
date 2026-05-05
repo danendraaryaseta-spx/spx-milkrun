@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SPX Milk Run Route Maker</title>
+<title>SPX Milk Run Suggester</title>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -239,6 +239,17 @@ function stripR(s){return s?s.replace(/\r/g,''):s;}
 function parseAdo(csv){
   const ls=cleanHeader(csv).trim().split('\n');
   const h=ls[0].split(',').map(x=>stripR(x.trim().replace(/"/g,'').toLowerCase()));
+  // Auto-detect headerless file: if first row looks like data (3rd col is a number), assume fixed column order
+  const isHeaderless = !isNaN(parseFloat(h[2]));
+  if(isHeaderless){
+    // No header — assume order: dc, lm, ado, city, type
+    return ls.map(l=>{
+      const c=splitLine(l);
+      const a=parseInt(stripR(c[2]));
+      if(!c[0]||!c[1]||isNaN(a)||a<0)return null;
+      return{dc:stripR(c[0].trim()),lm:stripR(c[1].trim()),ado:a,city:c[3]?stripR(c[3].trim()):'',type:c[4]?stripR(c[4].trim()):'Multi'};
+    }).filter(Boolean);
+  }
   const di=h.indexOf('dc'),li=h.indexOf('lm'),ai=h.indexOf('ado'),ti=h.indexOf('type'),ci=h.indexOf('city');
   if(di<0||li<0||ai<0)throw new Error('Missing: dc/lm/ado');
   return ls.slice(1).map(l=>{const c=splitLine(l);const a=parseInt(c[ai]);if(!c[di]||!c[li]||isNaN(a)||a<0)return null;return{dc:c[di],lm:c[li],ado:a,city:ci>=0?c[ci]:'',type:ti>=0?c[ti]:'Multi'};}).filter(Boolean);
