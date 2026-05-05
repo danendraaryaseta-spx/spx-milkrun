@@ -1,1000 +1,1806 @@
-dc,lm,ado,city,type
-Alak DC,Atambua Kota Hub,843,KAB. BELU,Multi
-Alak DC,Fatuleu Hub,258,KAB. KUPANG,Multi
-Alak DC,Kelapa Lima Hub,3501,KOTA KUPANG,Multi
-Alak DC,Kota Kefamenanu Hub,748,KAB. TIMOR TENGAH UTARA,Multi
-Alak DC,Kota Lama Hub,666,KOTA KUPANG,Multi
-Alak DC,Kupang Timur Hub,1089,KAB. KUPANG,Multi
-Alak DC,Manulai II Hub,1334,KOTA KUPANG,Multi
-Alak DC,Maulafa Hub,1989,KOTA KUPANG,Multi
-Alak DC,Oebobo Hub,2855,KOTA KUPANG,Multi
-Alak DC,Soe Hub,625,KAB. TIMOR TENGAH SELATAN,Multi
-Badung DC,Abiansemal Hub,4306,KAB. BADUNG,Multi
-Badung DC,Banjar Hub,2981,KAB. BULELENG,Multi
-Badung DC,Baturiti Hub,1369,KAB. TABANAN,Multi
-Badung DC,Buleleng Hub,8410,KAB. BULELENG,Multi
-Badung DC,Denpasar Utara Hub,15607,KOTA DENPASAR,Single
-Badung DC,Gerokgak Hub,5086,KAB. BULELENG,Multi
-Badung DC,Kediri Tabanan Hub,7209,KAB. TABANAN,Multi
-Badung DC,Kintamani Hub,2901,KAB. BANGLI,Multi
-Badung DC,Kubutambahan Hub,1837,KAB. BULELENG,Multi
-Badung DC,Kuta Utara Hub,15346,KAB. BADUNG,Single
-Badung DC,Melaya Hub,3242,KAB. JEMBRANA,Multi
-Badung DC,Mendoyo Hub,4530,KAB. JEMBRANA,Multi
-Badung DC,Mengwi Badung Hub,8770,KAB. BADUNG,Multi
-Badung DC,Negara Hub,10137,KAB. JEMBRANA,Multi
-Badung DC,Payangan Hub,1678,KAB. GIANYAR,Multi
-Badung DC,Penebel Hub,1626,KAB. TABANAN,Multi
-Badung DC,Petang Hub,1023,KAB. BADUNG,Multi
-Badung DC,Pupuan Hub,1500,KAB. TABANAN,Multi
-Badung DC,Sawan Hub,2340,KAB. BULELENG,Multi
-Badung DC,Selemadeg Hub,2475,KAB. TABANAN,Multi
-Badung DC,Seririt Hub,3244,KAB. BULELENG,Multi
-Badung DC,Sukasada Hub,4153,KAB. BULELENG,Multi
-Badung DC,Tabanan Hub,7400,KAB. TABANAN,Multi
-Badung DC,Tejakula Hub,1953,KAB. BULELENG,Multi
-Banyumas 2 DC,Adipala Hub,1044,KAB. CILACAP,Multi
-Banyumas 2 DC,Ajibarang Hub,707,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Alian Hub,624,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Ayah Hub,952,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Banjarnegara Hub,707,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Banjarsari Hub,1696,KAB. CIAMIS,Multi
-Banyumas 2 DC,Bantarkawung Hub,149,KAB. BREBES,Multi
-Banyumas 2 DC,Bantarsari Hub,1945,KAB. CILACAP,Multi
-Banyumas 2 DC,Banyumas Hub,472,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Bawang Hub,253,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Belik Hub,391,KAB. PEMALANG,Multi
-Banyumas 2 DC,Bobotsari Hub,1038,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Bojongsari Hub,638,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Bumiayu Hub,1162,KAB. BREBES,Multi
-Banyumas 2 DC,Cijulang Hub,815,KAB. PANGANDARAN,Multi
-Banyumas 2 DC,Cilacap Hub,2004,KAB. CILACAP,Multi
-Banyumas 2 DC,Cilacap Utara 2 Hub,233,KAB. CILACAP,Multi
-Banyumas 2 DC,Cilacap Utara Hub,362,KAB. CILACAP,Multi
-Banyumas 2 DC,Cilongok Hub,615,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Dayeuhluhur Hub,296,KAB. CILACAP,Multi
-Banyumas 2 DC,Dukuhturi Hub,845,KAB. BREBES,Multi
-Banyumas 2 DC,Gombong Hub,1275,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Gumelar 2 Hub,46,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Kalibagor Hub,1602,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Kalibening Hub,168,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Kaligondang Hub,885,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Kalipucang Hub,1086,KAB. PANGANDARAN,Multi
-Banyumas 2 DC,Kaliwiro Hub,1154,KAB. WONOSOBO,Multi
-Banyumas 2 DC,Karanglewas Hub,313,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Karangmoncol Hub,564,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Kebumen Hub,1924,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Kedung Banteng Hub,235,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Kedungmenjangan Hub,574,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Kejobong Hub,750,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Kembaran Hub,1202,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Kesugihan Hub,1535,KAB. CILACAP,Multi
-Banyumas 2 DC,Kota Banjar Hub,3004,KOTA BANJAR,Multi
-Banyumas 2 DC,Kroya Hub,1748,KAB. CILACAP,Multi
-Banyumas 2 DC,Lumbir Hub,136,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Madukara Hub,447,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Majenang Hub,2064,KAB. CILACAP,Multi
-Banyumas 2 DC,Mandiraja Hub,701,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Mrebet Hub,355,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Nusawungu Hub,952,KAB. CILACAP,Multi
-Banyumas 2 DC,Padamara Hub,974,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Paguyangan Hub,766,KAB. BREBES,Multi
-Banyumas 2 DC,Pangandaran Hub,2273,KAB. PANGANDARAN,Multi
-Banyumas 2 DC,Paninggaran Hub,101,KAB. PEKALONGAN,Multi
-Banyumas 2 DC,Patikraja Hub,949,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Pejagoan Hub,679,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Petanahan Hub,905,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Prembun Hub,1727,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Punggelan Hub,284,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Purbalingga Hub,736,KAB. PURBALINGGA,Multi
-Banyumas 2 DC,Purwokerto Barat Hub,906,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Purwokerto Hub,1923,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Purwokerto Timur Hub,722,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Purwokerto Utara Hub,608,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Rowokele Hub,260,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Selomerto Hub,482,KAB. WONOSOBO,Multi
-Banyumas 2 DC,Sidareja Hub,1325,KAB. CILACAP,Multi
-Banyumas 2 DC,Somagede Hub,906,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Sukoharjo Wonosobo Hub,390,KAB. WONOSOBO,Multi
-Banyumas 2 DC,Sumpiuh Hub,1310,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Wanadadi Hub,302,KAB. BANJARNEGARA,Multi
-Banyumas 2 DC,Watukumpul Hub,215,KAB. PEMALANG,Multi
-Banyumas DC,Adipala Hub,5927,KAB. CILACAP,Multi
-Banyumas DC,Adiwerna 2 Hub,2,KAB. TEGAL,Multi
-Banyumas DC,Ajibarang Hub,5934,KAB. BANYUMAS,Multi
-Banyumas DC,Bantarkawung Hub,2207,KAB. BREBES,Multi
-Banyumas DC,Bantarsari Hub,10248,KAB. CILACAP,Multi
-Banyumas DC,Banyumas Hub,3386,KAB. BANYUMAS,Multi
-Banyumas DC,Baturaden Hub,2822,KAB. BANYUMAS,Multi
-Banyumas DC,Binangun Kab. Cilacap Hub,3019,KAB. CILACAP,Multi
-Banyumas DC,Bumiayu Hub,4426,KAB. BREBES,Multi
-Banyumas DC,Cilacap Hub,9057,KAB. CILACAP,Multi
-Banyumas DC,Cilacap Utara 2 Hub,1802,KAB. CILACAP,Multi
-Banyumas DC,Cilacap Utara Hub,2834,KAB. CILACAP,Multi
-Banyumas DC,Cilongok Hub,4504,KAB. BANYUMAS,Multi
-Banyumas DC,Cimanggu 2 Hub,4724,KAB. CILACAP,Multi
-Banyumas DC,Dayeuhluhur Hub,1369,KAB. CILACAP,Multi
-Banyumas DC,Dukuhturi Hub,5038,KAB. BREBES,Multi
-Banyumas DC,Gumelar 2 Hub,557,KAB. BANYUMAS,Multi
-Banyumas DC,Gumelar Hub,818,KAB. BANYUMAS,Multi
-Banyumas DC,Jatilawang Hub,5028,KAB. BANYUMAS,Multi
-Banyumas DC,Jeruklegi Hub,2877,KAB. CILACAP,Multi
-Banyumas DC,Kalibagor Hub,7272,KAB. BANYUMAS,Multi
-Banyumas DC,Karanglewas Hub,2902,KAB. BANYUMAS,Multi
-Banyumas DC,Kedung Banteng Hub,2477,KAB. BANYUMAS,Multi
-Banyumas DC,Kedungmenjangan Hub,2,KAB. PURBALINGGA,Multi
-Banyumas DC,Kembaran Hub,8015,KAB. BANYUMAS,Multi
-Banyumas DC,Kesugihan Hub,6347,KAB. CILACAP,Multi
-Banyumas DC,Kroya Hub,7285,KAB. CILACAP,Multi
-Banyumas DC,Lumbir Hub,1281,KAB. BANYUMAS,Multi
-Banyumas DC,MH Bantarsari Hub,606,KAB. CILACAP,Multi
-Banyumas DC,Majenang Hub,5268,KAB. CILACAP,Multi
-Banyumas DC,Moga Hub,2,KAB. PEMALANG,Multi
-Banyumas DC,Mojotengah Hub,4,KAB. WONOSOBO,Multi
-Banyumas DC,Nusawungu Hub,3811,KAB. CILACAP,Multi
-Banyumas DC,Paguyangan Hub,3395,KAB. BREBES,Multi
-Banyumas DC,Patikraja Hub,5380,KAB. BANYUMAS,Multi
-Banyumas DC,Patimuan Hub,5233,KAB. CILACAP,Multi
-Banyumas DC,Purwojati Hub,854,KAB. BANYUMAS,Multi
-Banyumas DC,Purwokerto Barat Hub,2885,KAB. BANYUMAS,Multi
-Banyumas DC,Purwokerto Hub,4865,KAB. BANYUMAS,Multi
-Banyumas DC,Purwokerto Timur Hub,3965,KAB. BANYUMAS,Multi
-Banyumas DC,Purwokerto Utara Hub,4542,KAB. BANYUMAS,Multi
-Banyumas DC,Salem Hub,2045,KAB. BREBES,Multi
-Banyumas DC,Sidareja Hub,4869,KAB. CILACAP,Multi
-Banyumas DC,Somagede Hub,3569,KAB. BANYUMAS,Multi
-Banyumas DC,Sumpiuh Hub,7408,KAB. BANYUMAS,Multi
-Banyumas DC,Wanareja Hub,3292,KAB. CILACAP,Multi
-Banyumas DC,Watumalang Hub,4,KAB. WONOSOBO,Multi
-Banyumas DC,Wonosobo 4 Hub,2,KAB. WONOSOBO,Multi
-Berbah DC,Bandongan Hub,5969,KAB. MAGELANG,Multi
-Berbah DC,Banguntapan 2 Hub,5119,KAB. BANTUL,Multi
-Berbah DC,Banguntapan Hub,4581,KAB. BANTUL,Multi
-Berbah DC,Bantul Hub,9916,KAB. BANTUL,Multi
-Berbah DC,Borobudur Hub,6544,KAB. MAGELANG,Multi
-Berbah DC,Delanggu Hub,7202,KAB. KLATEN,Multi
-Berbah DC,Depok 2 Hub,7312,KAB. SLEMAN,Multi
-Berbah DC,Depok 3 Hub,5591,KAB. SLEMAN,Multi
-Berbah DC,Depok Hub,6885,KAB. SLEMAN,Multi
-Berbah DC,Dlingo Hub,1764,KAB. BANTUL,Multi
-Berbah DC,Gamping 3 Hub,3439,KAB. SLEMAN,Multi
-Berbah DC,Gamping Hub,5464,KAB. SLEMAN,Multi
-Berbah DC,Giriwoyo Hub,1372,KAB. WONOGIRI,Multi
-Berbah DC,Godean Hub,6241,KAB. SLEMAN,Multi
-Berbah DC,Gondokusuman Hub,3419,KOTA YOGYAKARTA,Multi
-Berbah DC,Grabag Magelang Hub,3814,KAB. MAGELANG,Multi
-Berbah DC,Imogiri Hub,5393,KAB. BANTUL,Multi
-Berbah DC,Jetis 2 Hub,4702,KAB. BANTUL,Multi
-Berbah DC,Jogonalan Hub,7196,KAB. KLATEN,Multi
-Berbah DC,Kasihan 2 Hub,2719,KOTA YOGYAKARTA,Multi
-Berbah DC,Kasihan Hub,5361,KAB. BANTUL,Multi
-Berbah DC,Klaten Hub,6733,KAB. KLATEN,Multi
-Berbah DC,Klaten Tengah Hub,6408,KAB. KLATEN,Multi
-Berbah DC,Kokap Hub,2738,KAB. KULON PROGO,Multi
-Berbah DC,Kulon Progo Hub,4712,KAB. KULON PROGO,Multi
-Berbah DC,Magelang Hub,6822,KAB. MAGELANG,Multi
-Berbah DC,Magelang Tengah Hub,7581,KOTA MAGELANG,Multi
-Berbah DC,Manisrenggo Hub,6645,KAB. KLATEN,Multi
-Berbah DC,Mantrijeron Hub,3763,KOTA YOGYAKARTA,Multi
-Berbah DC,Mergangsan Hub,3550,KOTA YOGYAKARTA,Multi
-Berbah DC,Mertoyudan Hub,7068,KAB. MAGELANG,Multi
-Berbah DC,Moyudan Hub,3910,KAB. SLEMAN,Multi
-Berbah DC,Muntilan Hub,5943,KAB. MAGELANG,Multi
-Berbah DC,Nanggulan Hub,2106,KAB. KULON PROGO,Multi
-Berbah DC,Ngaglik 3 Hub,4693,KAB. SLEMAN,Multi
-Berbah DC,Ngaglik Hub,4548,KAB. SLEMAN,Multi
-Berbah DC,Ngemplak Hub,6073,KAB. SLEMAN,Multi
-Berbah DC,Pakem Hub,4145,KAB. SLEMAN,Multi
-Berbah DC,Pakis Hub,4587,KAB. MAGELANG,Multi
-Berbah DC,Paliyan Hub,3529,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Pandeyan Hub,4067,KOTA YOGYAKARTA,Multi
-Berbah DC,Pedan Hub,5136,KAB. KLATEN,Multi
-Berbah DC,Piyungan Hub,5789,KAB. BANTUL,Multi
-Berbah DC,Playen Hub,6120,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Pracimantoro Hub,2269,KAB. WONOGIRI,Multi
-Berbah DC,Salam Hub,5437,KAB. MAGELANG,Multi
-Berbah DC,Salaman Hub,7256,KAB. MAGELANG,Multi
-Berbah DC,Semanu Hub,3865,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Semin Hub,6698,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Sentolo 2 Hub,2268,KAB. KULON PROGO,Multi
-Berbah DC,Sentolo Hub,3500,KAB. KULON PROGO,Multi
-Berbah DC,Sewon Hub,7916,KAB. BANTUL,Multi
-Berbah DC,Seyegan Hub,4630,KAB. SLEMAN,Multi
-Berbah DC,Sinduharjo Hub,4644,KAB. SLEMAN,Multi
-Berbah DC,Sleman Hub,8529,KAB. SLEMAN,Multi
-Berbah DC,Tegalrejo Hub,4819,KOTA YOGYAKARTA,Multi
-Berbah DC,Tempel Hub,5616,KAB. SLEMAN,Multi
-Berbah DC,Tepus Hub,3415,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Tirtomartani Hub,7388,KAB. SLEMAN,Multi
-Berbah DC,Triharjo Hub,2692,KAB. KULON PROGO,Multi
-Berbah DC,Trucuk Hub,6388,KAB. KLATEN,Multi
-Berbah DC,Umbulharjo Hub,4379,KOTA YOGYAKARTA,Multi
-Berbah DC,Wonosari Hub,4806,KAB. GUNUNG KIDUL,Multi
-Berbah DC,Yogyakarta Hub,3625,KAB. BANTUL,Multi
-Denpasar DC,Abang Hub,4197,KAB. KARANGASEM,Multi
-Denpasar DC,Bangli Hub,4340,KAB. BANGLI,Multi
-Denpasar DC,Banjarangkan Hub,1311,KAB. KLUNGKUNG,Multi
-Denpasar DC,Denpasar Hub,21417,KOTA DENPASAR,Single
-Denpasar DC,Denpasar Selatan 2 Hub,9933,KOTA DENPASAR,Multi
-Denpasar DC,Denpasar Selatan Hub,16145,KOTA DENPASAR,Single
-Denpasar DC,Denpasar Timur Hub,12733,KOTA DENPASAR,Single
-Denpasar DC,Gianyar Hub,8029,KAB. GIANYAR,Multi
-Denpasar DC,Karangasem Hub,7461,KAB. KARANGASEM,Multi
-Denpasar DC,Klungkung Hub,4731,KAB. KLUNGKUNG,Multi
-Denpasar DC,Kuta Hub,8029,KAB. BADUNG,Multi
-Denpasar DC,Kuta Selatan 5 Hub,5380,KAB. BADUNG,Multi
-Denpasar DC,Kutuh Hub,3610,KAB. BADUNG,Multi
-Denpasar DC,Nusapenida Hub,2015,KAB. KLUNGKUNG,Multi
-Denpasar DC,Pecatu Hub,3710,KAB. BADUNG,Multi
-Denpasar DC,Selat Bali Hub,4084,KAB. KARANGASEM,Multi
-Denpasar DC,Sukawati Hub,6666,KAB. GIANYAR,Multi
-Denpasar DC,Tampak Siring Hub,2013,KAB. GIANYAR,Multi
-Denpasar DC,Tegallalang 2 Hub,2123,KAB. GIANYAR,Multi
-Denpasar DC,Tegallalang Hub,3048,KAB. GIANYAR,Multi
-Denpasar DC,Uluwatu Hub,7805,KAB. BADUNG,Multi
-Kebumen DC,Adimulyo Hub,5484,KAB. KEBUMEN,Multi
-Kebumen DC,Alian Hub,3033,KAB. KEBUMEN,Multi
-Kebumen DC,Ayah Hub,4674,KAB. KEBUMEN,Multi
-Kebumen DC,Bagelen Hub,3078,KAB. PURWOREJO,Multi
-Kebumen DC,Bruno Hub,1721,KAB. PURWOREJO,Multi
-Kebumen DC,Gombong Hub,7174,KAB. KEBUMEN,Multi
-Kebumen DC,Grabag Hub,3496,KAB. PURWOREJO,Multi
-Kebumen DC,Gunungpuyuh Hub,2,KOTA SUKABUMI,Multi
-Kebumen DC,Jebres Hub,2,KOTA SURAKARTA (SOLO),Multi
-Kebumen DC,Kaliwiro Hub,4254,KAB. WONOSOBO,Multi
-Kebumen DC,Karangsambung Hub,3807,KAB. KEBUMEN,Multi
-Kebumen DC,Kebumen Hub,9350,KAB. KEBUMEN,Multi
-Kebumen DC,Kemiri Hub,4261,KAB. PURWOREJO,Multi
-Kebumen DC,Kutoarjo Hub,4667,KAB. PURWOREJO,Multi
-Kebumen DC,Loano Hub,4908,KAB. PURWOREJO,Multi
-Kebumen DC,Pasar Minggu Hub,4,KOTA JAKARTA SELATAN,Multi
-Kebumen DC,Pejagoan Hub,4566,KAB. KEBUMEN,Multi
-Kebumen DC,Petanahan Hub,4744,KAB. KEBUMEN,Multi
-Kebumen DC,Prembun Hub,8201,KAB. KEBUMEN,Multi
-Kebumen DC,Purworejo Hub,6450,KAB. PURWOREJO,Multi
-Kebumen DC,Rowokele Hub,1635,KAB. KEBUMEN,Multi
-Kudus DC,Bangkalan Kota Hub,2,KAB. BANGKALAN,Multi
-Kudus DC,Bangsri Hub,5252,KAB. JEPARA,Multi
-Kudus DC,Blora Hub,5041,KAB. BLORA,Multi
-Kudus DC,Cikarang Utara 2 Hub,1,KAB. BEKASI,Multi
-Kudus DC,Dawe Hub,3949,KAB. KUDUS,Multi
-Kudus DC,Gabus Hub,4279,KAB. PATI,Multi
-Kudus DC,Garum Hub,2,KAB. BLITAR,Multi
-Kudus DC,Gebog Hub,8250,KAB. KUDUS,Multi
-Kudus DC,Geyer Hub,1629,KAB. GROBOGAN,Multi
-Kudus DC,Godong Hub,3784,KAB. GROBOGAN,Multi
-Kudus DC,Grobogan Hub,4301,KAB. GROBOGAN,Multi
-Kudus DC,Gubug Hub,3695,KAB. GROBOGAN,Multi
-Kudus DC,Jaken Hub,3629,KAB. PATI,Multi
-Kudus DC,Jakenan Hub,3699,KAB. PATI,Multi
-Kudus DC,Jati 3 Hub,7623,KAB. KUDUS,Multi
-Kudus DC,Jati 4 Hub,3396,KAB. KUDUS,Multi
-Kudus DC,Jekulo Hub,5332,KAB. KUDUS,Multi
-Kudus DC,Jepara Hub,6209,KAB. JEPARA,Multi
-Kudus DC,Jepara Kota Hub,5284,KAB. JEPARA,Multi
-Kudus DC,Jepon Hub,2859,KAB. BLORA,Multi
-Kudus DC,Jiken Hub,2038,KAB. BLORA,Multi
-Kudus DC,Juwana Hub,4746,KAB. PATI,Multi
-Kudus DC,Juwangi Hub,1143,KAB. BOYOLALI,Multi
-Kudus DC,Kalinyamatan Hub,3333,KAB. JEPARA,Multi
-Kudus DC,Kaliori Hub,2994,KAB. REMBANG,Multi
-Kudus DC,Karangrayung Hub,5014,KAB. GROBOGAN,Multi
-Kudus DC,Kayen 3 Hub,1651,KAB. PATI,Multi
-Kudus DC,Kayen Hub,1582,KAB. PATI,Multi
-Kudus DC,Keboromo Hub,4445,KAB. PATI,Multi
-Kudus DC,Kedung Hub,3113,KAB. JEPARA,Multi
-Kudus DC,Kedungjati 2 Hub,1314,KAB. GROBOGAN,Multi
-Kudus DC,Kedungjati Hub,1535,KAB. GROBOGAN,Multi
-Kudus DC,Keling Hub,5177,KAB. JEPARA,Multi
-Kudus DC,Kembang Jepara Hub,2984,KAB. JEPARA,Multi
-Kudus DC,Klambu Hub,1476,KAB. GROBOGAN,Multi
-Kudus DC,Kradenan Hub,4973,KAB. GROBOGAN,Multi
-Kudus DC,Kragan Hub,6445,KAB. REMBANG,Multi
-Kudus DC,Kudus Hub,5709,KAB. KUDUS,Multi
-Kudus DC,Kunduran Hub,4235,KAB. BLORA,Multi
-Kudus DC,Lasem Hub,4676,KAB. REMBANG,Multi
-Kudus DC,Margorejo Hub,3372,KAB. PATI,Multi
-Kudus DC,Margoyoso Hub,4793,KAB. PATI,Multi
-Kudus DC,Mayong Hub,7380,KAB. JEPARA,Multi
-Kudus DC,Megawon Hub,8241,KAB. KUDUS,Multi
-Kudus DC,Mlonggo Hub,4009,KAB. JEPARA,Multi
-Kudus DC,Ngawen Hub,3195,KAB. BLORA,Multi
-Kudus DC,Pati 2 Hub,2697,KAB. PATI,Multi
-Kudus DC,Pati Hub,3306,KAB. PATI,Multi
-Kudus DC,Pecangaan 5 Hub,1824,KAB. JEPARA,Multi
-Kudus DC,Pecangaan Hub,2184,KAB. JEPARA,Multi
-Kudus DC,Purwodadi Hub,6899,KAB. GROBOGAN,Multi
-Kudus DC,Rembang Hub,5565,KAB. REMBANG,Multi
-Kudus DC,Sedan Hub,5894,KAB. REMBANG,Multi
-Kudus DC,Sedati Hub,2,KAB. SIDOARJO,Multi
-Kudus DC,Soko Hub,2,KAB. TUBAN,Multi
-Kudus DC,Sukodadi Hub,2,KAB. LAMONGAN,Multi
-Kudus DC,Sukolilo 2 Hub,3398,KAB. PATI,Multi
-Kudus DC,Sulang Hub,2923,KAB. REMBANG,Multi
-Kudus DC,Tahunan Hub,6081,KAB. JEPARA,Multi
-Kudus DC,Tawangharjo Hub,5052,KAB. GROBOGAN,Multi
-Kudus DC,Tayu Hub,3013,KAB. PATI,Multi
-Kudus DC,Tlogowungu Hub,3818,KAB. PATI,Multi
-Kudus DC,Toroh Hub,3731,KAB. GROBOGAN,Multi
-Kudus DC,Trangkil Hub,5416,KAB. PATI,Multi
-Kudus DC,Tunjungan Hub,3315,KAB. BLORA,Multi
-Kudus DC,Ungaran Hub,2,KAB. SEMARANG,Multi
-Kudus DC,Welahan Hub,3874,KAB. JEPARA,Multi
-Kudus DC,Winong Hub,2394,KAB. PATI,Multi
-Kudus DC,Wirosari Hub,5688,KAB. GROBOGAN,Multi
-Labuhan Bajo DC,Borong Hub,239,KAB. MANGGARAI TIMUR,Multi
-Labuhan Bajo DC,Ende Tengah Hub,372,KAB. ENDE,Multi
-Labuhan Bajo DC,Labuhan Bajo Hub,707,KAB. MANGGARAI BARAT,Multi
-Labuhan Bajo DC,Langke Rembong 4 Hub,238,KAB. MANGGARAI,Multi
-Labuhan Bajo DC,Langke Rembong Hub,585,KAB. MANGGARAI,Multi
-Labuhan Bajo DC,Lembor Hub,217,KAB. MANGGARAI BARAT,Multi
-Labuhan Bajo DC,MH Langke Rembong Hub,0,KAB. MANGGARAI,Multi
-Labuhan Bajo DC,Wolowaru Hub,73,KAB. ENDE,Multi
-Mataram 2 DC,Alas Hub,1948,KAB. SUMBAWA,Multi
-Mataram 2 DC,Bolo Hub,1846,KAB. BIMA,Multi
-Mataram 2 DC,Dompu Hub,4296,KAB. DOMPU,Multi
-Mataram 2 DC,Empang Hub,1411,KAB. SUMBAWA,Multi
-Mataram 2 DC,Kempo Hub,821,KAB. DOMPU,Multi
-Mataram 2 DC,Lambu Hub,852,KAB. BIMA,Multi
-Mataram 2 DC,Lape Hub,1341,KAB. SUMBAWA,Multi
-Mataram 2 DC,MH Woha Hub,412,KAB. BIMA,Multi
-Mataram 2 DC,Maluk Hub,1302,KAB. SUMBAWA BARAT,Multi
-Mataram 2 DC,Menggelewa Hub,1616,KAB. DOMPU,Multi
-Mataram 2 DC,Monta Hub,801,KAB. BIMA,Multi
-Mataram 2 DC,Moyo Hilir Hub,1112,KAB. SUMBAWA,Multi
-Mataram 2 DC,Mpunda Hub,1237,KOTA BIMA,Multi
-Mataram 2 DC,Pajo Hub,432,KAB. DOMPU,Multi
-Mataram 2 DC,Palibelo Hub,1095,KAB. BIMA,Multi
-Mataram 2 DC,Raba Hub,1562,KOTA BIMA,Multi
-Mataram 2 DC,Sumbawa Hub,3653,KAB. SUMBAWA,Multi
-Mataram 2 DC,Taliwang Hub,4175,KAB. SUMBAWA BARAT,Multi
-Mataram 2 DC,Utan Hub,2026,KAB. SUMBAWA,Multi
-Mataram 2 DC,Woha Hub,1316,KAB. BIMA,Multi
-Mataram DC,Aikmel Hub,3065,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Ampenan Hub,7537,KOTA MATARAM,Multi
-Mataram DC,Batu Layar Hub,2626,KAB. LOMBOK BARAT,Multi
-Mataram DC,Batukliang Hub,2593,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Bayan Hub,1649,KAB. LOMBOK UTARA,Multi
-Mataram DC,Gerung Hub,2370,KAB. LOMBOK BARAT,Multi
-Mataram DC,Gerung Utara Hub,1932,KAB. LOMBOK BARAT,Multi
-Mataram DC,Jerowaru Hub,3442,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Jombang Hub,0,KAB. JOMBANG,Multi
-Mataram DC,Jonggat Hub,2268,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Kayangan Hub,1137,KAB. LOMBOK UTARA,Multi
-Mataram DC,Kopang Hub,3238,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Labuapi Hub,2610,KAB. LOMBOK BARAT,Multi
-Mataram DC,Lembar Hub,1017,KAB. LOMBOK BARAT,Multi
-Mataram DC,Lombok Timur Hub,8316,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Mataram Hub,9219,KOTA MATARAM,Multi
-Mataram DC,Narmada Hub,3393,KAB. LOMBOK BARAT,Multi
-Mataram DC,Praya Barat Daya Hub,886,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Praya Barat Hub,1896,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Praya Hub,3623,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Praya Tengah Hub,3045,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Pringgabaya Hub,3165,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Pringgarata Hub,1404,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Pujut Hub,4185,KAB. LOMBOK TENGAH,Multi
-Mataram DC,Sakra Barat Hub,3914,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Sambalia Hub,1073,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Sekarbela Hub,3520,KOTA MATARAM,Multi
-Mataram DC,Sekotong Hub,1495,KAB. LOMBOK BARAT,Multi
-Mataram DC,Sembalun Hub,842,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Sikur Hub,6650,KAB. LOMBOK TIMUR,Multi
-Mataram DC,Tanjung Lombok Utara Hub,3727,KAB. LOMBOK UTARA,Multi
-Mataram DC,Wanasaba Hub,1733,KAB. LOMBOK TIMUR,Multi
-Pekalongan 2 DC,Bandar 2 Hub,2602,KAB. BATANG,Multi
-Pekalongan 2 DC,Bandar Hub,2352,KAB. BATANG,Multi
-Pekalongan 2 DC,Banyuputih Hub,3007,KAB. BATANG,Multi
-Pekalongan 2 DC,Batang Hub,3250,KAB. BATANG,Multi
-Pekalongan 2 DC,Bawang Batang Hub,2837,KAB. BATANG,Multi
-Pekalongan 2 DC,Bojong Hub,3136,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Brebes Hub,2,KAB. BREBES,Multi
-Pekalongan 2 DC,Buaran 3 Hub,2249,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Doro Hub,1786,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Gringsing Hub,2820,KAB. BATANG,Multi
-Pekalongan 2 DC,Kab. Pekalongan Hub,1781,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Kajen Hub,3385,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Karanganyar Pekalongan Hub,1959,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Karangdadap 2 Hub,1743,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Kedungwuni 3 Hub,1964,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Kedungwuni 4 Hub,1382,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Kesesi Hub,2258,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Kota Pekalongan Hub,2523,KOTA PEKALONGAN,Multi
-Pekalongan 2 DC,Kota Pekalongan Timur Hub,3512,KOTA PEKALONGAN,Multi
-Pekalongan 2 DC,Paninggaran Hub,1176,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Pekalongan Barat 2 Hub,2282,KOTA PEKALONGAN,Multi
-Pekalongan 2 DC,Pekalongan Selatan Hub,2547,KOTA PEKALONGAN,Multi
-Pekalongan 2 DC,Pekalongan Utara Hub,3220,KOTA PEKALONGAN,Multi
-Pekalongan 2 DC,Sragi Hub,2625,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Subah Hub,2609,KAB. BATANG,Multi
-Pekalongan 2 DC,Talun Hub,1000,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Tersono Hub,2715,KAB. BATANG,Multi
-Pekalongan 2 DC,Tirto Hub,3023,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Tulis Hub,4735,KAB. BATANG,Multi
-Pekalongan 2 DC,Warungasem Hub,3518,KAB. BATANG,Multi
-Pekalongan 2 DC,Wiradesa 2 Hub,3176,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Wiradesa Hub,2854,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Wonopringgo Hub,1489,KAB. PEKALONGAN,Multi
-Pekalongan DC,Cengkareng 3 Hub,2,KOTA JAKARTA BARAT,Multi
-Pekalongan DC,Ciledug Kulon Hub,2,KAB. CIREBON,Multi
-Pekalongan DC,Cilincing 3 Hub,2,KOTA JAKARTA UTARA,Multi
-Pekalongan DC,Kebomas Hub,2,KAB. GRESIK,Multi
-Pekalongan DC,Kendal Hub,2,KAB. KENDAL,Multi
-Pekalongan DC,Lebaksiu Hub,2,KAB. TEGAL,Multi
-Pekalongan DC,Penjaringan 14 Hub,2,KOTA JAKARTA UTARA,Multi
-Pekalongan DC,Warungkondang Hub,2,KAB. CIANJUR,Multi
-Purbalingga DC,Banjarnegara Hub,5449,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Bantarsari Hub,2,KAB. CILACAP,Multi
-Purbalingga DC,Batur Hub,2087,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Bawang Hub,4550,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Belik Hub,3452,KAB. PEMALANG,Multi
-Purbalingga DC,Bobotsari Hub,5703,KAB. PURBALINGGA,Multi
-Purbalingga DC,Bojongsari Hub,5583,KAB. PURBALINGGA,Multi
-Purbalingga DC,Jambi Timur Hub,2,KOTA JAMBI,Multi
-Purbalingga DC,Kalibening Hub,2171,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Kaligondang Hub,2960,KAB. PURBALINGGA,Multi
-Purbalingga DC,Kalikajar Hub,2324,KAB. WONOSOBO,Multi
-Purbalingga DC,Karangmoncol Hub,5427,KAB. PURBALINGGA,Multi
-Purbalingga DC,Kedungmenjangan Hub,5500,KAB. PURBALINGGA,Multi
-Purbalingga DC,Kejajar Hub,2130,KAB. WONOSOBO,Multi
-Purbalingga DC,Kejobong Hub,3526,KAB. PURBALINGGA,Multi
-Purbalingga DC,Kepil Hub,2065,KAB. WONOSOBO,Multi
-Purbalingga DC,Madukara Hub,3168,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Mandiraja Hub,2811,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Moga Hub,4000,KAB. PEMALANG,Multi
-Purbalingga DC,Mojotengah Hub,5668,KAB. WONOSOBO,Multi
-Purbalingga DC,Mrebet Hub,2688,KAB. PURBALINGGA,Multi
-Purbalingga DC,Padamara Hub,5410,KAB. PURBALINGGA,Multi
-Purbalingga DC,Punggelan Hub,2933,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Purbalingga Hub,3786,KAB. PURBALINGGA,Multi
-Purbalingga DC,Purwonegoro Hub,3183,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Randudongkal Hub,3952,KAB. PEMALANG,Multi
-Purbalingga DC,Sapuran Hub,2863,KAB. WONOSOBO,Multi
-Purbalingga DC,Selomerto Hub,2465,KAB. WONOSOBO,Multi
-Purbalingga DC,Semarang Tengah Hub,2,KOTA SEMARANG,Multi
-Purbalingga DC,Sukoharjo Wonosobo Hub,3194,KAB. WONOSOBO,Multi
-Purbalingga DC,Susukan Kab. Banjarnegara Hub,4026,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Wanadadi Hub,3741,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Wanayasa Hub,3138,KAB. BANJARNEGARA,Multi
-Purbalingga DC,Watukumpul Hub,1336,KAB. PEMALANG,Multi
-Purbalingga DC,Watumalang Hub,1646,KAB. WONOSOBO,Multi
-Purbalingga DC,Wonosobo 4 Hub,2514,KAB. WONOSOBO,Multi
-Purbalingga DC,Wonosobo Hub,3629,KAB. WONOSOBO,Multi
-Semarang 4 DC,Banyumanik Hub,1024,KOTA SEMARANG,Multi
-Semarang 4 DC,Bawen Hub,485,KAB. SEMARANG,Multi
-Semarang 4 DC,Blora Hub,780,KAB. BLORA,Multi
-Semarang 4 DC,Candisari Hub,351,KOTA SEMARANG,Multi
-Semarang 4 DC,Cepiring Hub,503,KAB. KENDAL,Multi
-Semarang 4 DC,Cepu Hub,657,KAB. BLORA,Multi
-Semarang 4 DC,Demak Hub,485,KAB. DEMAK,Multi
-Semarang 4 DC,Gajah Mungkur Hub,363,KOTA SEMARANG,Multi
-Semarang 4 DC,Gebog Hub,1164,KAB. KUDUS,Multi
-Semarang 4 DC,Gemuh Hub,780,KAB. KENDAL,Multi
-Semarang 4 DC,Genuk Hub,771,KOTA SEMARANG,Multi
-Semarang 4 DC,Guntur 3 Hub,110,KAB. DEMAK,Multi
-Semarang 4 DC,Guntur Hub,58,KAB. DEMAK,Multi
-Semarang 4 DC,Gunungpati Hub,829,KOTA SEMARANG,Multi
-Semarang 4 DC,Jati 3 Hub,756,KAB. KUDUS,Multi
-Semarang 4 DC,Jumo Hub,423,KAB. TEMANGGUNG,Multi
-Semarang 4 DC,Kaliwungu Hub,790,KAB. KENDAL,Multi
-Semarang 4 DC,Kaliwungu Selatan Hub,726,KAB. KENDAL,Multi
-Semarang 4 DC,Karangawen Hub,395,KAB. DEMAK,Multi
-Semarang 4 DC,Kendal Hub,1362,KAB. KENDAL,Multi
-Semarang 4 DC,Kranggan Hub,360,KAB. TEMANGGUNG,Multi
-Semarang 4 DC,Lasem Hub,792,KAB. REMBANG,Multi
-Semarang 4 DC,Margoyoso Hub,528,KAB. PATI,Multi
-Semarang 4 DC,Mayong Hub,837,KAB. JEPARA,Multi
-Semarang 4 DC,Mijen Demak Hub,526,KAB. DEMAK,Multi
-Semarang 4 DC,Mijen Hub,696,KOTA SEMARANG,Multi
-Semarang 4 DC,Mranggen Hub,542,KAB. DEMAK,Multi
-Semarang 4 DC,Ngaliyan 2 Hub,422,KOTA SEMARANG,Multi
-Semarang 4 DC,Ngaliyan Hub,350,KOTA SEMARANG,Multi
-Semarang 4 DC,Ngampel Hub,361,KAB. KENDAL,Multi
-Semarang 4 DC,Parakan Hub,511,KAB. TEMANGGUNG,Multi
-Semarang 4 DC,Pedurungan 4 Hub,435,KOTA SEMARANG,Multi
-Semarang 4 DC,Pedurungan 5 Hub,1548,KOTA SEMARANG,Multi
-Semarang 4 DC,Pedurungan 9 Hub,1104,KOTA SEMARANG,Multi
-Semarang 4 DC,Pedurungan Hub,1259,KOTA SEMARANG,Multi
-Semarang 4 DC,Pringapus Hub,1075,KAB. SEMARANG,Multi
-Semarang 4 DC,Purwodadi Hub,1659,KAB. GROBOGAN,Multi
-Semarang 4 DC,Rembang Hub,1070,KAB. REMBANG,Multi
-Semarang 4 DC,Sayung Hub,171,KAB. DEMAK,Multi
-Semarang 4 DC,Sedan Hub,767,KAB. REMBANG,Multi
-Semarang 4 DC,Semarang Hub,657,KOTA SEMARANG,Multi
-Semarang 4 DC,Semarang Tengah Hub,433,KOTA SEMARANG,Multi
-Semarang 4 DC,Semarang Timur Hub,810,KOTA SEMARANG,Multi
-Semarang 4 DC,Semarang Utara Hub,342,KOTA SEMARANG,Multi
-Semarang 4 DC,Singorojo Hub,434,KAB. KENDAL,Multi
-Semarang 4 DC,Tawangharjo Hub,543,KAB. GROBOGAN,Multi
-Semarang 4 DC,Temanggung Hub,689,KAB. TEMANGGUNG,Multi
-Semarang 4 DC,Tembalang Hub,3156,KOTA SEMARANG,Multi
-Semarang 4 DC,Toroh Hub,502,KAB. GROBOGAN,Multi
-Semarang 4 DC,Ungaran Hub,472,KAB. SEMARANG,Multi
-Semarang 4 DC,Ungaran Timur Hub,377,KAB. SEMARANG,Multi
-Semarang 4 DC,Weleri Hub,1003,KAB. KENDAL,Multi
-Semarang 4 DC,Wirosari Hub,648,KAB. GROBOGAN,Multi
-Semarang DC,Ambarawa Hub,3403,KAB. SEMARANG,Multi
-Semarang DC,Banyubiru Hub,3587,KAB. SEMARANG,Multi
-Semarang DC,Banyumanik Hub,11968,KOTA SEMARANG,Multi
-Semarang DC,Bawen Hub,3769,KAB. SEMARANG,Multi
-Semarang DC,Boja Hub,7413,KAB. KENDAL,Multi
-Semarang DC,Bonang Hub,4713,KAB. DEMAK,Multi
-Semarang DC,Candisari Hub,3894,KOTA SEMARANG,Multi
-Semarang DC,Cepiring Hub,4058,KAB. KENDAL,Multi
-Semarang DC,Demak Hub,5054,KAB. DEMAK,Multi
-Semarang DC,Dempet Hub,6430,KAB. DEMAK,Multi
-Semarang DC,Gajah Mungkur Hub,4353,KOTA SEMARANG,Multi
-Semarang DC,Gemuh Hub,5086,KAB. KENDAL,Multi
-Semarang DC,Genuk Hub,8231,KOTA SEMARANG,Multi
-Semarang DC,Guntur 3 Hub,2254,KAB. DEMAK,Multi
-Semarang DC,Guntur Hub,1413,KAB. DEMAK,Multi
-Semarang DC,Gunungpati Hub,9464,KOTA SEMARANG,Multi
-Semarang DC,Jumo Hub,3590,KAB. TEMANGGUNG,Multi
-Semarang DC,Kaliwungu Hub,5938,KAB. KENDAL,Multi
-Semarang DC,Kaliwungu Selatan Hub,4373,KAB. KENDAL,Multi
-Semarang DC,Kandangan Temanggung Hub,3201,KAB. TEMANGGUNG,Multi
-Semarang DC,Karang Tengah Kab. Demak Hub,4096,KAB. DEMAK,Multi
-Semarang DC,Karangawen Hub,4629,KAB. DEMAK,Multi
-Semarang DC,Kendal Hub,6951,KAB. KENDAL,Multi
-Semarang DC,Kranggan Hub,4766,KAB. TEMANGGUNG,Multi
-Semarang DC,Mijen Demak Hub,5073,KAB. DEMAK,Multi
-Semarang DC,Mijen Hub,6735,KOTA SEMARANG,Multi
-Semarang DC,Mranggen Hub,4758,KAB. DEMAK,Multi
-Semarang DC,Ngadirejo Hub,5557,KAB. TEMANGGUNG,Multi
-Semarang DC,Ngaliyan 2 Hub,4647,KOTA SEMARANG,Multi
-Semarang DC,Ngaliyan 3 Hub,2481,KOTA SEMARANG,Multi
-Semarang DC,Ngaliyan Hub,7638,KOTA SEMARANG,Multi
-Semarang DC,Ngampel Hub,3414,KAB. KENDAL,Multi
-Semarang DC,Pabelan Hub,4895,KAB. SEMARANG,Multi
-Semarang DC,Parakan Hub,5228,KAB. TEMANGGUNG,Multi
-Semarang DC,Pedurungan 4 Hub,4119,KOTA SEMARANG,Multi
-Semarang DC,Pedurungan 5 Hub,5029,KOTA SEMARANG,Multi
-Semarang DC,Pedurungan 8 Hub,4475,KOTA SEMARANG,Multi
-Semarang DC,Pedurungan 9 Hub,3892,KOTA SEMARANG,Multi
-Semarang DC,Pedurungan Hub,4715,KOTA SEMARANG,Multi
-Semarang DC,Pringapus Hub,6933,KAB. SEMARANG,Multi
-Semarang DC,Salatiga Hub,5389,KOTA SALATIGA,Multi
-Semarang DC,Sayung Hub,3218,KAB. DEMAK,Multi
-Semarang DC,Semarang Hub,10089,KOTA SEMARANG,Multi
-Semarang DC,Semarang Tengah Hub,4728,KOTA SEMARANG,Multi
-Semarang DC,Semarang Timur Hub,7874,KOTA SEMARANG,Multi
-Semarang DC,Semarang Utara Hub,6139,KOTA SEMARANG,Multi
-Semarang DC,Sidomukti Hub,6575,KOTA SALATIGA,Multi
-Semarang DC,Singorojo Hub,4647,KAB. KENDAL,Multi
-Semarang DC,Sukorejo Kendal Hub,5378,KAB. KENDAL,Multi
-Semarang DC,Sumowono 2 Hub,3503,KAB. SEMARANG,Multi
-Semarang DC,Sumowono Hub,3025,KAB. SEMARANG,Multi
-Semarang DC,Tegowanu Hub,1982,KAB. GROBOGAN,Multi
-Semarang DC,Temanggung Hub,7001,KAB. TEMANGGUNG,Multi
-Semarang DC,Tembalang Hub,16631,KOTA SEMARANG,Single
-Semarang DC,Tuntang Hub,4847,KAB. SEMARANG,Multi
-Semarang DC,Ungaran Hub,5633,KAB. SEMARANG,Multi
-Semarang DC,Ungaran Timur Hub,4218,KAB. SEMARANG,Multi
-Semarang DC,Wedung Hub,3922,KAB. DEMAK,Multi
-Semarang DC,Weleri Hub,5723,KAB. KENDAL,Multi
-Semarang DC,Wonosalam 2 Hub,5851,KAB. DEMAK,Multi
-Semarang RDC,Kalideres 8 Hub,1,KOTA JAKARTA BARAT,Multi
-Semarang RDC,Ngadirejo Hub,4,KAB. TEMANGGUNG,Multi
-Solo DC,Ampel Hub,5371,KAB. BOYOLALI,Multi
-Solo DC,Andong Hub,5431,KAB. BOYOLALI,Multi
-Solo DC,Baki Hub,7049,KAB. SUKOHARJO,Multi
-Solo DC,Banjarsari Solo Hub,12074,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Baturetno Hub,2924,KAB. WONOGIRI,Multi
-Solo DC,Bendosari Hub,8678,KAB. SUKOHARJO,Multi
-Solo DC,Boyolali Hub,5770,KAB. BOYOLALI,Multi
-Solo DC,Cepogo Hub,4101,KAB. BOYOLALI,Multi
-Solo DC,Colomadu 3 Hub,6233,KAB. KARANGANYAR,Multi
-Solo DC,Gemolong Hub,5487,KAB. SRAGEN,Multi
-Solo DC,Grogol Sukoharjo Hub,2939,KAB. SUKOHARJO,Multi
-Solo DC,Jaten Hub,5094,KAB. SUKOHARJO,Multi
-Solo DC,Jatipuro Hub,3702,KAB. KARANGANYAR,Multi
-Solo DC,Jatisrono Hub,3184,KAB. WONOGIRI,Multi
-Solo DC,Jebres 2 Hub,5253,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Jebres Hub,4858,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Karanganyar Hub,3691,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Karanggede Hub,2492,KAB. BOYOLALI,Multi
-Solo DC,Karangpandan Hub,3275,KAB. KARANGANYAR,Multi
-Solo DC,Kartosura Hub,4520,KAB. SUKOHARJO,Multi
-Solo DC,Kebakkramat Hub,6316,KAB. KARANGANYAR,Multi
-Solo DC,Kerjo Hub,4873,KAB. KARANGANYAR,Multi
-Solo DC,Laweyan Kota Surakarta Hub,2848,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Matesih Hub,3822,KAB. KARANGANYAR,Multi
-Solo DC,Mojolaban Hub,9901,KAB. SUKOHARJO,Multi
-Solo DC,Ngadirojo Kidul Hub,4896,KAB. WONOGIRI,Multi
-Solo DC,Ngemplak Kab. Boyolali Hub,5868,KAB. BOYOLALI,Multi
-Solo DC,Nguntoronadi Kab. Wonogiri Hub,2398,KAB. WONOGIRI,Multi
-Solo DC,Nguter Hub,5596,KAB. SUKOHARJO,Multi
-Solo DC,Pasar Kliwon Hub,3271,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Plupuh Hub,5638,KAB. SRAGEN,Multi
-Solo DC,Purwantoro Hub,3677,KAB. WONOGIRI,Multi
-Solo DC,Sawit Hub,5995,KAB. BOYOLALI,Multi
-Solo DC,Selo Hub,541,KAB. BOYOLALI,Multi
-Solo DC,Serengan 2 Hub,1899,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Serengan Hub,2107,KOTA SURAKARTA (SOLO),Multi
-Solo DC,Simo Hub,7088,KAB. BOYOLALI,Multi
-Solo DC,Slogohimo Hub,4113,KAB. WONOGIRI,Multi
-Solo DC,Solo 2 Hub,5187,KAB. KARANGANYAR,Multi
-Solo DC,Solo Hub,6459,KAB. SUKOHARJO,Multi
-Solo DC,Sukoharjo Hub,6221,KAB. KARANGANYAR,Multi
-Solo DC,Tengaran Hub,7044,KAB. SEMARANG,Multi
-Solo DC,Wonogiri Hub,6303,KAB. WONOGIRI,Multi
-Solo DC,Wonosari 2 Hub,6676,KAB. KLATEN,Multi
-Solo DC,Wuryantoro Hub,3319,KAB. WONOGIRI,Multi
-Sukoharjo DC,Adiwerna Hub,2,KAB. TEGAL,Multi
-Sukoharjo DC,Balong Hub,4,KAB. PONOROGO,Multi
-Sukoharjo DC,Bandung Timur Hub,2,KOTA BANDUNG,Multi
-Sukoharjo DC,Barat Hub,6,KAB. MAGETAN,Multi
-Sukoharjo DC,Bawen Hub,6,KAB. SEMARANG,Multi
-Sukoharjo DC,Cengkareng 4 Hub,2,KOTA JAKARTA BARAT,Multi
-Sukoharjo DC,Dempet Hub,2,KAB. DEMAK,Multi
-Sukoharjo DC,Giriwoyo Hub,2,KAB. WONOGIRI,Multi
-Sukoharjo DC,Gubeng 3 Hub,4,KOTA SURABAYA,Multi
-Sukoharjo DC,Jambe Hub,2,KAB. TANGERANG,Multi
-Sukoharjo DC,Jogonalan Hub,8,KAB. KLATEN,Multi
-Sukoharjo DC,Karangmalang Hub,10,KAB. SRAGEN,Multi
-Sukoharjo DC,Kendal Hub,2,KAB. KENDAL,Multi
-Sukoharjo DC,Kutorejo Hub,2,KAB. MOJOKERTO,Multi
-Sukoharjo DC,Ngaliyan Hub,4,KOTA SEMARANG,Multi
-Sukoharjo DC,Pungging Hub,2,KAB. MOJOKERTO,Multi
-Sukoharjo DC,Sedati Hub,6,KAB. SIDOARJO,Multi
-Sukoharjo DC,Sragen Hub,6,KAB. SRAGEN,Multi
-Sukoharjo DC,Sukolilo Hub,2,KOTA SURABAYA,Multi
-Sukoharjo DC,Sumberrejo Hub,4,KAB. BOJONEGORO,Multi
-Sukoharjo DC,Tanah Abang Hub,2,KOTA JAKARTA PUSAT,Multi
-Sukoharjo DC,Tanjunganom Hub,4,KAB. NGANJUK,Multi
-Sukoharjo DC,Tembalang Hub,4,KOTA SEMARANG,Multi
-Sukoharjo DC,Yogyakarta Hub,4,KAB. BANTUL,Multi
-Tegal 2 DC,Bekasi Utara Hub,2,KOTA BEKASI,Multi
-Tegal 2 DC,Gubeng 3 Hub,2,KOTA SURABAYA,Multi
-Tegal 2 DC,Simpang Empat Kab. Karo Hub,2,KAB. KARO,Multi
-Tegal DC,Adiwerna 2 Hub,3107,KAB. TEGAL,Multi
-Tegal DC,Adiwerna Hub,6792,KAB. TEGAL,Multi
-Tegal DC,Ampelgading Hub,3171,KAB. PEMALANG,Multi
-Tegal DC,Balapulang Hub,4214,KAB. TEGAL,Multi
-Tegal DC,Banjarsari Solo Hub,6,KOTA SURAKARTA (SOLO),Multi
-Tegal DC,Bantarbolang Hub,2803,KAB. PEMALANG,Multi
-Tegal DC,Bantarsari Hub,6,KAB. CILACAP,Multi
-Tegal DC,Bodeh Hub,1920,KAB. PEMALANG,Multi
-Tegal DC,Boja Hub,6,KAB. KENDAL,Multi
-Tegal DC,Brebes Hub,8770,KAB. BREBES,Multi
-Tegal DC,Bulakamba 2 Hub,3576,KAB. BREBES,Multi
-Tegal DC,Bulakamba Hub,4593,KAB. BREBES,Multi
-Tegal DC,Bumijawa Hub,6423,KAB. TEGAL,Multi
-Tegal DC,Cikeusal Lor Hub,1625,KAB. BREBES,Multi
-Tegal DC,Cilacap Hub,4,KAB. CILACAP,Multi
-Tegal DC,Comal Hub,3985,KAB. PEMALANG,Multi
-Tegal DC,Dukuhturi 2 Hub,5196,KAB. TEGAL,Multi
-Tegal DC,Gebog Hub,2,KAB. KUDUS,Multi
-Tegal DC,Jatibarang Hub,3737,KAB. BREBES,Multi
-Tegal DC,Jatinegara Kab. Tegal Hub,2034,KAB. TEGAL,Multi
-Tegal DC,Kersana Hub,6462,KAB. BREBES,Multi
-Tegal DC,Kragan Hub,2,KAB. REMBANG,Multi
-Tegal DC,Kramat Hub,6940,KAB. TEGAL,Multi
-Tegal DC,Larangan 4 Hub,2458,KAB. BREBES,Multi
-Tegal DC,Larangan Hub,3325,KAB. BREBES,Multi
-Tegal DC,Lebaksiu Hub,3881,KAB. TEGAL,Multi
-Tegal DC,Losari Hub,5324,KAB. BREBES,Multi
-Tegal DC,Margasari Hub,4150,KAB. TEGAL,Multi
-Tegal DC,Mijen Hub,2,KOTA SEMARANG,Multi
-Tegal DC,Ngaliyan 2 Hub,2,KOTA SEMARANG,Multi
-Tegal DC,Pagerbarang Hub,2238,KAB. TEGAL,Multi
-Tegal DC,Pangkah Hub,7387,KAB. TEGAL,Multi
-Tegal DC,Pedurungan 4 Hub,2,KOTA SEMARANG,Multi
-Tegal DC,Pedurungan 9 Hub,2,KOTA SEMARANG,Multi
-Tegal DC,Pemalang Hub,8526,KAB. PEMALANG,Multi
-Tegal DC,Pende Hub,4912,KAB. BREBES,Multi
-Tegal DC,Petarukan Hub,7062,KAB. PEMALANG,Multi
-Tegal DC,Prembun Hub,4,KAB. KEBUMEN,Multi
-Tegal DC,Purwokerto Timur Hub,2,KAB. BANYUMAS,Multi
-Tegal DC,Purwokerto Utara Hub,2,KAB. BANYUMAS,Multi
-Tegal DC,Rancaekek Hub,2,KAB. BANDUNG,Multi
-Tegal DC,Sidomukti Hub,4,KOTA SALATIGA,Multi
-Tegal DC,Slawi Hub,5376,KAB. TEGAL,Multi
-Tegal DC,Songgom Hub,3928,KAB. BREBES,Multi
-Tegal DC,Suradadi Hub,7562,KAB. TEGAL,Multi
-Tegal DC,Talang 2 Hub,2883,KAB. TEGAL,Multi
-Tegal DC,Talang Hub,3260,KAB. TEGAL,Multi
-Tegal DC,Taman Pemalang 2 Hub,5452,KAB. PEMALANG,Multi
-Tegal DC,Taman Pemalang Hub,3841,KAB. PEMALANG,Multi
-Tegal DC,Tanjung Brebes Hub,4575,KAB. BREBES,Multi
-Tegal DC,Taraju Hub,2,KAB. TASIKMALAYA,Multi
-Tegal DC,Tarub Hub,4427,KAB. TEGAL,Multi
-Tegal DC,Tegal Barat Hub,8732,KOTA TEGAL,Multi
-Tegal DC,Tegal Hub,7375,KOTA TEGAL,Multi
-Tegal DC,Ulujami Hub,4430,KAB. PEMALANG,Multi
-Tegal DC,Wanasari Hub,7421,KAB. BREBES,Multi
-Tegal DC,Widasari Hub,4,KAB. INDRAMAYU,Multi
-Tegal DC,Wonosalam 2 Hub,4,KAB. DEMAK,Multi
-Virtual Semarang DC,Banyumanik Hub,2,KOTA SEMARANG,Multi
-Virtual Semarang DC,Caringin Hub,4,KAB. BOGOR,Multi
-Virtual Semarang DC,Dempet Hub,2,KAB. DEMAK,Multi
-Virtual Semarang DC,Gemolong Hub,4,KAB. SRAGEN,Multi
-Virtual Semarang DC,Genuk Hub,4,KOTA SEMARANG,Multi
-Virtual Semarang DC,Gunungpati Hub,2,KOTA SEMARANG,Multi
-Virtual Semarang DC,Jebres Hub,2,KOTA SURAKARTA (SOLO),Multi
-Virtual Semarang DC,Kandat Hub,4,KAB. KEDIRI,Multi
-Virtual Semarang DC,Kauman Ponorogo Hub,2,KAB. PONOROGO,Multi
-Virtual Semarang DC,Kawedanan Hub,2,KAB. MAGETAN,Multi
-Virtual Semarang DC,Kendal Hub,2,KAB. KENDAL,Multi
-Virtual Semarang DC,Kroya Indramayu Hub,174,KAB. INDRAMAYU,Multi
-Virtual Semarang DC,Lamongan Hub,2,KAB. LAMONGAN,Multi
-Virtual Semarang DC,Mijen Hub,2,KOTA SEMARANG,Multi
-Virtual Semarang DC,Nganjuk Hub,6,KAB. NGANJUK,Multi
-Virtual Semarang DC,Nguter Hub,4,KAB. SUKOHARJO,Multi
-Virtual Semarang DC,Panekan Hub,6,KAB. MAGETAN,Multi
-Virtual Semarang DC,Purwantoro Hub,2,KAB. WONOGIRI,Multi
-Virtual Semarang DC,Sawoo Hub,8,KAB. PONOROGO,Multi
-Virtual Semarang DC,Seberang Ulu I Hub,2,KOTA PALEMBANG,Multi
-Virtual Semarang DC,Simo Hub,2,KAB. BOYOLALI,Multi
-Virtual Semarang DC,Taman Madiun 2 Hub,2,KOTA MADIUN,Multi
-Virtual Semarang DC,Tanjunganom Hub,6,KAB. NGANJUK,Multi
-Virtual Semarang DC,Tempel Hub,6,KAB. SLEMAN,Multi
-Virtual Semarang DC,Wonoasri Hub,4,KAB. MADIUN,Multi
-Yogyakarta DC,Grogol Sukoharjo Hub,2,KAB. SUKOHARJO,Multi
-Yogyakarta DC,Kebayoran Lama Hub,2,KOTA JAKARTA SELATAN,Multi
-Yogyakarta DC,Ngadirejo Hub,4,KAB. TEMANGGUNG,Multi
-Yogyakarta DC,Sidomukti Hub,2,KOTA SALATIGA,Multi
-Yogyakarta DC,Wonosobo Hub,2,KAB. WONOSOBO,Multi
-Alak DC,Alak Hub,172,KOTA KUPANG,Multi
-Alak DC,Lobalain 4 Hub,88,KAB. ROTE NDAO,Multi
-Alak DC,Lobalain Hub,713,KAB. ROTE NDAO,Multi
-Alak DC,MH Maulafa 3 Hub,180,KAB. KUPANG,Multi
-Alak DC,Malaka Tengah Hub,502,KAB. MALAKA,Multi
-Alak DC,Pantai Baru Hub,234,KAB. ROTE NDAO,Multi
-Alak DC,Rote Barat Hub,88,KAB. ROTE NDAO,Multi
-Alak DC,Semau Hub,120,KAB. KUPANG,Multi
-Banyumas 2 DC,Baturaden Hub,942,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Gumelar Hub,178,KAB. BANYUMAS,Multi
-Banyumas 2 DC,Jeruklegi Hub,414,KAB. CILACAP,Multi
-Banyumas 2 DC,Karangsambung Hub,511,KAB. KEBUMEN,Multi
-Banyumas 2 DC,Wanareja Hub,1053,KAB. CILACAP,Multi
-Banyumas 2 DC,Wanayasa Hub,248,KAB. BANJARNEGARA,Multi
-Banyumas DC,Bawang Hub,4,KAB. BANJARNEGARA,Multi
-Banyumas DC,Cileungsi Hub,2,KAB. BOGOR,Multi
-Banyumas DC,Gondang Hub,0,KAB. NGANJUK,Multi
-Banyumas DC,Grogol Petamburan 4 Hub,0,KOTA JAKARTA BARAT,Multi
-Banyumas DC,Jatisari Hub,0,KAB. KARAWANG,Multi
-Banyumas DC,Kalinyamatan Hub,0,KAB. JEPARA,Multi
-Banyumas DC,Kamal Hub,0,KAB. BANGKALAN,Multi
-Banyumas DC,Limo Hub,0,KOTA DEPOK,Multi
-Banyumas DC,Majalaya Kab. Karawang Hub,0,KAB. KARAWANG,Multi
-Banyumas DC,Mertoyudan Hub,0,KAB. MAGELANG,Multi
-Banyumas DC,Ngimbang Hub,0,KAB. LAMONGAN,Multi
-Banyumas DC,Paliyan Hub,0,KAB. GUNUNG KIDUL,Multi
-Banyumas DC,Sawahan Hub,2,KOTA SURABAYA,Multi
-Banyumas DC,Sawangan Kota Depok Hub,0,KOTA DEPOK,Multi
-Banyumas DC,Sukaraja Hub,0,KAB. BOGOR,Multi
-Banyumas DC,Tambelang Hub,0,KAB. BEKASI,Multi
-Banyumas DC,Wanayasa Hub,4,KAB. BANJARNEGARA,Multi
-Denpasar DC,Ilir Timur II Hub,2,KOTA PALEMBANG,Multi
-Denpasar DC,Kediri Tabanan Hub,5,KAB. TABANAN,Multi
-Denpasar DC,Kuta Utara Hub,4,KAB. BADUNG,Multi
-Denpasar DC,Penebel Hub,2,KAB. TABANAN,Multi
-Denpasar DC,Tejakula Hub,2,KAB. BULELENG,Multi
-Kebumen DC,Babelan 2 Hub,0,KAB. BEKASI,Multi
-Kebumen DC,Kersamanah Hub,0,KAB. GARUT,Multi
-Kebumen DC,Salaman Hub,0,KAB. MAGELANG,Multi
-Kebumen DC,Wanasari Hub,0,KAB. BREBES,Multi
-Kudus DC,Cibitung 2 Hub,0,KAB. BEKASI,Multi
-Kudus DC,Cilincing 2 Hub,0,KOTA JAKARTA UTARA,Multi
-Kudus DC,Gambir 6 Hub,0,KOTA JAKARTA PUSAT,Multi
-Kudus DC,Geger Bangkalan Hub,0,KAB. BANGKALAN,Multi
-Kudus DC,Jatiuwung 2 Hub,2,KOTA TANGERANG,Multi
-Kudus DC,Kebakkramat Hub,0,KAB. KARANGANYAR,Multi
-Kudus DC,Konang Hub,0,KAB. BANGKALAN,Multi
-Kudus DC,Ngaliyan 2 Hub,0,KOTA SEMARANG,Multi
-Kudus DC,Omben Hub,0,KAB. SAMPANG,Multi
-Kudus DC,Sumowono Hub,0,KAB. SEMARANG,Multi
-Kudus DC,Tanah Abang Hub,2,KOTA JAKARTA PUSAT,Multi
-Kudus DC,Way Halim Hub,0,KOTA BANDAR LAMPUNG,Multi
-Labuhan Bajo DC,Aesesa Hub,347,KAB. NAGEKEO,Multi
-Labuhan Bajo DC,Alok Hub,795,KAB. SIKKA,Multi
-Labuhan Bajo DC,Bajawa Hub,335,KAB. NGADA,Multi
-Labuhan Bajo DC,MH Wolowaru 2 Hub,6,KAB. ENDE,Multi
-Labuhan Bajo DC,Reok Hub,162,KAB. MANGGARAI,Multi
-Mataram 2 DC,Asakota Hub,2358,KOTA BIMA,Multi
-Mataram 2 DC,Jereweh Hub,669,KAB. SUMBAWA BARAT,Multi
-Mataram 2 DC,Labuhan Badas Hub,1066,KAB. SUMBAWA,Multi
-Mataram 2 DC,Langgudu Utara Selatan Hub,723,KAB. BIMA,Multi
-Mataram 2 DC,Lunyuk Hub,975,KAB. SUMBAWA,Multi
-Mataram 2 DC,MH 1 Asakota Hub,272,KAB. BIMA,Multi
-Mataram 2 DC,MH 1 Mpunda Hub,496,KAB. BIMA,Multi
-Mataram 2 DC,MH 1 Pekat Hub,109,KAB. DOMPU,Multi
-Mataram 2 DC,MH Dompu Hub,345,KAB. BIMA,Multi
-Mataram 2 DC,MH Pajo Hub,638,KAB. DOMPU,Multi
-Mataram 2 DC,MH Sumbawa Hub,155,KAB. SUMBAWA,Multi
-Mataram 2 DC,Maronge Hub,330,KAB. SUMBAWA,Multi
-Mataram 2 DC,Parado Hub,156,KAB. BIMA,Multi
-Mataram 2 DC,Pekat Hub,1391,KAB. DOMPU,Multi
-Mataram 2 DC,Plampang Hub,1690,KAB. SUMBAWA,Multi
-Mataram 2 DC,Sanggar Hub,1098,KAB. BIMA,Multi
-Mataram 2 DC,Sape Hub,1365,KAB. BIMA,Multi
-Mataram 2 DC,Unter Iwes (Unterwiris) Hub,1100,KAB. SUMBAWA,Multi
-Mataram 2 DC,Wawo Hub,340,KAB. BIMA,Multi
-Mataram DC,Gili Air Hub,336,KAB. LOMBOK UTARA,Multi
-Mataram DC,Gili Trawangan Hub,769,KAB. LOMBOK UTARA,Multi
-Pekalongan 2 DC,MH 1 Kesesi Hub,700,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,MH Karanganyar Pekalongan Hub,188,KAB. PEKALONGAN,Multi
-Pekalongan 2 DC,Pedurungan 4 Hub,0,KOTA SEMARANG,Multi
-Pekalongan DC,Ambarawa Hub,0,KAB. SEMARANG,Multi
-Pekalongan DC,Bantargebang Hub,0,KOTA BEKASI,Multi
-Pekalongan DC,Batang Hub,2,KAB. BATANG,Multi
-Pekalongan DC,Bekasi Selatan Hub,0,KOTA BEKASI,Multi
-Pekalongan DC,Biringkanaya 2 Hub,0,KOTA MAKASSAR,Multi
-Pekalongan DC,Buaran 3 Hub,2,KAB. PEKALONGAN,Multi
-Pekalongan DC,Cengkareng 4 Hub,0,KOTA JAKARTA BARAT,Multi
-Pekalongan DC,Cimanggis Hub,0,KOTA DEPOK,Multi
-Pekalongan DC,Cipayung Jakarta Timur Hub,0,KOTA JAKARTA TIMUR,Multi
-Pekalongan DC,Gunungpati Hub,0,KOTA SEMARANG,Multi
-Pekalongan DC,Jampang Kulon Hub,0,KAB. SUKABUMI,Multi
-Pekalongan DC,Jatiuwung 2 Hub,0,KOTA TANGERANG,Multi
-Pekalongan DC,Jepara Hub,0,KAB. JEPARA,Multi
-Pekalongan DC,Karang Tengah Kab. Demak Hub,0,KAB. DEMAK,Multi
-Pekalongan DC,Kebayoran Lama Hub,0,KOTA JAKARTA SELATAN,Multi
-Pekalongan DC,Kebon Jeruk 10 Hub,0,KOTA JAKARTA BARAT,Multi
-Pekalongan DC,Kebon Jeruk 3 Hub,0,KOTA JAKARTA BARAT,Multi
-Pekalongan DC,Kembangan 4 Hub,2,KOTA JAKARTA BARAT,Multi
-Pekalongan DC,Kramatjati Hub,0,KOTA JAKARTA TIMUR,Multi
-Pekalongan DC,Labuan Hub,0,KAB. PANDEGLANG,Multi
-Pekalongan DC,Libureng Hub,0,KAB. BONE,Multi
-Pekalongan DC,Mario Riawa Hub,0,KAB. SOPPENG,Multi
-Pekalongan DC,Paciran Hub,0,KAB. LAMONGAN,Multi
-Pekalongan DC,Pakkat Hub,0,KAB. HUMBANG HASUNDUTAN,Multi
-Pekalongan DC,Pasar Minggu Hub,0,KOTA JAKARTA SELATAN,Multi
-Pekalongan DC,Sukaluyu Hub,0,KAB. CIANJUR,Multi
-Pekalongan DC,Sungai Raya Hub,0,KAB. KUBU RAYA,Multi
-Pekalongan DC,Tanjung Priok 5 Hub,0,KOTA JAKARTA UTARA,Multi
-Pekalongan DC,Weleri Hub,0,KAB. KENDAL,Multi
-Pekalongan DC,Wonocolo Hub,0,KOTA SURABAYA,Multi
-Purbalingga DC,Beji Kota Depok Hub,0,KOTA DEPOK,Multi
-Purbalingga DC,Karawaci Hub,0,KOTA TANGERANG,Multi
-Purbalingga DC,Kutoarjo Hub,0,KAB. PURWOREJO,Multi
-Purbalingga DC,Wirosari Hub,0,KAB. GROBOGAN,Multi
-Semarang 4 DC,Ngaliyan 3 Hub,269,KOTA SEMARANG,Multi
-Semarang DC,Margaasih Hub,0,KAB. BANDUNG,Multi
-Semarang RDC,Banyumanik Hub,0,KOTA SEMARANG,Multi
-Semarang RDC,Boja Hub,0,KAB. KENDAL,Multi
-Semarang RDC,Kranggan Hub,0,KAB. TEMANGGUNG,Multi
-Sukoharjo DC,Banguntapan 2 Hub,4,KAB. BANTUL,Multi
-Sukoharjo DC,Barat 2 Hub,4,KAB. MAGETAN,Multi
-Sukoharjo DC,Baturaja Timur 2 Hub,0,KAB. OGAN KOMERING ULU,Multi
-Sukoharjo DC,Blora Hub,2,KAB. BLORA,Multi
-Sukoharjo DC,Boja Hub,0,KAB. KENDAL,Multi
-Sukoharjo DC,Borobudur Hub,4,KAB. MAGELANG,Multi
-Sukoharjo DC,Bungkal Hub,0,KAB. PONOROGO,Multi
-Sukoharjo DC,Cibeunying Kidul Hub,6,KOTA BANDUNG,Multi
-Sukoharjo DC,Cikarang Selatan 2 Hub,0,KAB. BEKASI,Multi
-Sukoharjo DC,Cikarang Utara 2 Hub,0,KAB. BEKASI,Multi
-Sukoharjo DC,Cikupa Hub,0,KAB. TANGERANG,Multi
-Sukoharjo DC,Cilincing 3 Hub,0,KOTA JAKARTA UTARA,Multi
-Sukoharjo DC,Delanggu Hub,18,KAB. KLATEN,Multi
-Sukoharjo DC,Jati 3 Hub,2,KAB. KUDUS,Multi
-Sukoharjo DC,Jati 4 Hub,0,KAB. KUDUS,Multi
-Sukoharjo DC,Jatirogo Hub,2,KAB. TUBAN,Multi
-Sukoharjo DC,Karang Tengah Kab. Demak Hub,0,KAB. DEMAK,Multi
-Sukoharjo DC,Kasihan Hub,2,KAB. BANTUL,Multi
-Sukoharjo DC,Kedunggalar Hub,4,KAB. NGAWI,Multi
-Sukoharjo DC,Kesamben Hub,0,KAB. BLITAR,Multi
-Sukoharjo DC,Klapanunggal Hub,0,KAB. BOGOR,Multi
-Sukoharjo DC,Koja Hub,4,KOTA JAKARTA UTARA,Multi
-Sukoharjo DC,Kragan Hub,6,KAB. REMBANG,Multi
-Sukoharjo DC,Kraksaan Hub,0,KAB. PROBOLINGGO,Multi
-Sukoharjo DC,Mantingan Hub,2,KAB. NGAWI,Multi
-Sukoharjo DC,Mayong Hub,4,KAB. JEPARA,Multi
-Sukoharjo DC,Nanggulan Hub,1,KAB. KULON PROGO,Multi
-Sukoharjo DC,Pangkur Hub,2,KAB. NGAWI,Multi
-Sukoharjo DC,Panyileukan Hub,4,KOTA BANDUNG,Multi
-Sukoharjo DC,Paron Hub,4,KAB. NGAWI,Multi
-Sukoharjo DC,Pedurungan 8 Hub,0,KOTA SEMARANG,Multi
-Sukoharjo DC,Ponorogo Hub,6,KAB. PONOROGO,Multi
-Sukoharjo DC,Punung Hub,4,KAB. PACITAN,Multi
-Sukoharjo DC,Purwasari Hub,2,KAB. KARAWANG,Multi
-Sukoharjo DC,Rembang Hub,4,KAB. REMBANG,Multi
-Sukoharjo DC,Sedan Hub,0,KAB. REMBANG,Multi
-Sukoharjo DC,Solear Hub,2,KAB. TANGERANG,Multi
-Sukoharjo DC,Suradadi Hub,2,KAB. TEGAL,Multi
-Sukoharjo DC,Tanjung Priok 2 Hub,6,KOTA JAKARTA UTARA,Multi
-Sukoharjo DC,Tanon Hub,4,KAB. SRAGEN,Multi
-Sukoharjo DC,Tarogong Hub,2,KAB. GARUT,Multi
-Sukoharjo DC,Tirtomartani Hub,0,KAB. SLEMAN,Multi
-Sukoharjo DC,Tulungagung Hub,0,KAB. TULUNGAGUNG,Multi
-Sukoharjo DC,Widodaren Hub,0,KAB. NGAWI,Multi
-Tegal 2 DC,Bogor Barat 2 Hub,2,KOTA BOGOR,Multi
-Tegal 2 DC,Ciampea 2 Hub,0,KAB. BOGOR,Multi
-Tegal 2 DC,Cibungbulang Hub,2,KAB. BOGOR,Multi
-Tegal 2 DC,Kersana Hub,0,KAB. BREBES,Multi
-Tegal 2 DC,Pamanukan Hub,0,KAB. SUBANG,Multi
-Tegal 2 DC,Sukaraja 3 Hub,0,KAB. BOGOR,Multi
-Tegal DC,Arjawinangun Hub,2,KAB. CIREBON,Multi
-Tegal DC,Astanajapura Hub,2,KAB. CIREBON,Multi
-Tegal DC,Bandar Hub,0,KAB. BATANG,Multi
-Tegal DC,Cicalengka Hub,0,KAB. BANDUNG,Multi
-Tegal DC,Ciledug Kulon Hub,2,KAB. CIREBON,Multi
-Tegal DC,Cirebon Hub,0,KAB. CIREBON,Multi
-Tegal DC,Gantar Hub,2,KAB. INDRAMAYU,Multi
-Tegal DC,Imogiri Hub,0,KAB. BANTUL,Multi
-Tegal DC,Jogonalan Hub,2,KAB. KLATEN,Multi
-Tegal DC,Karangawen Hub,4,KAB. DEMAK,Multi
-Tegal DC,Kedungmenjangan Hub,4,KAB. PURBALINGGA,Multi
-Tegal DC,Kembaran Hub,2,KAB. BANYUMAS,Multi
-Tegal DC,Majenang Hub,0,KAB. CILACAP,Multi
-Tegal DC,Mayong Hub,0,KAB. JEPARA,Multi
-Tegal DC,Mojotengah Hub,2,KAB. WONOSOBO,Multi
-Tegal DC,Neglasari Hub,0,KOTA TANGERANG,Multi
-Tegal DC,Ngawi Hub,4,KAB. NGAWI,Multi
-Tegal DC,Palimanan Hub,0,KAB. CIREBON,Multi
-Tegal DC,Plumbon Hub,0,KAB. CIREBON,Multi
-Tegal DC,Tarogong Hub,0,KAB. GARUT,Multi
-Tegal DC,Tegowanu Hub,2,KAB. GROBOGAN,Multi
-Tegal DC,Trangkil Hub,2,KAB. PATI,Multi
-Tegal DC,Wirosari Hub,4,KAB. GROBOGAN,Multi
-Virtual Semarang DC,Babadan Hub,6,KAB. PONOROGO,Multi
-Virtual Semarang DC,Babelan 2 Hub,0,KAB. BEKASI,Multi
-Virtual Semarang DC,Baki Hub,2,KAB. SUKOHARJO,Multi
-Virtual Semarang DC,Bandung Utara Hub,2,KOTA BANDUNG,Multi
-Virtual Semarang DC,Bantarujeg Hub,0,KAB. MAJALENGKA,Multi
-Virtual Semarang DC,Bekasi Timur 2 Hub,2,KOTA BEKASI,Multi
-Virtual Semarang DC,Bogor Utara 2 Hub,0,KOTA BOGOR,Multi
-Virtual Semarang DC,Cengkareng 6 Hub,2,KOTA JAKARTA BARAT,Multi
-Virtual Semarang DC,Cepu Hub,0,KAB. BLORA,Multi
-Virtual Semarang DC,Cikupa Hub,0,KAB. TANGERANG,Multi
-Virtual Semarang DC,Cilandak Hub,0,KOTA JAKARTA SELATAN,Multi
-Virtual Semarang DC,Cilimus Hub,0,KAB. KUNINGAN,Multi
-Virtual Semarang DC,Cilincing 2 Hub,0,KOTA JAKARTA UTARA,Multi
-Virtual Semarang DC,Cimahi Utara 2 Hub,0,KOTA CIMAHI,Multi
-Virtual Semarang DC,Depok 2 Hub,0,KAB. SLEMAN,Multi
-Virtual Semarang DC,Driyorejo Hub,0,KAB. GRESIK,Multi
-Virtual Semarang DC,Gebog Hub,6,KAB. KUDUS,Multi
-Virtual Semarang DC,Geneng Hub,2,KAB. NGAWI,Multi
-Virtual Semarang DC,Grobogan Hub,4,KAB. GROBOGAN,Multi
-Virtual Semarang DC,Gubug Hub,0,KAB. GROBOGAN,Multi
-Virtual Semarang DC,Jaken Hub,0,KAB. PATI,Multi
-Virtual Semarang DC,Jatinegara Kab. Tegal Hub,0,KAB. TEGAL,Multi
-Virtual Semarang DC,Jatipuro Hub,0,KAB. KARANGANYAR,Multi
-Virtual Semarang DC,Jatirogo Hub,2,KAB. TUBAN,Multi
-Virtual Semarang DC,Jatisampurna Hub,0,KOTA BEKASI,Multi
-Virtual Semarang DC,Jepara Hub,6,KAB. JEPARA,Multi
-Virtual Semarang DC,Kalibagor Hub,10,KAB. BANYUMAS,Multi
-Virtual Semarang DC,Karangawen Hub,0,KAB. DEMAK,Multi
-Virtual Semarang DC,Karangmalang Hub,4,KAB. SRAGEN,Multi
-Virtual Semarang DC,Kebomas Hub,2,KAB. GRESIK,Multi
-Virtual Semarang DC,Kebon Jeruk 10 Hub,0,KOTA JAKARTA BARAT,Multi
-Virtual Semarang DC,Kedung Hub,4,KAB. JEPARA,Multi
-Virtual Semarang DC,Koja 6 Hub,0,KOTA JAKARTA UTARA,Multi
-Virtual Semarang DC,Krembung Hub,0,KAB. SIDOARJO,Multi
-Virtual Semarang DC,Lasem Hub,4,KAB. REMBANG,Multi
-Virtual Semarang DC,Magelang Hub,8,KAB. MAGELANG,Multi
-Virtual Semarang DC,Mampang Prapatan Hub,4,KOTA JAKARTA SELATAN,Multi
-Virtual Semarang DC,Mlonggo Hub,0,KAB. JEPARA,Multi
-Virtual Semarang DC,Moga Hub,0,KAB. PEMALANG,Multi
-Virtual Semarang DC,Nguntoronadi Kab. Wonogiri Hub,0,KAB. WONOGIRI,Multi
-Virtual Semarang DC,Pacitan Hub,12,KAB. PACITAN,Multi
-Virtual Semarang DC,Pamulang 3 Hub,2,KOTA TANGERANG SELATAN,Multi
-Virtual Semarang DC,Pancoran Mas Hub,0,KOTA DEPOK,Multi
-Virtual Semarang DC,Parang Hub,2,KAB. MAGETAN,Multi
-Virtual Semarang DC,Pedurungan 5 Hub,0,KOTA SEMARANG,Multi
-Virtual Semarang DC,Penjaringan 14 Hub,0,KOTA JAKARTA UTARA,Multi
-Virtual Semarang DC,Penjaringan 2 Hub,2,KOTA JAKARTA UTARA,Multi
-Virtual Semarang DC,Plemahan Hub,0,KAB. KEDIRI,Multi
-Virtual Semarang DC,Ponorogo Hub,4,KAB. PONOROGO,Multi
-Virtual Semarang DC,Purwokerto Barat Hub,2,KAB. BANYUMAS,Multi
-Virtual Semarang DC,Rembang Hub,2,KAB. REMBANG,Multi
-Virtual Semarang DC,Salem Hub,2,KAB. BREBES,Multi
-Virtual Semarang DC,Samarang Hub,0,KAB. GARUT,Multi
-Virtual Semarang DC,Semin Hub,2,KAB. GUNUNG KIDUL,Multi
-Virtual Semarang DC,Seyegan Hub,0,KAB. SLEMAN,Multi
-Virtual Semarang DC,Sukakarya Hub,0,KAB. BEKASI,Multi
-Virtual Semarang DC,Sukoharjo Hub,0,KAB. KARANGANYAR,Multi
-Virtual Semarang DC,Sukolilo 2 Hub,6,KAB. PATI,Multi
-Virtual Semarang DC,Surabaya Utara Hub,0,KOTA SURABAYA,Multi
-Virtual Semarang DC,Tahunan Hub,1,KAB. JEPARA,Multi
-Virtual Semarang DC,Taktakan Hub,0,KOTA SERANG,Multi
-Virtual Semarang DC,Tawangharjo Hub,6,KAB. GROBOGAN,Multi
-Virtual Semarang DC,Tayu Hub,0,KAB. PATI,Multi
-Virtual Semarang DC,Tlogowungu Hub,2,KAB. PATI,Multi
-Virtual Semarang DC,Trucuk Hub,4,KAB. KLATEN,Multi
-Virtual Semarang DC,Wirosari Hub,4,KAB. GROBOGAN,Multi
-Virtual Semarang DC,Wonosari 2 Hub,2,KAB. KLATEN,Multi
-Yogyakarta DC,Adiwerna 2 Hub,2,KAB. TEGAL,Multi
-Yogyakarta DC,Baki Hub,2,KAB. SUKOHARJO,Multi
-Yogyakarta DC,Balongbendo Hub,2,KAB. SIDOARJO,Multi
+Abepura DC	Abepura Hub	4,219	KOTA JAYAPURA	Multi
+Abepura DC	Muara Tami Hub	546	KOTA JAYAPURA	Multi
+Abepura DC	Nimbokrang Hub	102	KAB. JAYAPURA	Multi
+Baguala DC	Baguala 2 Hub	2,818	KOTA AMBON	Multi
+Baguala DC	Baguala Hub	2,319	KOTA AMBON	Multi
+Baguala DC	Kota Masohi Hub	813	KAB. MALUKU TENGAH	Multi
+Baguala DC	Sirimau 2 Hub	1,735	KOTA AMBON	Multi
+Baguala DC	Sirimau Hub	3,980	KOTA AMBON	Multi
+Balikpapan DC	Anggana Hub	2,617	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Babulu Hub	4,543	KAB. PENAJAM PASER UTARA	Multi
+Balikpapan DC	Balikpapan Barat Hub	6,384	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Hub	8,096	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Kota Hub	10,505	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Timur 2 Hub	4,585	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Timur Hub	5,091	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Utara 3 Hub	9,870	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Balikpapan Utara Hub	8,265	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Batu Engau Hub	1,935	KAB. PASER	Multi
+Balikpapan DC	Batu Sopang Hub	5,142	KAB. PASER	Multi
+Balikpapan DC	Bengalon Hub	4,476	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Bontang Hub	5,396	KOTA BONTANG	Multi
+Balikpapan DC	Bontang Selatan 2 Hub	2,824	KOTA BONTANG	Multi
+Balikpapan DC	Bontang Selatan Hub	2,464	KOTA BONTANG	Multi
+Balikpapan DC	Bontang Utara Hub	3,541	KOTA BONTANG	Multi
+Balikpapan DC	Damai Hub	9,312	KOTA BALIKPAPAN	Multi
+Balikpapan DC	Kembang Janggut Hub	3,002	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Kongbeng 2 Hub	2,407	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Kota Bangun 2 Hub	2,132	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Kota Bangun Hub	3,944	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Kuaro Hub	2,574	KAB. PASER	Multi
+Balikpapan DC	Linggang Bigung Hub	3,306	KAB. KUTAI BARAT	Multi
+Balikpapan DC	Loa Janan Hub	5,769	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Loa Kulu Hub	4,120	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Long Ikis Hub	4,864	KAB. PASER	Multi
+Balikpapan DC	MH 4 Tenggarong Hub	0	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	MH Kota Bangun Hub	1,122	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	MH Long Ikis Hub	1,478	KAB. PASER	Multi
+Balikpapan DC	MH Palaran Hub	1,640	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Mentawa Baru Hub	3	KAB. KOTA WARINGIN TIMUR	Multi
+Balikpapan DC	Muara Badak Hub	3,260	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Muara Jawa Hub	4,460	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Muara Kaman Hub	4,792	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Muara Muntai Hub	2,351	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Palaran Hub	4,672	KOTA SAMARINDA	Multi
+Balikpapan DC	Pasir Belengkong Hub	2,524	KAB. PASER	Multi
+Balikpapan DC	Penajam Hub	6,715	KAB. PENAJAM PASER UTARA	Multi
+Balikpapan DC	Samarinda Hub	8,609	KOTA SAMARINDA	Multi
+Balikpapan DC	Samarinda Ilir Hub	3,615	KOTA SAMARINDA	Multi
+Balikpapan DC	Samarinda Kota Hub	5,619	KOTA SAMARINDA	Multi
+Balikpapan DC	Samarinda Seberang Hub	11,989	KOTA SAMARINDA	Multi
+Balikpapan DC	Samarinda Utara 2 Hub	5,708	KOTA SAMARINDA	Multi
+Balikpapan DC	Samarinda Utara Hub	7,854	KOTA SAMARINDA	Multi
+Balikpapan DC	Samboja (Semboja) Hub	6,433	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Sambutan Hub	6,044	KOTA SAMARINDA	Multi
+Balikpapan DC	Sangatta 3 Hub	6,387	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Sangatta Hub	2,517	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Sangatta Utara 2 Hub	9,008	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Sebulu Hub	4,212	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Sekolaq Darat Hub	3,653	KAB. KUTAI BARAT	Multi
+Balikpapan DC	Sepaku 2 Hub	1,593	KAB. PENAJAM PASER UTARA	Multi
+Balikpapan DC	Sungai Kunjang 2 Hub	5,701	KOTA SAMARINDA	Multi
+Balikpapan DC	Sungai Kunjang Hub	8,333	KOTA SAMARINDA	Multi
+Balikpapan DC	Sungai Pinang Hub	10,858	KOTA SAMARINDA	Multi
+Balikpapan DC	Tanah Grogot Hub	11,578	KAB. PASER	Multi
+Balikpapan DC	Tenggarong Hub	11,552	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Tenggarong Seberang 2 Hub	1,507	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Tenggarong Seberang Hub	4,081	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Waru Kab. Penajam Paser Utara Hub	3,779	KAB. PENAJAM PASER UTARA	Multi
+Banjarbaru DC	Amuntai Tengah Hub	8,917	KAB. HULU SUNGAI UTARA	Multi
+Banjarbaru DC	Astambul Hub	4,196	KAB. BANJAR	Multi
+Banjarbaru DC	Awayan Hub	3,013	KAB. BALANGAN	Multi
+Banjarbaru DC	Banjarbaru Utara 2 Hub	8,678	KOTA BANJARBARU	Multi
+Banjarbaru DC	Barabai Hub	9,050	KAB. HULU SUNGAI TENGAH	Multi
+Banjarbaru DC	Batang Alai Utara Hub	4,652	KAB. HULU SUNGAI TENGAH	Multi
+Banjarbaru DC	Binuang Hub	5,387	KAB. TAPIN	Multi
+Banjarbaru DC	Daha Selatan Hub	6,476	KAB. HULU SUNGAI SELATAN	Multi
+Banjarbaru DC	Dusun Selatan Hub	5,815	KAB. BARITO SELATAN	Multi
+Banjarbaru DC	Dusun Timur Hub	3,524	KAB. BARITO TIMUR	Multi
+Banjarbaru DC	Haruai Hub	2,233	KAB. TABALONG	Multi
+Banjarbaru DC	Kandangan Hub	10,285	KAB. HULU SUNGAI SELATAN	Multi
+Banjarbaru DC	Kelua Hub	6,076	KAB. TABALONG	Multi
+Banjarbaru DC	Labuan Amas Selatan Hub	7,770	KAB. HULU SUNGAI TENGAH	Multi
+Banjarbaru DC	MH 1 Martapura Kalimantan Hub	408	KAB. BANJAR	Multi
+Banjarbaru DC	MH Dusun Selatan Hub	521	KAB. BARITO SELATAN	Multi
+Banjarbaru DC	MH Kandangan Hub	857	KAB. HULU SUNGAI SELATAN	Multi
+Banjarbaru DC	Martapura Kalimantan Hub	4,717	KAB. BANJAR	Multi
+Banjarbaru DC	Muara Uya Hub	5,126	KAB. TABALONG	Multi
+Banjarbaru DC	Murung Pudak Hub	8,491	KAB. TABALONG	Multi
+Banjarbaru DC	Paringin Hub	4,332	KAB. BALANGAN	Multi
+Banjarbaru DC	Paringin Timur Hub	6,217	KAB. BALANGAN	Multi
+Banjarbaru DC	Simpang Empat Banjar Hub	5,749	KAB. BANJAR	Multi
+Banjarbaru DC	Sungai Pandan 2 Hub	4,145	KAB. HULU SUNGAI UTARA	Multi
+Banjarbaru DC	Sungai Pandan Hub	5,822	KAB. HULU SUNGAI UTARA	Multi
+Banjarbaru DC	Sungai Raya Hulu Sungai Selatan Hub	4,785	KAB. HULU SUNGAI SELATAN	Multi
+Banjarbaru DC	Tanjung Hub	7,674	KAB. TABALONG	Multi
+Banjarbaru DC	Tapin Selatan Hub	5,508	KAB. TAPIN	Multi
+Banjarbaru DC	Tapin Tengah Hub	4,109	KAB. TAPIN	Multi
+Banjarbaru DC	Tapin Utara Hub	8,126	KAB. TAPIN	Multi
+Banjarmasin 2 DC	Angsana Hub	5,721	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Banjarbaru 2 Hub	9,042	KOTA BANJARBARU	Multi
+Banjarmasin 2 DC	Banjarbaru Hub	6,980	KOTA BANJARBARU	Multi
+Banjarmasin 2 DC	Banjarbaru Utara Hub	13,752	KAB. BANJAR	Single
+Banjarmasin 2 DC	Bati-bati Hub	4,976	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Beruntung Baru Hub	2,948	KAB. BANJAR	Multi
+Banjarmasin 2 DC	Kelumpang Barat Hub	1,464	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Kelumpang Hilir 2 Hub	1,290	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Kintap 2 Hub	2,457	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Kintap Hub	3,538	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Kurau Hub	2,309	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Mantewe 2 Hub	1,074	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Mantewe Hub	2,203	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Martapura 4 Hub	6,569	KAB. BANJAR	Multi
+Banjarmasin 2 DC	Muara Teweh Hub	9,935	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	Murung Hub	6,653	KAB. MURUNG RAYA	Multi
+Banjarmasin 2 DC	Satui 2 Hub	2,327	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Satui Hub	6,345	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Tambang Ulang Hub	1,965	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Teweh Selatan Hub	1,297	KAB. BARITO UTARA	Multi
+Banjarmasin DC	Alalak Hub	9,751	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Anjir Muara Hub	3,954	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Bajuin Hub	2,838	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Banjarmasin Barat Hub	11,190	KOTA BANJARMASIN	Multi
+Banjarmasin DC	Banjarmasin Hub	9,008	KAB. BANJAR	Multi
+Banjarmasin DC	Banjarmasin Selatan Hub	14,828	KOTA BANJARMASIN	Single
+Banjarmasin DC	Banjarmasin Tengah Hub	8,127	KOTA BANJARMASIN	Multi
+Banjarmasin DC	Banjarmasin Timur Hub	14,195	KOTA BANJARMASIN	Single
+Banjarmasin DC	Banjarmasin Utara Hub	18,237	KOTA BANJARMASIN	Single
+Banjarmasin DC	Batulicin 4 Hub	1,660	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Batulicin Hub	7,405	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Gambut Hub	5,794	KAB. BANJAR	Multi
+Banjarmasin DC	Jorong Hub	5,223	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Kapuas Murung Hub	1,748	KAB. KAPUAS	Multi
+Banjarmasin DC	Kota Baru Kalsel Hub	10,452	KAB. KOTA BARU	Multi
+Banjarmasin DC	Kusan Hilir Hub	5,005	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Kusan Hulu Hub	3,462	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Landasan Ulin Hub	6,997	KOTA BANJARBARU	Multi
+Banjarmasin DC	Liang Anggang Hub	6,999	KOTA BANJARBARU	Multi
+Banjarmasin DC	MH Kapuas Murung Hub	1,096	KAB. KAPUAS	Multi
+Banjarmasin DC	MH Selat 2 Hub	1,412	KAB. KAPUAS	Multi
+Banjarmasin DC	MH Selat Hub	1,545	KAB. KAPUAS	Multi
+Banjarmasin DC	Mandastana 2 Hub	695	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Mandastana Hub	1,399	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Marabahan Hub	9,194	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Panyipatan Hub	2,472	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Pelaihari Hub	6,690	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Pulau Laut Tengah Hub	1,593	KAB. KOTA BARU	Multi
+Banjarmasin DC	Pulau Laut Utara Hub	2,022	KAB. KOTA BARU	Multi
+Banjarmasin DC	Sarang Halang Hub	5,585	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Selat Hub	12,718	KAB. KAPUAS	Single
+Banjarmasin DC	Simpang Empat Tanah Bumbu Hub	7,119	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Sungai Loban Hub	5,307	KAB. TANAH BUMBU	Multi
+Banjarmasin DC	Sungai Tabuk Hub	5,613	KAB. BANJAR	Multi
+Banjarmasin DC	Takisung Hub	3,127	KAB. TANAH LAUT	Multi
+Banjarmasin DC	Tamban Hub	5,571	KAB. BARITO KUALA	Multi
+Banjarmasin DC	Wanaraya Hub	2,423	KAB. BARITO KUALA	Multi
+Dungingi DC	Dungingi Hub	9,142	KOTA GORONTALO	Multi
+Dungingi DC	Gorontalo Hub	6,499	KOTA GORONTALO	Multi
+Dungingi DC	Kabila Hub	3,025	KAB. BONE BOLANGO	Multi
+Dungingi DC	Kota Selatan Hub	5,627	KOTA GORONTALO	Multi
+Dungingi DC	Kwandang Hub	3,511	KAB. GORONTALO UTARA	Multi
+Dungingi DC	Limboto Hub	6,545	KAB. GORONTALO	Multi
+Dungingi DC	MH 2 Kabila Hub	2,437	KAB. BONE BOLANGO	Multi
+Dungingi DC	MH 3 Tilamuta Hub	1,680	KAB. BOALEMO	Multi
+Dungingi DC	MH Kwandang Hub	1,586	KAB. GORONTALO UTARA	Multi
+Dungingi DC	MH Tilamuta 2 Hub	2,332	KAB. BOALEMO	Multi
+Dungingi DC	Marisa Hub	3,082	KAB. POHUWATO	Multi
+Dungingi DC	Popayato Hub	3,348	KAB. POHUWATO	Multi
+Dungingi DC	Sipatana 2 Hub	2,525	KOTA GORONTALO	Multi
+Dungingi DC	Sipatana Hub	1,461	KOTA GORONTALO	Multi
+Dungingi DC	Sumalata Hub	2,565	KAB. GORONTALO UTARA	Multi
+Dungingi DC	Tabongo Hub	4,385	KAB. GORONTALO	Multi
+Dungingi DC	Tibawa 2 Hub	2,572	KAB. GORONTALO	Multi
+Dungingi DC	Tibawa Hub	2,154	KAB. GORONTALO	Multi
+Dungingi DC	Tilamuta Hub	4,099	KAB. BOALEMO	Multi
+Dungingi DC	Tilango Hub	5,568	KAB. GORONTALO	Multi
+Dungingi DC	Tolangohula Hub	5,562	KAB. GORONTALO	Multi
+Jailolo DC	Jailolo Hub	1,117	KAB. HALMAHERA BARAT	Multi
+Jailolo DC	Maba Hub	524	KAB. HALMAHERA TIMUR	Multi
+Jailolo DC	Oba Utara Hub	133	KOTA TIDORE KEPULAUAN	Multi
+Jailolo DC	Wasile Timur Hub	870	KAB. HALMAHERA TIMUR	Multi
+Jailolo DC	Weda Hub	350	KAB. HALMAHERA TENGAH	Multi
+Kalawat DC	Amurang Barat Hub	3,811	KAB. MINAHASA SELATAN	Multi
+Kalawat DC	Bintauna Hub	2,006	KAB. BOLAANG MONGONDOW UTARA	Multi
+Kalawat DC	Bolaang Uki Hub	2,167	KAB. BOLAANG MONGONDOW SELATAN	Multi
+Kalawat DC	Kaidipang Hub	2,535	KAB. BOLAANG MONGONDOW UTARA	Multi
+Kalawat DC	Kalawat Hub	4,685	KAB. MINAHASA UTARA	Multi
+Kalawat DC	Kotamobagu Timur Hub	8,902	KOTA KOTAMOBAGU	Multi
+Kalawat DC	Langowan Utara Hub	3,307	KAB. MINAHASA	Multi
+Kalawat DC	Lolak Hub	1,324	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Kalawat DC	MH 1 Airmadidi Hub	871	KAB. MINAHASA UTARA	Multi
+Kalawat DC	MH 1 Langowan Utara Hub	1,767	KAB. MINAHASA	Multi
+Kalawat DC	MH 1 Ratahan Hub	376	KAB. MINAHASA TENGGARA	Multi
+Kalawat DC	MH 2 Ratahan Hub	575	KAB. MINAHASA TENGGARA	Multi
+Kalawat DC	MH Tuminting Hub	0	KOTA MANADO	Multi
+Kalawat DC	Madidir Hub	2,737	KOTA BITUNG	Multi
+Kalawat DC	Malalayang Hub	5,131	KOTA MANADO	Multi
+Kalawat DC	Mandolang Hub	758	KOTA MANADO	Multi
+Kalawat DC	Mapanget Hub	5,685	KOTA MANADO	Multi
+Kalawat DC	Matuari Hub	4,011	KOTA BITUNG	Multi
+Kalawat DC	Modayag Barat Hub	1,456	KAB. BOLAANG MONGONDOW TIMUR	Multi
+Kalawat DC	Ratahan Hub	2,446	KAB. MINAHASA TENGGARA	Multi
+Kalawat DC	Tombatu Timur Hub	3,398	KAB. MINAHASA TENGGARA	Multi
+Kalawat DC	Tomohon Hub	4,545	KOTA TOMOHON	Multi
+Kalawat DC	Tompaso Baru Hub	2,412	KAB. MINAHASA SELATAN	Multi
+Kalawat DC	Tondano Selatan Hub	7,522	KAB. MINAHASA	Multi
+Kalawat DC	Tuminting Hub	5,087	KOTA MANADO	Multi
+Kalawat DC	Tutuyan Hub	1,688	KAB. BOLAANG MONGONDOW TIMUR	Multi
+Kalawat DC	Wanea Hub	6,717	KOTA MANADO	Multi
+Ketapang Kalbar DC	Benua Kayong Hub	3,678	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Kendawangan 3 Hub	879	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Kendawangan Hub	2,679	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Ketapang Kalbar Hub	9,124	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Manis Mata 2 Hub	335	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Matan Hilir Selatan 3 Hub	530	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Matan Hilir Utara Hub	1,518	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Sukadana Kalbar Hub	3,620	KAB. KAYONG UTARA	Multi
+Makassar DC	Bajeng Hub	4,382	KAB. GOWA	Multi
+Makassar DC	Bangkala Hub	3,998	KAB. JENEPONTO	Multi
+Makassar DC	Bantaeng Hub	5,745	KAB. BANTAENG	Multi
+Makassar DC	Barombong Hub	3,715	KAB. GOWA	Multi
+Makassar DC	Binamu Hub	7,000	KAB. JENEPONTO	Multi
+Makassar DC	Bonto Bahari Hub	2,055	KAB. BULUKUMBA	Multi
+Makassar DC	Bontomarannu Hub	3,847	KAB. GOWA	Multi
+Makassar DC	Bontonompo Selatan Hub	3,014	KAB. GOWA	Multi
+Makassar DC	Bulukumba Hub	4,090	KAB. BULUKUMBA	Multi
+Makassar DC	Galesong Hub	3,622	KAB. TAKALAR	Multi
+Makassar DC	Galesong Utara Hub	2,634	KAB. TAKALAR	Multi
+Makassar DC	Hero Lange Lange Hub	4,249	KAB. BULUKUMBA	Multi
+Makassar DC	Kelara Hub	2,750	KAB. JENEPONTO	Multi
+Makassar DC	Lau Hub	0	KAB. MAROS	Multi
+Makassar DC	MH Tompobulu 2 Hub	2,011	KAB. GOWA	Multi
+Makassar DC	Mamajang Hub	10,125	KOTA MAKASSAR	Multi
+Makassar DC	Mangara Bombang Hub	1,726	KAB. TAKALAR	Multi
+Makassar DC	Manggala Hub	12,271	KOTA MAKASSAR	Multi
+Makassar DC	Pallangga Hub	8,276	KAB. GOWA	Multi
+Makassar DC	Panakkukang Hub	12,358	KOTA MAKASSAR	Multi
+Makassar DC	Patallassang Hub	3,821	KAB. TAKALAR	Multi
+Makassar DC	Pattallassang Kab. Gowa Hub	2,793	KAB. GOWA	Multi
+Makassar DC	Polombangkeng Selatan Hub	1,250	KAB. TAKALAR	Multi
+Makassar DC	Polombangkeng Utara (Polobangkeng) Hub	2,327	KAB. TAKALAR	Multi
+Makassar DC	Rappocini Hub	4,790	KOTA MAKASSAR	Multi
+Makassar DC	Rumbia 2 Hub	1,497	KAB. JENEPONTO	Multi
+Makassar DC	Sinjai Barat Hub	2,438	KAB. SINJAI	Multi
+Makassar DC	Sinjai Selatan Hub	2,487	KAB. SINJAI	Multi
+Makassar DC	Sinjai Timur Hub	2,676	KAB. SINJAI	Multi
+Makassar DC	Sinjai Utara Hub	5,260	KAB. SINJAI	Multi
+Makassar DC	Sinoa Hub	1,275	KAB. BANTAENG	Multi
+Makassar DC	Somba Opu 2 Hub	3,648	KAB. GOWA	Multi
+Makassar DC	Somba Opu 3 Hub	2,470	KAB. GOWA	Multi
+Makassar DC	Sungguminasa Hub	5,315	KAB. GOWA	Multi
+Makassar DC	Tamalanrea Hub	12,605	KOTA MAKASSAR	Single
+Makassar DC	Tamalate 2 Hub	5,607	KOTA MAKASSAR	Multi
+Makassar DC	Tamalate Hub	6,174	KOTA MAKASSAR	Multi
+Makassar DC	Tamalatea Hub	4,366	KAB. JENEPONTO	Multi
+Makassar DC	Tinggimoncong Hub	3,500	KAB. GOWA	Multi
+Makassar DC	Tompobulu Hub	2,331	KAB. GOWA	Multi
+Makassar DC	Ujung Bulu Hub	12,314	KAB. BULUKUMBA	Multi
+Makassar DC	Wajo Hub	6,771	KOTA MAKASSAR	Multi
+Manokwari Barat DC	MH Manokwari Barat Hub	239	KAB. MANOKWARI	Multi
+Manokwari Barat DC	Manokwari Barat Hub	925	KAB. MANOKWARI	Multi
+Mantikulore DC	Ampana Kota Hub	5,534	KAB. TOJO UNA-UNA	Multi
+Mantikulore DC	Ampana Tete Hub	1,329	KAB. TOJO UNA-UNA	Multi
+Mantikulore DC	Ampibabo Hub	2,105	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	Bahodopi 3 Hub	3,263	KAB. MOROWALI	Multi
+Mantikulore DC	Bahodopi 4 Hub	5,110	KAB. MOROWALI	Multi
+Mantikulore DC	Bahodopi 5 Hub	5,785	KAB. MOROWALI	Multi
+Mantikulore DC	Bahodopi Hub	7,069	KAB. MOROWALI	Multi
+Mantikulore DC	Banawa Hub	2,028	KAB. DONGGALA	Multi
+Mantikulore DC	Baolan Hub	3,894	KAB. TOLI-TOLI	Multi
+Mantikulore DC	Batui Hub	1,254	KAB. BANGGAI	Multi
+Mantikulore DC	Bolano Lambunu Hub	2,490	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	Bumi Raya Hub	1,696	KAB. MOROWALI	Multi
+Mantikulore DC	Bungku Barat Hub	2,580	KAB. MOROWALI	Multi
+Mantikulore DC	Bungku Tengah Hub	4,157	KAB. MOROWALI	Multi
+Mantikulore DC	Dondo Hub	1,375	KAB. TOLI-TOLI	Multi
+Mantikulore DC	Gumbasa Hub	1,141	KAB. SIGI	Multi
+Mantikulore DC	MH 1 Mantikulore Hub	1,402	KOTA PALU	Multi
+Mantikulore DC	MH 2 Dondo Hub	1,880	KAB. TOLI-TOLI	Multi
+Mantikulore DC	MH 3 Sigi Biromaru Hub	114	KAB. SIGI	Multi
+Mantikulore DC	MH Banawa 2 Hub	1,742	KAB. DONGGALA	Multi
+Mantikulore DC	MH Banawa Hub	1,323	KAB. DONGGALA	Multi
+Mantikulore DC	MH Baolan 5 Hub	0	KAB. TOLI-TOLI	Multi
+Mantikulore DC	MH Parigi 3 Hub	839	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH Parigi 5 Hub	3,207	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	Mantikulore Hub	8,388	KOTA PALU	Multi
+Mantikulore DC	Mepanga Hub	1,476	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	Palu Hub	8,079	KOTA PALU	Multi
+Mantikulore DC	Palu Selatan Hub	9,663	KOTA PALU	Multi
+Mantikulore DC	Palu Timur Hub	8,268	KOTA PALU	Multi
+Mantikulore DC	Parigi Hub	2,549	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	Petasia Hub	2,793	KAB. MOROWALI UTARA	Multi
+Mantikulore DC	Petasia Timur Hub	3,433	KAB. MOROWALI UTARA	Multi
+Mantikulore DC	Poso Kota Hub	7,992	KAB. POSO	Multi
+Mantikulore DC	Sigi Biromaru Hub	6,286	KAB. SIGI	Multi
+Mantikulore DC	Tinakung Hub	1,893	KAB. BANGGAI KEPULAUAN	Multi
+Mantikulore DC	Tojo Hub	1,571	KAB. TOJO UNA-UNA	Multi
+Mantikulore DC	Ulujadi Hub	3,899	KOTA PALU	Multi
+Mantikulore DC	Wita Ponda Hub	2,181	KAB. MOROWALI	Multi
+Maros DC	Alla Hub	2,325	KAB. ENREKANG	Multi
+Maros DC	Amali Hub	985	KAB. BONE	Multi
+Maros DC	Awangpone Hub	3,327	KAB. BONE	Multi
+Maros DC	Bacukiki Barat Hub	6,417	KOTA PAREPARE	Multi
+Maros DC	Baebunta 2 Hub	2,112	KAB. LUWU UTARA	Multi
+Maros DC	Balusu Hub	2,267	KAB. BARRU	Multi
+Maros DC	Bantimurung Hub	2,987	KAB. MAROS	Multi
+Maros DC	Bara Hub	3,084	KOTA PALOPO	Multi
+Maros DC	Baraka Hub	4,275	KAB. ENREKANG	Multi
+Maros DC	Barru Hub	3,914	KAB. BARRU	Multi
+Maros DC	Belawa Hub	2,645	KAB. WAJO	Multi
+Maros DC	Belopa Hub	8,594	KAB. LUWU	Multi
+Maros DC	Bengo 2 Hub	1,950	KAB. BONE	Multi
+Maros DC	Bengo Hub	2,853	KAB. BONE	Multi
+Maros DC	Biringkanaya 2 Hub	9,399	KOTA MAKASSAR	Multi
+Maros DC	Bontoa Hub	1,586	KAB. MAROS	Multi
+Maros DC	Camba Hub	1,937	KAB. MAROS	Multi
+Maros DC	Cina Hub	3,504	KAB. BONE	Multi
+Maros DC	Dua Boccoe Hub	3,000	KAB. BONE	Multi
+Maros DC	Dua Pitue Hub	3,164	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Duampanua Hub	2,971	KAB. PINRANG	Multi
+Maros DC	Enrekang Hub	2,501	KAB. ENREKANG	Multi
+Maros DC	Kahu Hub	2,205	KAB. BONE	Multi
+Maros DC	Lalabata Hub	4,987	KAB. SOPPENG	Multi
+Maros DC	Larompong Hub	2,331	KAB. LUWU	Multi
+Maros DC	Lau Hub	3,186	KAB. MAROS	Multi
+Maros DC	Libureng Hub	1,129	KAB. BONE	Multi
+Maros DC	Lilir Rilau Hub	4,282	KAB. SOPPENG	Multi
+Maros DC	MH 1 Barru Hub	0	KAB. BARRU	Multi
+Maros DC	MH 1 Towuti Hub	24	KAB. LUWU TIMUR	Multi
+Maros DC	MH 3 Towuti Hub	624	KAB. LUWU TIMUR	Multi
+Maros DC	MH Makale 3 Hub	532	KAB. TANA TORAJA	Multi
+Maros DC	MH Marang 2 Hub	1,239	KAB. PANGKAJENE KEPULAUAN	Multi
+Maros DC	Maiwa Hub	1,737	KAB. ENREKANG	Multi
+Maros DC	Majauleng Hub	1,777	KAB. WAJO	Multi
+Maros DC	Makale Hub	3,419	KAB. TANA TORAJA	Multi
+Maros DC	Makale Utara Hub	795	KAB. TANA TORAJA	Multi
+Maros DC	Makassar 2 Hub	4,228	KOTA MAKASSAR	Multi
+Maros DC	Makassar Hub	7,883	KOTA MAKASSAR	Multi
+Maros DC	Malili Hub	4,614	KAB. LUWU TIMUR	Multi
+Maros DC	Mallusetasi Hub	2,444	KAB. BARRU	Multi
+Maros DC	Maniang Pajo Hub	2,133	KAB. WAJO	Multi
+Maros DC	Marang Hub	4,701	KAB. PANGKAJENE KEPULAUAN	Multi
+Maros DC	Mario Riawa Hub	3,253	KAB. SOPPENG	Multi
+Maros DC	Mario Riwawo Hub	3,443	KAB. SOPPENG	Multi
+Maros DC	Maritengngae Hub	10,891	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Masamba Hub	4,887	KAB. LUWU UTARA	Multi
+Maros DC	Mattiro Bulu Hub	4,719	KAB. PINRANG	Multi
+Maros DC	Mengkendek Hub	2,221	KAB. TANA TORAJA	Multi
+Maros DC	Palakka Hub	8,490	KAB. BONE	Multi
+Maros DC	Pammana Hub	2,898	KAB. WAJO	Multi
+Maros DC	Panca Rijang Hub	5,214	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Pangkajene Hub	9,916	KAB. PANGKAJENE KEPULAUAN	Multi
+Maros DC	Pitu Riase Hub	1,125	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Pitu Riawa Hub	2,156	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Pitumpanua Hub	5,034	KAB. WAJO	Multi
+Maros DC	Ponrang Hub	3,678	KAB. LUWU	Multi
+Maros DC	Rantepao Hub	6,766	KAB. TORAJA UTARA	Multi
+Maros DC	Sajoanging Hub	1,764	KAB. WAJO	Multi
+Maros DC	Somba Opu Hub	7,679	KOTA MAKASSAR	Multi
+Maros DC	Soreang Parepare Hub	6,911	KOTA PAREPARE	Multi
+Maros DC	Sukamaju Hub	7,693	KAB. LUWU UTARA	Multi
+Maros DC	Tallo Hub	9,660	KOTA MAKASSAR	Multi
+Maros DC	Tanete Riattang Hub	4,351	KAB. BONE	Multi
+Maros DC	Tanete Riattang Timur Hub	4,430	KAB. BONE	Multi
+Maros DC	Tanete Rilau Hub	3,859	KAB. BARRU	Multi
+Maros DC	Tanralili Hub	6,100	KAB. MAROS	Multi
+Maros DC	Tellu Limpoe Hub	2,852	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Maros DC	Tempe Hub	9,188	KAB. WAJO	Multi
+Maros DC	Tomoni Hub	8,851	KAB. LUWU TIMUR	Multi
+Maros DC	Towuti Hub	3,403	KAB. LUWU TIMUR	Multi
+Maros DC	Turikale Hub	10,307	KAB. MAROS	Multi
+Maros DC	Walenrang Hub	4,719	KAB. LUWU	Multi
+Maros DC	Wara Hub	5,890	KOTA PALOPO	Multi
+Maros DC	Watang Sawitto Hub	13,187	KAB. PINRANG	Single
+Merauke DC	Merauke Hub	1,339	KAB. MERAUKE	Multi
+Palangka Raya DC	Antang Kalang Hub	2,360	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Arut Selatan Hub	7,043	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Baamang 2 Hub	3,026	KAB. SERUYAN	Multi
+Palangka Raya DC	Baamang 3 Hub	721	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Baamang Hub	9,578	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Bukit Batu Kota Palangka Raya Hub	1,758	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Danau Seluluk Hub	2,692	KAB. SERUYAN	Multi
+Palangka Raya DC	Hanau Hub	2,542	KAB. SERUYAN	Multi
+Palangka Raya DC	Jekan Raya Hub	12,419	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Kasongan Hub	3,749	KAB. KATINGAN	Multi
+Palangka Raya DC	Khayan Hilir Hub	3,192	KAB. PULANG PISAU	Multi
+Palangka Raya DC	Kotawaringin Lama 2 Hub	817	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Kumai Hub	5,339	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Kurun 3 Hub	1,461	KAB. GUNUNG MAS	Multi
+Palangka Raya DC	Kurun Hub	4,232	KAB. GUNUNG MAS	Multi
+Palangka Raya DC	MH 1 Palangka Raya Hub	729	KAB. PULANG PISAU	Multi
+Palangka Raya DC	MH 1 Pangkalan Lada Hub	595	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	MH 1 Telaga Antang Hub	784	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	MH 1 Tewah Hub	285	KAB. GUNUNG MAS	Multi
+Palangka Raya DC	MH 2 Maliku Hub	1,138	KAB. PULANG PISAU	Multi
+Palangka Raya DC	MH 2 Palangka Raya Hub	0	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	MH Maliku Hub	1,110	KAB. PULANG PISAU	Multi
+Palangka Raya DC	Maliku Hub	2,449	KAB. PULANG PISAU	Multi
+Palangka Raya DC	Mengwi Badung Hub	3	KAB. BADUNG	Multi
+Palangka Raya DC	Mentawa Baru Hub	11,707	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Mentaya Hilir Selatan Hub	3,609	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Mentaya Hilir Utara Hub	1,893	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Mentaya Hulu Hub	2,141	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Nengah Bulik Hub	3,895	KAB. LAMANDAU	Multi
+Palangka Raya DC	Pahandut 3 Hub	4,329	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Pahandut Hub	9,045	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Palangka Raya Hub	9,668	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Pangkalan Banteng 2 Hub	2,299	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Pangkalan Banteng Hub	2,784	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Parenggean Hub	5,553	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Payangan Hub	2	KAB. GIANYAR	Multi
+Palangka Raya DC	Sebangau Hub	3,667	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Seririt Hub	2	KAB. BULELENG	Multi
+Palangka Raya DC	Seruyan Hilir Hub	3,767	KAB. SERUYAN	Multi
+Palangka Raya DC	Sukamara Hub	3,609	KAB. SUKAMARA	Multi
+Palangka Raya DC	Telaga Antang Hub	2,550	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Telawang Hub	4,380	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Tewah Hub	2,348	KAB. GUNUNG MAS	Multi
+Pontianak 2 DC	Batu Ampar 2 Hub	1,404	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Dedai Hub	1,643	KAB. SINTANG	Multi
+Pontianak 2 DC	Ella Hilir Hub	1,197	KAB. MELAWI	Multi
+Pontianak 2 DC	Jongkat Hub	1,465	KAB. PONTIANAK	Multi
+Pontianak 2 DC	Kelam Permai Hub	1,638	KAB. SINTANG	Multi
+Pontianak 2 DC	Kubu 2 Hub	1,219	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Kubu Raya 2 Hub	413	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Kubu Raya Hub	9,246	KOTA PONTIANAK	Multi
+Pontianak 2 DC	MH 1 Sungai Raya Hub	69	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	MH Melawi 2 Hub	32	KAB. MELAWI	Multi
+Pontianak 2 DC	MH Tayan Hilir Hub	763	KAB. SANGGAU	Multi
+Pontianak 2 DC	Melawi Hub	7,721	KAB. MELAWI	Multi
+Pontianak 2 DC	Meliau Hub	2,585	KAB. SANGGAU	Multi
+Pontianak 2 DC	Pontianak Hub	20,278	KOTA PONTIANAK	Single
+Pontianak 2 DC	Pontianak Timur Hub	7,642	KOTA PONTIANAK	Multi
+Pontianak 2 DC	Pontianak Utara Hub	6,098	KOTA PONTIANAK	Multi
+Pontianak 2 DC	Rasau Jaya Hub	3,055	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Sepauk Hub	3,398	KAB. SINTANG	Multi
+Pontianak 2 DC	Siantan Hulu Hub	3,140	KOTA PONTIANAK	Multi
+Pontianak 2 DC	Siantan Pontianak Hub	1,487	KAB. PONTIANAK	Multi
+Pontianak 2 DC	Sintang Hub	12,938	KAB. SINTANG	Single
+Pontianak 2 DC	Sungai Kerawang Hub	742	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Sungai Raya Hub	10,735	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Sungai Tebelian Hub	4,539	KAB. SINTANG	Multi
+Pontianak 2 DC	Tanah Pinoh Hub	2,738	KAB. MELAWI	Multi
+Pontianak 2 DC	Tayan Hilir Hub	2,764	KAB. SANGGAU	Multi
+Pontianak 2 DC	Teluk Pakedai Hub	1,129	KAB. KUBU RAYA	Multi
+Pontianak DC	Anjongan Hub	1,677	KAB. PONTIANAK	Multi
+Pontianak DC	Balai Hub	957	KAB. SANGGAU	Multi
+Pontianak DC	Beduai (Beduwai) Hub	559	KAB. SANGGAU	Multi
+Pontianak DC	Binjai Hulu 3 Hub	833	KAB. SINTANG	Multi
+Pontianak DC	Bonti Hub	800	KAB. SANGGAU	Multi
+Pontianak DC	Kembayan Hub	2,581	KAB. SANGGAU	Multi
+Pontianak DC	Kuala Behe Hub	893	KAB. LANDAK	Multi
+Pontianak DC	Landak Hub	4,602	KAB. LANDAK	Multi
+Pontianak DC	MH 1 Kembayan Hub	69	KAB. SANGGAU	Multi
+Pontianak DC	MH 1 Sei Ambawang Hub	2,699	KAB. KUBU RAYA	Multi
+Pontianak DC	MH 1 Sungai Pinyuh Hub	738	KAB. PONTIANAK	Multi
+Pontianak DC	MH Semitau Hub	857	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Sengah Temila Hub	484	KAB. LANDAK	Multi
+Pontianak DC	Mandor Hub	2,086	KAB. LANDAK	Multi
+Pontianak DC	Marau Hub	1	KAB. KETAPANG	Multi
+Pontianak DC	Mempawah Hulu Hub	3,004	KAB. LANDAK	Multi
+Pontianak DC	Mukok 2 Hub	619	KAB. SANGGAU	Multi
+Pontianak DC	Mukok Hub	829	KAB. SANGGAU	Multi
+Pontianak DC	Parindu Hub	3,071	KAB. SANGGAU	Multi
+Pontianak DC	Pontianak Utara Hub	3	KOTA PONTIANAK	Multi
+Pontianak DC	Putussibau Selatan Hub	2,313	KAB. KAPUAS HULU	Multi
+Pontianak DC	Sanggau Hub	5,880	KAB. SANGGAU	Multi
+Pontianak DC	Sei Ambawang Hub	5,734	KAB. KUBU RAYA	Multi
+Pontianak DC	Sekadau Hilir Hub	2,438	KAB. SEKADAU	Multi
+Pontianak DC	Sekayam Hub	2,917	KAB. SANGGAU	Multi
+Pontianak DC	Sengah Temila 2 Hub	778	KAB. LANDAK	Multi
+Pontianak DC	Sengah Temila 3 Hub	874	KAB. LANDAK	Multi
+Pontianak DC	Sengah Temila Hub	1,818	KAB. LANDAK	Multi
+Pontianak DC	Silat Hilir Hub	2,587	KAB. KAPUAS HULU	Multi
+Pontianak DC	Sintang Hub	6	KAB. SINTANG	Multi
+Pontianak DC	Sungai Pinyuh Hub	4,231	KAB. PONTIANAK	Multi
+Pontianak DC	Tayan Hulu Hub	2,255	KAB. SANGGAU	Multi
+Pontianak DC	Toho Hub	1,635	KAB. PONTIANAK	Multi
+Simboro Dan Kepulauan DC	Aralle Hub	1,645	KAB. MAMASA	Multi
+Simboro Dan Kepulauan DC	Banggae Timur Hub	5,891	KAB. MAJENE	Multi
+Simboro Dan Kepulauan DC	Baras 2 Hub	1,101	KAB. MAMUJU UTARA	Multi
+Simboro Dan Kepulauan DC	Baras Hub	1,998	KAB. MAMUJU UTARA	Multi
+Simboro Dan Kepulauan DC	Kalukku Hub	3,233	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	Karossa Hub	1,898	KAB. MAMUJU TENGAH	Multi
+Simboro Dan Kepulauan DC	MH 1 Papalang Hub	1,087	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	MH Kalukku 3 Hub	310	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	MH Mamasa 3 Hub	858	KAB. MAMASA	Multi
+Simboro Dan Kepulauan DC	MH Simboro Dan Kepulauan 4 Hub	1,034	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	MH Wonomulyo Hub	380	KAB. POLEWALI MANDAR	Multi
+Simboro Dan Kepulauan DC	Malunda Hub	1,797	KAB. MAJENE	Multi
+Simboro Dan Kepulauan DC	Mamasa Hub	2,550	KAB. MAMASA	Multi
+Simboro Dan Kepulauan DC	Papalang Hub	1,547	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	Polewali Hub	8,225	KAB. POLEWALI MANDAR	Multi
+Simboro Dan Kepulauan DC	Sampaga Hub	1,401	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	Sarudu Hub	2,329	KAB. MAMUJU UTARA	Multi
+Simboro Dan Kepulauan DC	Sendana Hub	2,861	KAB. MAJENE	Multi
+Simboro Dan Kepulauan DC	Simboro Dan Kepulauan Hub	8,852	KAB. MAMUJU	Multi
+Simboro Dan Kepulauan DC	Tikke Raya Hub	3,013	KAB. MAMUJU UTARA	Multi
+Simboro Dan Kepulauan DC	Tinambung Hub	5,848	KAB. POLEWALI MANDAR	Multi
+Simboro Dan Kepulauan DC	Tobadak Hub	2,412	KAB. MAMUJU TENGAH	Multi
+Simboro Dan Kepulauan DC	Topoyo Hub	3,201	KAB. MAMUJU TENGAH	Multi
+Simboro Dan Kepulauan DC	Wonomulyo Hub	7,517	KAB. POLEWALI MANDAR	Multi
+Sorong Utara DC	Sorong Utara Hub	2,702	KOTA SORONG	Multi
+Sungai Kakap DC	Galing 2 Hub	1,005	KAB. SAMBAS	Multi
+Sungai Kakap DC	Galing Hub	1,953	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH 1 Sajingan Besar Hub	240	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH 1 Selakau Hub	71	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH Pemangkat Hub	975	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH Sambas Hub	1,205	KAB. SAMBAS	Multi
+Sungai Kakap DC	Mempawah Hub	5,707	KAB. PONTIANAK	Multi
+Sungai Kakap DC	Monterado Hub	2,906	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Pemangkat Hub	5,769	KAB. SAMBAS	Multi
+Sungai Kakap DC	Pontianak Barat Hub	8,362	KOTA PONTIANAK	Multi
+Sungai Kakap DC	Sajingan Besar Hub	938	KAB. SAMBAS	Multi
+Sungai Kakap DC	Sambas Hub	7,725	KAB. SAMBAS	Multi
+Sungai Kakap DC	Sei Sungai Kakap Hub	2,670	KAB. KUBU RAYA	Multi
+Sungai Kakap DC	Sei Sungai Kunyit 2 Hub	631	KAB. PONTIANAK	Multi
+Sungai Kakap DC	Sei Sungai Kunyit Hub	1,641	KAB. PONTIANAK	Multi
+Sungai Kakap DC	Selakau Hub	2,804	KAB. SAMBAS	Multi
+Sungai Kakap DC	Selakau Timur Hub	694	KAB. SAMBAS	Multi
+Sungai Kakap DC	Singkawang Hub	9,703	KOTA SINGKAWANG	Multi
+Sungai Kakap DC	Singkawang Tengah Hub	6,699	KOTA SINGKAWANG	Multi
+Sungai Kakap DC	Singkawang Utara Hub	3,374	KOTA SINGKAWANG	Multi
+Sungai Kakap DC	Sungai Kakap Hub	3,756	KAB. KUBU RAYA	Multi
+Sungai Kakap DC	Sungai Raya Bengkayang Hub	2,811	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Sungai Raya Kepulauan Hub	1,448	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Sungai Rengas Hub	3,055	KAB. KUBU RAYA	Multi
+Sungai Kakap DC	Tebas 2 Hub	1,440	KAB. SAMBAS	Multi
+Sungai Kakap DC	Teluk Keramat Hub	3,895	KAB. SAMBAS	Multi
+Tamalanrea DC	Baolan Hub	28	KAB. TOLI-TOLI	Multi
+Tamalanrea DC	Biringkanaya 2 Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Dayun Hub	0	KAB. SIAK	Multi
+Tamalanrea DC	Hero Lange Lange Hub	0	KAB. BULUKUMBA	Multi
+Tamalanrea DC	Lalabata Hub	0	KAB. SOPPENG	Multi
+Tamalanrea DC	Palakka Hub	6	KAB. BONE	Multi
+Tamalanrea DC	Soreang Parepare Hub	0	KOTA PAREPARE	Multi
+Tamalanrea DC	Tanralili Hub	3	KAB. MAROS	Multi
+Tanjung Redeb DC	Biduk-Biduk Hub	734	KAB. BERAU	Multi
+Tanjung Redeb DC	Derawan Hub	1,040	KAB. BERAU	Multi
+Tanjung Redeb DC	MH 1 Tanjung Redeb Hub	1,037	KAB. BERAU	Multi
+Tanjung Redeb DC	MH 1 Tanjung Selor Hub	160	KAB. BULUNGAN (BULONGAN)	Multi
+Tanjung Redeb DC	MH 2 Talisayan Hub	924	KAB. BERAU	Multi
+Tanjung Redeb DC	MH 3 Talisayan Hub	858	KAB. BERAU	Multi
+Tanjung Redeb DC	Malinau Kota 2 Hub	1,613	KAB. MALINAU	Multi
+Tanjung Redeb DC	Malinau Kota Hub	3,313	KAB. MALINAU	Multi
+Tanjung Redeb DC	Talisayan Hub	2,149	KAB. BERAU	Multi
+Tanjung Redeb DC	Tanjung Palas Utara Hub	907	KAB. BULUNGAN (BULONGAN)	Multi
+Tanjung Redeb DC	Tanjung Redeb Hub	10,061	KAB. BERAU	Multi
+Tanjung Redeb DC	Tanjung Selor Hub	7,098	KAB. BULUNGAN (BULONGAN)	Multi
+Tanjung Redeb DC	Teluk Bayur 2 Hub	6,105	KAB. BERAU	Multi
+Tanjung Redeb DC	Teluk Bayur Hub	2,296	KAB. BERAU	Multi
+Wolio DC	Barangka Hub	2,584	KAB. MUNA BARAT	Multi
+Wolio DC	Batauga Hub	946	KAB. BUTON SELATAN	Multi
+Wolio DC	Lasalimu Selatan Hub	1,019	KAB. BUTON	Multi
+Wolio DC	Mawasangka Tengah Hub	2,297	KAB. BUTON TENGAH	Multi
+Wolio DC	Pasar Wajo Hub	3,183	KAB. BUTON	Multi
+Wolio DC	Tongkuno Hub	2,806	KAB. MUNA	Multi
+Wolio DC	Wangi-Wangi Selatan Hub	4,748	KAB. WAKATOBI	Multi
+Wolio DC	Wolio Hub	8,010	KOTA BAU-BAU	Multi
+Wua-Wua DC	Abeli Hub	1,810	KOTA KENDARI	Multi
+Wua-Wua DC	Andoolo Hub	2,454	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	Andowia Hub	2,061	KAB. KONAWE UTARA	Multi
+Wua-Wua DC	Kadia 2 Hub	1,569	KOTA KENDARI	Multi
+Wua-Wua DC	Kambu Hub	6,048	KOTA KENDARI	Multi
+Wua-Wua DC	Kendari Barat Hub	4,302	KOTA KENDARI	Multi
+Wua-Wua DC	Kendari Hub	2,745	KOTA KENDARI	Multi
+Wua-Wua DC	Kolaka Hub	7,167	KAB. KOLAKA	Multi
+Wua-Wua DC	Lasusua Hub	2,222	KAB. KOLAKA UTARA	Multi
+Wua-Wua DC	MH 1 Ngapa Hub	1,140	KAB. KOLAKA UTARA	Multi
+Wua-Wua DC	MH Andoolo Hub	1,000	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	MH Tirawuta 2 Hub	2,961	KAB. KOLAKA TIMUR	Multi
+Wua-Wua DC	Mandonga Hub	8,483	KOTA KENDARI	Multi
+Wua-Wua DC	Poasia Hub	5,606	KOTA KENDARI	Multi
+Wua-Wua DC	Pomalaa Hub	3,069	KAB. KOLAKA	Multi
+Wua-Wua DC	Ranomeeto Hub	3,210	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	Rumbia Hub	2,918	KAB. BOMBANA	Multi
+Wua-Wua DC	Tinanggea Hub	1,725	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	Tirawuta Hub	1,353	KAB. KOLAKA TIMUR	Multi
+Wua-Wua DC	Unaaha Hub	6,181	KAB. KONAWE	Multi
+Wua-Wua DC	Watubangga Hub	835	KAB. KOLAKA	Multi
+Wua-Wua DC	Wawotobi Hub	1,897	KAB. KONAWE	Multi
+Wua-Wua DC	Wolo Hub	2,886	KAB. KOLAKA	Multi
+Wua-Wua DC	Wonggeduku Hub	1,875	KAB. KONAWE	Multi
+Wua-Wua DC	Wua-Wua Hub	10,171	KOTA KENDARI	Multi
+Abepura DC	Abepura 2 Hub	2,898	KOTA JAYAPURA	Multi
+Abepura DC	Cilandak 2 Hub	0	KOTA JAKARTA SELATAN	Multi
+Abepura DC	Sentani Hub	1,908	KAB. JAYAPURA	Multi
+Baguala DC	Seram Utara Timur Seti Hub	1,060	KAB. MALUKU TENGAH	Multi
+Balikpapan DC	Barong Tongkok 2 Hub	1,395	KAB. KUTAI BARAT	Multi
+Balikpapan DC	Barong Tongkok Hub	6,853	KAB. KUTAI BARAT	Multi
+Balikpapan DC	Kaliorang Hub	2,186	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Kaubun 2 Hub	1,568	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Kaubun Hub	1,048	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Kongbeng Hub	2,475	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	MH 1 Kongbeng 2 Hub	604	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	MH 1 Linggang Bigung Hub	655	KAB. KUTAI BARAT	Multi
+Balikpapan DC	MH 1 Samarinda Utara Hub	1,100	KOTA SAMARINDA	Multi
+Balikpapan DC	MH 1 Sangatta Utara 2 Hub	906	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	MH 1 Sepaku 2 Hub	560	KAB. PENAJAM PASER UTARA	Multi
+Balikpapan DC	MH 2 Bontang Hub	962	KOTA BONTANG	Multi
+Balikpapan DC	MH Batu Sopang Hub	1,287	KAB. PASER	Multi
+Balikpapan DC	MH Bontang Hub	0	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	MH Sangkulirang Hub	246	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Marang Kayu Hub	2,231	KAB. KUTAI KARTANEGARA	Multi
+Balikpapan DC	Muara Lawa Hub	1,005	KAB. KUTAI BARAT	Multi
+Balikpapan DC	Sangkulirang Hub	2,277	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	Sepaku Hub	3,029	KAB. PENAJAM PASER UTARA	Multi
+Balikpapan DC	Tanjung Redeb Hub	25	KAB. BERAU	Multi
+Balikpapan DC	Tanjung Selor Hub	39	KAB. BULUNGAN (BULONGAN)	Multi
+Balikpapan DC	Teluk Bayur Hub	18	KAB. BERAU	Multi
+Banjarbaru DC	Dusun Tengah Hub	3,543	KAB. BARITO TIMUR	Multi
+Banjarbaru DC	Gunung Bintang Awai Hub	1,157	KAB. BARITO SELATAN	Multi
+Banjarbaru DC	Karusen Janang Hub	446	KAB. BARITO TIMUR	Multi
+Banjarbaru DC	Laung Tuhup Hub	1,669	KAB. MURUNG RAYA	Multi
+Banjarbaru DC	MH 2 Barabai Hub	631	KAB. HULU SUNGAI TENGAH	Multi
+Banjarbaru DC	MH Dusun Selatan 3 Hub	390	KAB. BARITO SELATAN	Multi
+Banjarbaru DC	Pematang Karau Hub	728	KAB. BARITO TIMUR	Multi
+Banjarbaru DC	Sungai Pinang Kab. Banjar Hub	1,790	KAB. BANJAR	Multi
+Banjarbaru DC	Tanah Siang Selatan Hub	728	KAB. MURUNG RAYA	Multi
+Banjarmasin 2 DC	Karang Bintang Hub	2,316	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Kelumpang Hilir Hub	2,815	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Kelumpang Hulu Hub	3,215	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Kelumpang Selatan Hub	1,357	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 2 Hub	1,509	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 3 Hub	630	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 5 Hub	984	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 6 Hub	1,456	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 8 Hub	1,754	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu Hub	1,124	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	MH Maliku Hub	1	KAB. PULANG PISAU	Multi
+Banjarmasin 2 DC	MH Muara Teweh 3 Hub	594	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	MH Muara Teweh 5 Hub	428	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	MH Muara Teweh Hub	656	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	Palangka Raya Hub	0	KOTA PALANGKA RAYA	Multi
+Banjarmasin 2 DC	Pamukan Barat Hub	1,898	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Sampanahan Hub	1,235	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Sebangau Hub	0	KOTA PALANGKA RAYA	Multi
+Banjarmasin DC	MH 1 Pulau Laut Timur Hub	328	KAB. KOTA BARU	Multi
+Banjarmasin DC	MH Selat 3 Hub	1,903	KAB. KAPUAS	Multi
+Banjarmasin DC	Pulau Laut Barat Hub	3,177	KAB. KOTA BARU	Multi
+Banjarmasin DC	Pulau Laut Timur Hub	1,665	KAB. KOTA BARU	Multi
+Dungingi DC	MH 1 Kabila Hub	2,185	KAB. BONE BOLANGO	Multi
+Dungingi DC	MH 2 Marisa Hub	952	KAB. POHUWATO	Multi
+Dungingi DC	MH 3 Marisa Hub	359	KAB. POHUWATO	Multi
+Dungingi DC	MH Tilamuta Hub	604	KAB. BOALEMO	Multi
+Dungingi DC	Makassar 2 Hub	0	KOTA MAKASSAR	Multi
+Jailolo DC	Tobelo Hub	980	KAB. HALMAHERA UTARA	Multi
+Jailolo DC	Tobelo Selatan Hub	365	KAB. HALMAHERA UTARA	Multi
+Kalawat DC	Airmadidi Hub	2,169	KAB. MINAHASA UTARA	Multi
+Kalawat DC	Dumoga Utara Hub	4,403	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Kalawat DC	MH 1 Lolak Hub	516	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Kalawat DC	MH Amurang Barat 3 Hub	554	KAB. MINAHASA SELATAN	Multi
+Kalawat DC	MH Amurang Barat Hub	1,256	KAB. MINAHASA SELATAN	Multi
+Kalawat DC	MH Dumoga Utara Hub	1,675	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Kalawat DC	MH Kalawat Hub	0	KAB. MINAHASA UTARA	Multi
+Kalawat DC	Manado Hub	4,678	KOTA MANADO	Multi
+Kalawat DC	Tarakan Barat Hub	0	KOTA TARAKAN	Multi
+Ketapang Kalbar DC	Air Upas Hub	2,753	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Jelai Hulu 2 Hub	1,355	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Jelai Hulu Hub	1,176	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Kendawangan 2 Hub	561	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 1 Simpang Hilir Hub	208	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	MH 1 Singkup Hub	38	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 1 Sungai Melayu Rayak Hub	196	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 1 Tumbang Titi Hub	285	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 2 Sungai Melayu Rayak Hub	192	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 2 Teluk Batang Hub	129	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	MH 4 Nanga Tayap Hub	35	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH Ketapang Kalbar Hub	888	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Manis Mata Hub	2,447	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Marau Hub	465	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Matan Hilir Selatan Hub	2,400	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Nanga Tayap 2 Hub	1,151	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Nanga Tayap Hub	1,949	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Pemahan Hub	482	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Pulau Maya Hub	30	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	Sandai 3 Hub	1,327	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Sandai Hub	2,730	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Seponti Hub	1,371	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	Simpang Dua Hub	657	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Simpang Hilir Hub	2,186	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	Singkup Hub	2,368	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Sungai Melayu Rayak Hub	1,651	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Teluk Batang Hub	2,203	KAB. KAYONG UTARA	Multi
+Ketapang Kalbar DC	Tumbang Titi Hub	1,466	KAB. KETAPANG	Multi
+Makassar DC	Alla Hub	0	KAB. ENREKANG	Multi
+Makassar DC	Benteng Hub	3,931	KAB. SELAYAR (KEPULAUAN SELAYAR)	Multi
+Makassar DC	MH 1 Benteng Hub	662	KAB. SELAYAR (KEPULAUAN SELAYAR)	Multi
+Makassar DC	MH 1 Bontomarannu Hub	858	KAB. GOWA	Multi
+Makassar DC	MH Tompobulu Hub	631	KAB. GOWA	Multi
+Makassar DC	Pajukukang Hub	1,380	KAB. BANTAENG	Multi
+Makassar DC	Tompobulu Kab. Bantaeng Hub	2,027	KAB. BANTAENG	Multi
+Manokwari Barat DC	Bintuni Hub	221	KAB. TELUK BINTUNI	Multi
+Manokwari Barat DC	Ransiki Hub	108	KAB. MANOKWARI SELATAN	Multi
+Mantikulore DC	Bahodopi 2 Hub	7,539	KAB. MOROWALI	Multi
+Mantikulore DC	Biau Hub	4,622	KAB. BUOL	Multi
+Mantikulore DC	Bokat Hub	1,381	KAB. BUOL	Multi
+Mantikulore DC	Buko Selatan Hub	1,270	KAB. BANGGAI KEPULAUAN	Multi
+Mantikulore DC	Bunta Hub	2,006	KAB. BANGGAI	Multi
+Mantikulore DC	Lembo Hub	1,673	KAB. MOROWALI UTARA	Multi
+Mantikulore DC	Luwuk Hub	5,559	KAB. BANGGAI	Multi
+Mantikulore DC	MH 1 Bokat Hub	635	KAB. BUOL	Multi
+Mantikulore DC	MH 1 Bolano Lambunu Hub	877	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH 2 Mepanga Hub	1,327	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH 3 Mepanga Hub	434	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH Baolan 4 Hub	0	KAB. TOLI-TOLI	Multi
+Mantikulore DC	MH Biau 2 Hub	1,018	KAB. BUOL	Multi
+Mantikulore DC	MH Pagimana Hub	1,410	KAB. BANGGAI	Multi
+Mantikulore DC	MH Parigi 4 Hub	380	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH Parigi 6 Hub	41	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH Parigi Hub	0	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH Petasia 3 Hub	465	KAB. MOROWALI UTARA	Multi
+Mantikulore DC	Mori Atas Hub	1,672	KAB. MOROWALI UTARA	Multi
+Mantikulore DC	Nambo Hub	1,031	KAB. BANGGAI	Multi
+Mantikulore DC	Pagimana Hub	1,587	KAB. BANGGAI	Multi
+Mantikulore DC	Pamona Puselemba Hub	2,634	KAB. POSO	Multi
+Mantikulore DC	Pamona Selatan Hub	2,232	KAB. POSO	Multi
+Mantikulore DC	Toili 2 Hub	2,755	KAB. BANGGAI	Multi
+Mantikulore DC	Toili Hub	3,005	KAB. BANGGAI	Multi
+Maros DC	Angkona Hub	1,530	KAB. LUWU TIMUR	Multi
+Maros DC	Baebunta Hub	2,106	KAB. LUWU UTARA	Multi
+Maros DC	MH 1 Baebunta Hub	978	KAB. LUWU UTARA	Multi
+Maros DC	MH 1 Duampanua Hub	1,283	KAB. PINRANG	Multi
+Maros DC	MH 1 Kahu Hub	266	KAB. BONE	Multi
+Maros DC	MH 1 Tanete Riattang Hub	990	KAB. BONE	Multi
+Maros DC	MH 1 Wara Hub	1,641	KOTA PALOPO	Multi
+Maros DC	MH 2 Libureng Hub	565	KAB. BONE	Multi
+Maros DC	MH 2 Towuti Hub	83	KAB. LUWU TIMUR	Multi
+Maros DC	MH 3 Rantepao Hub	267	KAB. TORAJA UTARA	Multi
+Maros DC	MH 4 Rantepao Hub	120	KAB. TORAJA UTARA	Multi
+Maros DC	MH Libureng Hub	774	KAB. BONE	Multi
+Maros DC	MH Makale 4 Hub	532	KAB. TANA TORAJA	Multi
+Maros DC	MH Makale Utara 2 Hub	556	KAB. TANA TORAJA	Multi
+Maros DC	MH Makale Utara Hub	712	KAB. TANA TORAJA	Multi
+Maros DC	MH Marang Hub	989	KAB. PANGKAJENE KEPULAUAN	Multi
+Maros DC	MH Rantepao 2 Hub	423	KAB. TORAJA UTARA	Multi
+Maros DC	MH Rantepao Hub	125	KAB. TORAJA UTARA	Multi
+Maros DC	Malangke Hub	3,365	KAB. LUWU UTARA	Multi
+Maros DC	Mare Hub	2,262	KAB. BONE	Multi
+Maros DC	Nuha Hub	2,459	KAB. LUWU TIMUR	Multi
+Maros DC	Salomekko Hub	2,727	KAB. BONE	Multi
+Maros DC	Takkalalla Hub	1,761	KAB. WAJO	Multi
+Maros DC	Wara Utara Hub	6,591	KOTA PALOPO	Multi
+Merauke DC	MH Merauke Hub	216	KAB. MERAUKE	Multi
+Merauke DC	Mandobo Hub	181	KAB. BOVEN DIGOEL	Multi
+Palangka Raya DC	Balai Riam 2 Hub	104	KAB. SUKAMARA	Multi
+Palangka Raya DC	Balai Riam Hub	2,353	KAB. SUKAMARA	Multi
+Palangka Raya DC	Bulik Hub	5,045	KAB. LAMANDAU	Multi
+Palangka Raya DC	Cempaga Hub	2,099	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Cempaga Hulu Hub	88	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Katingan Hilir 2 Hub	3,051	KAB. KATINGAN	Multi
+Palangka Raya DC	Katingan Tengah Hub	2,911	KAB. KATINGAN	Multi
+Palangka Raya DC	Kota Besi Hub	1,169	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Kotawaringin Lama Hub	836	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	MH 1 Baamang 2 Hub	767	KAB. SERUYAN	Multi
+Palangka Raya DC	MH 1 Bukit Batu Kota Palangka Raya Hub	0	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	MH 1 Cempaga Hulu Hub	2,320	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	MH 1 Katingan Hilir 2 Hub	198	KAB. KATINGAN	Multi
+Palangka Raya DC	MH 1 Mentawa Baru Hub	526	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	MH 2 Katingan Hilir 2 Hub	712	KAB. KATINGAN	Multi
+Palangka Raya DC	MH 2 Katingan Tengah Hub	527	KAB. KATINGAN	Multi
+Palangka Raya DC	MH 2 Kotawaringin Lama Hub	1,054	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	MH Bulik 2 Hub	605	KAB. SUKAMARA	Multi
+Palangka Raya DC	MH Bulik Hub	0	KAB. LAMANDAU	Multi
+Palangka Raya DC	MH Hanau Hub	595	KAB. SERUYAN	Multi
+Palangka Raya DC	MH Jekan Raya Hub	450	KAB. PULANG PISAU	Multi
+Palangka Raya DC	MH Kasongan 2 Hub	0	KAB. KATINGAN	Multi
+Palangka Raya DC	MH Katingan Tengah Hub	392	KAB. KATINGAN	Multi
+Palangka Raya DC	MH Khayan Hilir Hub	1,675	KAB. PULANG PISAU	Multi
+Palangka Raya DC	MH Parenggean 4 Hub	464	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	MH Sukamara 3 Hub	669	KAB. SUKAMARA	Multi
+Palangka Raya DC	MH Sukamara 4 Hub	1,028	KAB. SUKAMARA	Multi
+Palangka Raya DC	Pangkalan Lada Hub	3,742	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Rakumpit Hub	0	KOTA PALANGKA RAYA	Multi
+Palangka Raya DC	Seruyan Hilir Timur Hub	945	KAB. SERUYAN	Multi
+Palangka Raya DC	Teluk Sampit Hub	1,055	KAB. KOTA WARINGIN TIMUR	Multi
+Palangka Raya DC	Tewang Sanggalang Garing (Sangalang) Hub	928	KAB. KATINGAN	Multi
+Palangka Raya DC	Timpah Hub	2,689	KAB. KAPUAS	Multi
+Pontianak 2 DC	Batu Ampar Hub	1,957	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Belimbing Hub	1,606	KAB. MELAWI	Multi
+Pontianak 2 DC	Kubu Hub	2,090	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	MH 1 Dedai Hub	1,170	KAB. SINTANG	Multi
+Pontianak 2 DC	MH 1 Meliau 2 Hub	201	KAB. SANGGAU	Multi
+Pontianak 2 DC	MH 1 Tanah Pinoh Hub	179	KAB. MELAWI	Multi
+Pontianak 2 DC	MH Melawi 3 Hub	30	KAB. MELAWI	Multi
+Pontianak 2 DC	MH Melawi Hub	21	KAB. MELAWI	Multi
+Pontianak 2 DC	Meliau 2 Hub	896	KAB. SANGGAU	Multi
+Pontianak 2 DC	Meliau 3 Hub	452	KAB. SANGGAU	Multi
+Pontianak 2 DC	Menukung Hub	1,350	KAB. MELAWI	Multi
+Pontianak 2 DC	Selakau Timur Hub	0	KAB. SAMBAS	Multi
+Pontianak 2 DC	Sepauk 3 Hub	798	KAB. SINTANG	Multi
+Pontianak 2 DC	Simpang Hulu Hub	1,491	KAB. KETAPANG	Multi
+Pontianak 2 DC	Sungai Kakap Hub	2	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Tempunak Hub	1,150	KAB. SINTANG	Multi
+Pontianak DC	Badau Hub	1,355	KAB. KAPUAS HULU	Multi
+Pontianak DC	Belitang Hilir Hub	1,411	KAB. SEKADAU	Multi
+Pontianak DC	Belitang Hub	1,513	KAB. SEKADAU	Multi
+Pontianak DC	Belitang Hulu Hub	827	KAB. SEKADAU	Multi
+Pontianak DC	Benua Kayong Hub	0	KAB. KETAPANG	Multi
+Pontianak DC	Binjai Hulu Hub	1,010	KAB. SINTANG	Multi
+Pontianak DC	Bunut Hulu Hub	1,382	KAB. KAPUAS HULU	Multi
+Pontianak DC	Empanang Hub	1,086	KAB. KAPUAS HULU	Multi
+Pontianak DC	Entikong Hub	1,143	KAB. SANGGAU	Multi
+Pontianak DC	Hulu Gurung Hub	1,150	KAB. KAPUAS HULU	Multi
+Pontianak DC	Jongkong (Jengkong) Hub	1,196	KAB. KAPUAS HULU	Multi
+Pontianak DC	Kalis Hub	443	KAB. KAPUAS HULU	Multi
+Pontianak DC	Kendawangan 3 Hub	0	KAB. KETAPANG	Multi
+Pontianak DC	MH 1 Mukok Hub	0	KAB. SANGGAU	Multi
+Pontianak DC	MH 1 Peunaron Hub	0	KAB. ACEH TIMUR	Multi
+Pontianak DC	MH 1 Putussibau Hub	0	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH 1 Sekadau Hilir 3 Hub	888	KAB. SEKADAU	Multi
+Pontianak DC	MH 2 Hulu Gurung Hub	773	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH 2 Kuala Behe Hub	0	KAB. LANDAK	Multi
+Pontianak DC	MH 2 Landak Hub	870	KAB. LANDAK	Multi
+Pontianak DC	MH 2 Mempawah Hulu Hub	589	KAB. LANDAK	Multi
+Pontianak DC	MH 2 Semitau Hub	322	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH 3 Putussibau Hub	169	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Hulu Gurung Hub	897	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Landak Hub	687	KAB. LANDAK	Multi
+Pontianak DC	MH Parindu Hub	46	KAB. SANGGAU	Multi
+Pontianak DC	MH Sanggau 3 Hub	135	KAB. SANGGAU	Multi
+Pontianak DC	MH Sekadau Hilir 3 Hub	939	KAB. SEKADAU	Multi
+Pontianak DC	MH Sekayam 2 Hub	0	KAB. SANGGAU	Multi
+Pontianak DC	MH Sekayam 3 Hub	0	KAB. SANGGAU	Multi
+Pontianak DC	MH Sekayam Hub	64	KAB. SANGGAU	Multi
+Pontianak DC	MH Silat Hilir 2 Hub	716	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Silat Hilir Hub	414	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Tayan Hulu Hub	46	KAB. SANGGAU	Multi
+Pontianak DC	Mentebah Hub	907	KAB. KAPUAS HULU	Multi
+Pontianak DC	Nanga Taman Hub	1,634	KAB. SEKADAU	Multi
+Pontianak DC	Putussibau Hub	2,067	KAB. KAPUAS HULU	Multi
+Pontianak DC	Putussibau Utara Hub	441	KAB. KAPUAS HULU	Multi
+Pontianak DC	Sekadau Hilir 3 Hub	897	KAB. SEKADAU	Multi
+Pontianak DC	Semitau Hub	1,027	KAB. KAPUAS HULU	Multi
+Pontianak DC	Singkawang Tengah Hub	0	KOTA SINGKAWANG	Multi
+Simboro Dan Kepulauan DC	MH 1 Aralle Hub	409	KAB. MAMASA	Multi
+Simboro Dan Kepulauan DC	MH 1 Tinambung Hub	320	KAB. POLEWALI MANDAR	Multi
+Simboro Dan Kepulauan DC	MH 1 Topoyo Hub	1,312	KAB. MAMUJU TENGAH	Multi
+Simboro Dan Kepulauan DC	MH 3 Topoyo Hub	826	KAB. MAMUJU TENGAH	Multi
+Simboro Dan Kepulauan DC	MH Pasangkayu Hub	936	KAB. MAMUJU UTARA	Multi
+Simboro Dan Kepulauan DC	MH Wonomulyo 4 Hub	439	KAB. POLEWALI MANDAR	Multi
+Simboro Dan Kepulauan DC	Makassar 2 Hub	0	KOTA MAKASSAR	Multi
+Simboro Dan Kepulauan DC	Pasangkayu Hub	4,257	KAB. MAMUJU UTARA	Multi
+Sungai Kakap DC	Jawai Hub	6,490	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH Mempawah Hub	120	KAB. PONTIANAK	Multi
+Sungai Kakap DC	MH Monterado Hub	987	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Paloh Hub	2,357	KAB. SAMBAS	Multi
+Sungai Kakap DC	Sanggau Ledo Hub	2,000	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Sungai Pinyuh Hub	0	KAB. PONTIANAK	Multi
+Sungai Kakap DC	Tangaran Hub	1,683	KAB. SAMBAS	Multi
+Sungai Kakap DC	Tebas Hub	3,491	KAB. SAMBAS	Multi
+Sungai Kakap DC	Teluk Keramat 2 Hub	1,802	KAB. SAMBAS	Multi
+Tamalanrea DC	Baras 2 Hub	4	KAB. MAMUJU UTARA	Multi
+Tamalanrea DC	Bontonompo Selatan Hub	0	KAB. GOWA	Multi
+Tamalanrea DC	Duampanua Hub	0	KAB. PINRANG	Multi
+Tamalanrea DC	MH 2 Bungku Tengah Hub	0	KAB. MOROWALI	Multi
+Tamalanrea DC	Makassar Hub	3	KOTA MAKASSAR	Multi
+Tamalanrea DC	Mimika Baru Hub	84	KAB. MIMIKA	Multi
+Tamalanrea DC	Palu Timur Hub	19	KOTA PALU	Multi
+Tamalanrea DC	Panca Rijang Hub	0	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Tamalanrea DC	Pitumpanua Hub	6	KAB. WAJO	Multi
+Tamalanrea DC	Simboro Dan Kepulauan Hub	15	KAB. MAMUJU	Multi
+Tamalanrea DC	Sukamaju Hub	3	KAB. LUWU UTARA	Multi
+Tamalanrea DC	Ternate Hub	146	KOTA TERNATE	Multi
+Tamalanrea DC	Ternate Selatan 2 Hub	59	KOTA TERNATE	Multi
+Tamalanrea DC	Ternate Selatan Hub	84	KOTA TERNATE	Multi
+Tamalanrea DC	Ternate Utara Hub	161	KOTA TERNATE	Multi
+Tamalanrea DC	Turikale Hub	9	KAB. MAROS	Multi
+Tamalanrea DC	Wonomulyo Hub	0	KAB. POLEWALI MANDAR	Multi
+Tanjung Redeb DC	MH 1 Sebuku Hub	455	KAB. NUNUKAN	Multi
+Tanjung Redeb DC	MH 4 Tanjung Redeb Hub	850	KAB. BERAU	Multi
+Tanjung Redeb DC	Nunukan Hub	4,260	KAB. NUNUKAN	Multi
+Tanjung Redeb DC	Sambaliung Hub	2,858	KAB. BERAU	Multi
+Tanjung Redeb DC	Sebuku Hub	2,975	KAB. NUNUKAN	Multi
+Tanjung Redeb DC	Sesayap Hub	1,408	KAB. TANA TIDUNG	Multi
+Wolio DC	Kulisusu Hub	2,326	KAB. BUTON UTARA	Multi
+Wolio DC	MH 1 Lasalimu Selatan Hub	733	KAB. BUTON	Multi
+Wolio DC	MH 2 Mawasangka Tengah Hub	924	KAB. BUTON TENGAH	Multi
+Wolio DC	MH Kulisusu 3 Hub	1,082	KAB. BUTON UTARA	Multi
+Wolio DC	MH Mawasangka Tengah Hub	1,296	KAB. BUTON TENGAH	Multi
+Wolio DC	MH Pasar Wajo 2 Hub	730	KAB. BUTON	Multi
+Wolio DC	MH Wangi-Wangi Selatan 2 Hub	804	KAB. WAKATOBI	Multi
+Wolio DC	MH Wangi-Wangi Selatan 3 Hub	0	KAB. WAKATOBI	Multi
+Wua-Wua DC	Kolono Hub	893	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	MH 1 Poleang Hub	1,718	KAB. BOMBANA	Multi
+Wua-Wua DC	MH Andoolo 2 Hub	912	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	MH Andoolo 4 Hub	1,120	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	MH Andowia Hub	521	KAB. KONAWE UTARA	Multi
+Wua-Wua DC	MH Lasusua 3 Hub	840	KAB. KOLAKA UTARA	Multi
+Wua-Wua DC	MH Tirawuta Hub	859	KAB. KOLAKA TIMUR	Multi
+Wua-Wua DC	Moramo Hub	922	KAB. KONAWE SELATAN	Multi
+Wua-Wua DC	Ngapa Hub	2,131	KAB. KOLAKA UTARA	Multi
+Wua-Wua DC	Poleang Hub	1,820	KAB. BOMBANA	Multi
+Abepura DC	Arso 2 Hub	195	KAB. KEEROM	Multi
+Abepura DC	Arso Hub	297	KAB. KEEROM	Multi
+Balikpapan DC	Derawan Hub	12	KAB. BERAU	Multi
+Balikpapan DC	MH 2 Kongbeng Hub	570	KAB. KUTAI TIMUR	Multi
+Balikpapan DC	MH Batu Sopang 2 Hub	11	KAB. PASER	Multi
+Balikpapan DC	Malinau Kota Hub	12	KAB. MALINAU	Multi
+Balikpapan DC	Sambaliung Hub	26	KAB. BERAU	Multi
+Balikpapan DC	Teluk Bayur 2 Hub	20	KAB. BERAU	Multi
+Banjarbaru DC	MH Dusun Selatan 2 Hub	0	KAB. BARITO SELATAN	Multi
+Banjarmasin 2 DC	Baamang Hub	6	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Balikpapan Hub	4	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Balikpapan Timur Hub	6	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Balikpapan Utara Hub	9	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Banjarbaru Utara 2 Hub	2	KOTA BANJARBARU	Multi
+Banjarmasin 2 DC	Biduk-Biduk Hub	2	KAB. BERAU	Multi
+Banjarmasin 2 DC	Dusun Tengah Hub	2	KAB. BARITO TIMUR	Multi
+Banjarmasin 2 DC	Jekan Raya Hub	9	KOTA PALANGKA RAYA	Multi
+Banjarmasin 2 DC	Khayan Hilir Hub	4	KAB. PULANG PISAU	Multi
+Banjarmasin 2 DC	Kumai Hub	45	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	MH 1 Teweh Selatan Hub	390	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	MH Muara Teweh 2 Hub	336	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	MH Muara Teweh 4 Hub	356	KAB. BARITO UTARA	Multi
+Banjarmasin 2 DC	Mentaya Hilir Selatan Hub	6	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Pahandut 3 Hub	12	KOTA PALANGKA RAYA	Multi
+Banjarmasin 2 DC	Pahandut Hub	6	KOTA PALANGKA RAYA	Multi
+Banjarmasin 2 DC	Pangkalan Banteng Hub	3	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Pangkalan Lada Hub	2	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Penajam Hub	3	KAB. PENAJAM PASER UTARA	Multi
+Banjarmasin DC	Cidahu Hub	2	KAB. KUNINGAN	Multi
+Dungingi DC	MH 1 Tabongo Hub	1,288	KAB. GORONTALO	Multi
+Jailolo DC	Kota Maba Hub	357	KAB. HALMAHERA TIMUR	Multi
+Jailolo DC	MH Tobelo Hub	0	KAB. HALMAHERA UTARA	Multi
+Jailolo DC	Weda Tengah Hub	450	KAB. HALMAHERA TENGAH	Multi
+Kalawat DC	MH 2 Lolak Hub	1,670	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Kalawat DC	MH 4 Amurang Barat Hub	470	KAB. MINAHASA SELATAN	Multi
+Ketapang Kalbar DC	MH 1 Manis Mata Hub	3	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 2 Manis Mata Hub	158	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 6 Sandai Hub	67	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH 7 Sandai Hub	176	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH Matan Hilir Selatan Hub	87	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH Sandai 3 Hub	0	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH Sandai 4 Hub	0	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	MH Sandai 5 Hub	99	KAB. KETAPANG	Multi
+Ketapang Kalbar DC	Sungai Laur Hub	1,073	KAB. KETAPANG	Multi
+Makassar DC	MH 2 Sungguminasa Hub	0	KAB. GOWA	Multi
+Makassar DC	Somba Opu Hub	3	KOTA MAKASSAR	Multi
+Mantikulore DC	Banggai Hub	4,730	KAB. BANGGAI LAUT	Multi
+Mantikulore DC	MH 1 Bunta Hub	552	KAB. BANGGAI	Multi
+Mantikulore DC	MH 1 Dondo Hub	671	KAB. TOLI-TOLI	Multi
+Mantikulore DC	MH 1 Mepanga Hub	547	KAB. PARIGI MOUTONG	Multi
+Mantikulore DC	MH 2 Bokat Hub	1,269	KAB. BUOL	Multi
+Mantikulore DC	MH 2 Bungku Tengah Hub	930	KAB. MOROWALI	Multi
+Mantikulore DC	MH Biau 4 Hub	0	KAB. BUOL	Multi
+Mantikulore DC	MH Luwuk 2 Hub	1,258	KAB. BANGGAI	Multi
+Mantikulore DC	MH Luwuk Hub	940	KAB. BANGGAI	Multi
+Mantikulore DC	MH Poso Kota Hub	16	KAB. POSO	Multi
+Maros DC	MH 1 Alla Hub	600	KAB. ENREKANG	Multi
+Maros DC	MH Walenrang 2 Hub	0	KAB. LUWU	Multi
+Palangka Raya DC	MH Bulik 4 Hub	288	KAB. LAMANDAU	Multi
+Pontianak 2 DC	MH 1 Batu Ampar 2 Hub	345	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	MH 1 Kelam Permai Hub	0	KAB. SINTANG	Multi
+Pontianak 2 DC	MH 2 Tayan Hilir Hub	366	KAB. SANGGAU	Multi
+Pontianak 2 DC	Sei Sungai Kakap Hub	2	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Selakau Hub	4	KAB. SAMBAS	Multi
+Pontianak 2 DC	Singkawang Tengah Hub	2	KOTA SINGKAWANG	Multi
+Pontianak 2 DC	Sungai Raya Bengkayang Hub	4	KAB. BENGKAYANG	Multi
+Pontianak 2 DC	Sungai Rengas Hub	6	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Teluk Keramat Hub	4	KAB. SAMBAS	Multi
+Pontianak DC	Bengkayang Hub	1	KAB. BENGKAYANG	Multi
+Pontianak DC	MH 1 Balai Hub	22	KAB. SANGGAU	Multi
+Pontianak DC	MH 1 Tumbang Titi Hub	1	KAB. KETAPANG	Multi
+Pontianak DC	Paloh Hub	2	KAB. SAMBAS	Multi
+Pontianak DC	Sambas Hub	6	KAB. SAMBAS	Multi
+Pontianak DC	Sanggau Ledo Hub	1	KAB. BENGKAYANG	Multi
+Pontianak DC	Selakau Hub	4	KAB. SAMBAS	Multi
+Pontianak DC	Singkawang Hub	3	KOTA SINGKAWANG	Multi
+Pontianak DC	Sungai Laur Hub	2	KAB. KETAPANG	Multi
+Pontianak DC	Tebas 2 Hub	2	KAB. SAMBAS	Multi
+Simboro Dan Kepulauan DC	MH Mamasa 2 Hub	0	KAB. MAMASA	Multi
+Sorong Utara DC	Teminabuan Hub	108	KAB. SORONG SELATAN	Multi
+Sungai Kakap DC	Bengkayang Hub	136	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	Long Ikis Hub	2	KAB. PASER	Multi
+Sungai Kakap DC	MH 1 Paloh Hub	142	KAB. SAMBAS	Multi
+Sungai Kakap DC	MH Bengkayang Hub	177	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	MH Sanggau Ledo 2 Hub	660	KAB. BENGKAYANG	Multi
+Sungai Kakap DC	MH Singkawang Hub	55	KOTA SINGKAWANG	Multi
+Tamalanrea DC	Alla Hub	0	KAB. ENREKANG	Multi
+Tamalanrea DC	Ampana Kota Hub	24	KAB. TOJO UNA-UNA	Multi
+Tamalanrea DC	Ampenan Hub	0	KOTA MATARAM	Multi
+Tamalanrea DC	Aralle Hub	2	KAB. MAMASA	Multi
+Tamalanrea DC	Awangpone Hub	3	KAB. BONE	Multi
+Tamalanrea DC	Bacukiki Barat Hub	0	KOTA PAREPARE	Multi
+Tamalanrea DC	Bahodopi 3 Hub	3	KAB. MOROWALI	Multi
+Tamalanrea DC	Bahodopi 4 Hub	12	KAB. MOROWALI	Multi
+Tamalanrea DC	Bahodopi Hub	28	KAB. MOROWALI	Multi
+Tamalanrea DC	Banawa Hub	14	KAB. DONGGALA	Multi
+Tamalanrea DC	Banggae Timur Hub	12	KAB. MAJENE	Multi
+Tamalanrea DC	Barru Hub	0	KAB. BARRU	Multi
+Tamalanrea DC	Belopa Hub	0	KAB. LUWU	Multi
+Tamalanrea DC	Binamu Hub	0	KAB. JENEPONTO	Multi
+Tamalanrea DC	Kahu Hub	0	KAB. BONE	Multi
+Tamalanrea DC	Klari Hub	0	KAB. KARAWANG	Multi
+Tamalanrea DC	Libureng Hub	0	KAB. BONE	Multi
+Tamalanrea DC	MH 1 Mantikulore Hub	2	KOTA PALU	Multi
+Tamalanrea DC	Makale Utara Hub	0	KAB. TANA TORAJA	Multi
+Tamalanrea DC	Makassar 2 Hub	3	KOTA MAKASSAR	Multi
+Tamalanrea DC	Mantikulore Hub	24	KOTA PALU	Multi
+Tamalanrea DC	Mario Riwawo Hub	0	KAB. SOPPENG	Multi
+Tamalanrea DC	Pagimana Hub	4	KAB. BANGGAI	Multi
+Tamalanrea DC	Palu Selatan Hub	36	KOTA PALU	Multi
+Tamalanrea DC	Pangkajene Hub	6	KAB. PANGKAJENE KEPULAUAN	Multi
+Tamalanrea DC	Petasia Hub	6	KAB. MOROWALI UTARA	Multi
+Tamalanrea DC	Poasia Hub	3	KOTA KENDARI	Multi
+Tamalanrea DC	Polewali Hub	9	KAB. POLEWALI MANDAR	Multi
+Tamalanrea DC	Pomalaa Hub	0	KAB. KOLAKA	Multi
+Tamalanrea DC	Poso Kota Hub	16	KAB. POSO	Multi
+Tamalanrea DC	Salomekko Hub	0	KAB. BONE	Multi
+Tamalanrea DC	Sarudu Hub	0	KAB. MAMUJU UTARA	Multi
+Tamalanrea DC	Sendana Hub	2	KAB. MAJENE	Multi
+Tamalanrea DC	Tinambung Hub	0	KAB. POLEWALI MANDAR	Multi
+Tamalanrea DC	Unaaha Hub	8	KAB. KONAWE	Multi
+Tamalanrea DC	Wonggeduku Hub	3	KAB. KONAWE	Multi
+Tanjung Redeb DC	Sebatik Hub	1,426	KAB. NUNUKAN	Multi
+Wolio DC	BATALAIWARU (BATALAIWORU) Hub	5,597	KAB. MUNA	Multi
+Wolio DC	MH Wangi-Wangi Selatan 1 Hub	1,122	KAB. WAKATOBI	Multi
+Wua-Wua DC	Pondok Suguh Hub	0	KAB. MUKO MUKO	Multi
+Abepura DC	Sarmi Hub	197	KAB. SARMI	Multi
+Balikpapan DC	Biduk-Biduk Hub	6	KAB. BERAU	Multi
+Balikpapan DC	MH 1 Sekolaq Darat Hub	330	KAB. KUTAI BARAT	Multi
+Balikpapan DC	MH 4 Tanjung Redeb Hub	0	KAB. BERAU	Multi
+Balikpapan DC	Malinau Kota 2 Hub	2	KAB. MALINAU	Multi
+Balikpapan DC	Talisayan Hub	5	KAB. BERAU	Multi
+Balikpapan DC	Trucuk Hub	0	KAB. KLATEN	Multi
+Banjarmasin 2 DC	Arut Selatan Hub	2	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Balikpapan Barat Hub	0	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Bulik Hub	0	KAB. LAMANDAU	Multi
+Banjarmasin 2 DC	Karang Tengah Hub	0	KOTA TANGERANG	Multi
+Banjarmasin 2 DC	Kasongan Hub	0	KAB. KATINGAN	Multi
+Banjarmasin 2 DC	Kotawaringin Lama 2 Hub	0	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Kotawaringin Lama Hub	0	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Kurun 3 Hub	0	KAB. GUNUNG MAS	Multi
+Banjarmasin 2 DC	Maliku Hub	0	KAB. PULANG PISAU	Multi
+Banjarmasin 2 DC	Mentawa Baru Hub	15	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Mentaya Hilir Utara Hub	0	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Nengah Bulik Hub	2	KAB. LAMANDAU	Multi
+Banjarmasin 2 DC	Sukamara Hub	0	KAB. SUKAMARA	Multi
+Dungingi DC	MH Kwandang 2 Hub	0	KAB. GORONTALO UTARA	Multi
+Kalawat DC	MH 2 Matuari Hub	75	KOTA BITUNG	Multi
+Kalawat DC	MH Tutuyan 2 Hub	303	KAB. BOLAANG MONGONDOW TIMUR	Multi
+Makassar DC	Sukamaju Hub	3	KAB. LUWU UTARA	Multi
+Makassar DC	Tanralili Hub	6	KAB. MAROS	Multi
+Mantikulore DC	MH 1 Toili Hub	2,321	KAB. BANGGAI	Multi
+Mantikulore DC	MH Tinakung 2 Hub	1,044	KAB. BANGGAI KEPULAUAN	Multi
+Mantikulore DC	MH Tinakung 3 Hub	1,859	KAB. BANGGAI KEPULAUAN	Multi
+Mantikulore DC	MH Tinakung 4 Hub	1,239	KAB. BANGGAI KEPULAUAN	Multi
+Maros DC	Bontonompo Selatan Hub	3	KAB. GOWA	Multi
+Maros DC	MH 1 Enrekang Hub	371	KAB. ENREKANG	Multi
+Maros DC	Mamajang Hub	3	KOTA MAKASSAR	Multi
+Maros DC	Sungguminasa Hub	2	KAB. GOWA	Multi
+Palangka Raya DC	MH 1 Mentaya Hulu Hub	46	KAB. KOTA WARINGIN TIMUR	Multi
+Pontianak 2 DC	MH 1 Belimbing Hub	228	KAB. MELAWI	Multi
+Pontianak 2 DC	MH 1 Sepauk Hub	99	KAB. SINTANG	Multi
+Pontianak 2 DC	Sambas Hub	0	KAB. SAMBAS	Multi
+Pontianak DC	MH 1 Kuala Behe Hub	447	KAB. LANDAK	Multi
+Pontianak DC	MH 1 Toho Hub	269	KAB. PONTIANAK	Multi
+Pontianak DC	MH Sekadau Hilir 4 Hub	0	KAB. SEKADAU	Multi
+Pontianak DC	MH Sekadau Hilir Hub	3	KAB. SEKADAU	Multi
+Pontianak DC	Selimbau Hub	0	KAB. KAPUAS HULU	Multi
+Pontianak DC	Tangaran Hub	0	KAB. SAMBAS	Multi
+Pontianak DC	Tempunak Hub	0	KAB. SINTANG	Multi
+Simboro Dan Kepulauan DC	MH 2 Aralle Hub	208	KAB. MAMASA	Multi
+Tamalanrea DC	Abeli Hub	3	KOTA KENDARI	Multi
+Tamalanrea DC	Ampibabo Hub	12	KAB. PARIGI MOUTONG	Multi
+Tamalanrea DC	Andoolo Hub	6	KAB. KONAWE SELATAN	Multi
+Tamalanrea DC	Andowia Hub	3	KAB. KONAWE UTARA	Multi
+Tamalanrea DC	Bahodopi 2 Hub	28	KAB. MOROWALI	Multi
+Tamalanrea DC	Bahodopi 5 Hub	20	KAB. MOROWALI	Multi
+Tamalanrea DC	Bara Hub	3	KOTA PALOPO	Multi
+Tamalanrea DC	Batui Hub	3	KAB. BANGGAI	Multi
+Tamalanrea DC	Biau Hub	3	KAB. BUOL	Multi
+Tamalanrea DC	Bokat Hub	6	KAB. BUOL	Multi
+Tamalanrea DC	Bolano Lambunu Hub	12	KAB. PARIGI MOUTONG	Multi
+Tamalanrea DC	Bonto Bahari Hub	3	KAB. BULUKUMBA	Multi
+Tamalanrea DC	Bungku Barat Hub	6	KAB. MOROWALI	Multi
+Tamalanrea DC	Bungku Tengah Hub	18	KAB. MOROWALI	Multi
+Tamalanrea DC	Bunta Hub	12	KAB. BANGGAI	Multi
+Tamalanrea DC	Dondo Hub	8	KAB. TOLI-TOLI	Multi
+Tamalanrea DC	Gumbasa Hub	4	KAB. SIGI	Multi
+Tamalanrea DC	Kambu Hub	6	KOTA KENDARI	Multi
+Tamalanrea DC	Kendari Barat Hub	12	KOTA KENDARI	Multi
+Tamalanrea DC	Lasusua Hub	6	KAB. KOLAKA UTARA	Multi
+Tamalanrea DC	Lilir Rilau Hub	6	KAB. SOPPENG	Multi
+Tamalanrea DC	Luwuk Hub	15	KAB. BANGGAI	Multi
+Tamalanrea DC	MH 3 Sigi Biromaru Hub	2	KAB. SIGI	Multi
+Tamalanrea DC	Mandonga Hub	4	KOTA KENDARI	Multi
+Tamalanrea DC	Negara Hub	6	KAB. JEMBRANA	Multi
+Tamalanrea DC	Palu Hub	20	KOTA PALU	Multi
+Tamalanrea DC	Parigi Hub	8	KAB. PARIGI MOUTONG	Multi
+Tamalanrea DC	Petasia Timur Hub	9	KAB. MOROWALI UTARA	Multi
+Tamalanrea DC	Pitu Riase Hub	2	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Tamalanrea DC	Ponrang Hub	3	KAB. LUWU	Multi
+Tamalanrea DC	Ranomeeto Hub	10	KAB. KONAWE SELATAN	Multi
+Tamalanrea DC	Sigi Biromaru Hub	16	KAB. SIGI	Multi
+Tamalanrea DC	Tabanan Hub	2	KAB. TABANAN	Multi
+Tamalanrea DC	Tamalanrea Hub	12	KOTA MAKASSAR	Multi
+Tamalanrea DC	Tamalatea Hub	3	KAB. JENEPONTO	Multi
+Tamalanrea DC	Tempe Hub	8	KAB. WAJO	Multi
+Tamalanrea DC	Tinggimoncong Hub	3	KAB. GOWA	Multi
+Tamalanrea DC	Tirawuta Hub	4	KAB. KOLAKA TIMUR	Multi
+Tamalanrea DC	Tobadak Hub	4	KAB. MAMUJU TENGAH	Multi
+Tamalanrea DC	Toili Hub	12	KAB. BANGGAI	Multi
+Tamalanrea DC	Tomoni Hub	4	KAB. LUWU TIMUR	Multi
+Tamalanrea DC	Ulujadi Hub	6	KOTA PALU	Multi
+Tamalanrea DC	Wajo Hub	6	KOTA MAKASSAR	Multi
+Tamalanrea DC	Watang Sawitto Hub	20	KAB. PINRANG	Multi
+Tamalanrea DC	Wita Ponda Hub	3	KAB. MOROWALI	Multi
+Tamalanrea DC	Wua-Wua Hub	6	KOTA KENDARI	Multi
+Tanjung Redeb DC	MH 1 Teluk Bayur Hub	353	KAB. BERAU	Multi
+Balikpapan DC	MH 1 Tanjung Selor Hub	6	KAB. BULUNGAN (BULONGAN)	Multi
+Balikpapan DC	Sebuku Hub	6	KAB. NUNUKAN	Multi
+Balikpapan DC	Sesayap Hub	4	KAB. TANA TIDUNG	Multi
+Banjarbaru DC	Banjarmasin Barat Hub	2	KOTA BANJARMASIN	Multi
+Banjarbaru DC	Marabahan Hub	2	KAB. BARITO KUALA	Multi
+Banjarbaru DC	Tambakboyo Hub	2	KAB. TUBAN	Multi
+Banjarmasin 2 DC	Balikpapan Kota Hub	3	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Barabai Hub	2	KAB. HULU SUNGAI TENGAH	Multi
+Banjarmasin 2 DC	MH 1 Cempaga Hulu Hub	4	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	MH Kelumpang Hulu 7 Hub	0	KAB. KOTA BARU	Multi
+Banjarmasin 2 DC	Tambakboyo Hub	2	KAB. TUBAN	Multi
+Banjarmasin 2 DC	Telawang Hub	3	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Tenggarong Hub	2	KAB. KUTAI KARTANEGARA	Multi
+Banjarmasin 2 DC	Timpah Hub	2	KAB. KAPUAS	Multi
+Dungingi DC	Tarakan Barat Hub	8	KOTA TARAKAN	Multi
+Maros DC	Sinjai Timur Hub	3	KAB. SINJAI	Multi
+Palangka Raya DC	Arut Selatan 3 Hub	5,418	KAB. KOTA WARINGIN BARAT	Multi
+Palangka Raya DC	Bantimurung Hub	3	KAB. MAROS	Multi
+Pontianak DC	Cengkareng 3 Hub	2	KOTA JAKARTA BARAT	Multi
+Pontianak DC	Kubu Raya 2 Hub	1	KAB. KUBU RAYA	Multi
+Pontianak DC	MH Badau 2 Hub	0	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Bunut Hulu 2 Hub	182	KAB. KAPUAS HULU	Multi
+Pontianak DC	Mentawa Baru Hub	3	KAB. KOTA WARINGIN TIMUR	Multi
+Pontianak DC	Pontianak Hub	6	KOTA PONTIANAK	Multi
+Pontianak DC	Sungai Raya Bengkayang Hub	2	KAB. BENGKAYANG	Multi
+Pontianak DC	Tebas Hub	4	KAB. SAMBAS	Multi
+Tamalanrea DC	Balikpapan Kota Hub	3	KOTA BALIKPAPAN	Multi
+Tamalanrea DC	Banggai Hub	8	KAB. BANGGAI LAUT	Multi
+Tamalanrea DC	Bengo Hub	3	KAB. BONE	Multi
+Tamalanrea DC	Bintauna Hub	3	KAB. BOLAANG MONGONDOW UTARA	Multi
+Tamalanrea DC	Bontomarannu Hub	3	KAB. GOWA	Multi
+Tamalanrea DC	Buko Selatan Hub	3	KAB. BANGGAI KEPULAUAN	Multi
+Tamalanrea DC	Kolaka Hub	8	KAB. KOLAKA	Multi
+Tamalanrea DC	Lembo Hub	2	KAB. MOROWALI UTARA	Multi
+Tamalanrea DC	MH Pasangkayu Hub	72	KAB. MAMUJU UTARA	Multi
+Tamalanrea DC	Makale Hub	4	KAB. TANA TORAJA	Multi
+Tamalanrea DC	Manggala Hub	3	KOTA MAKASSAR	Multi
+Tamalanrea DC	Maritengngae Hub	3	KAB. SIDENRENG RAPPANG/RAPANG	Multi
+Tamalanrea DC	Mepanga Hub	6	KAB. PARIGI MOUTONG	Multi
+Tamalanrea DC	Pamona Puselemba Hub	6	KAB. POSO	Multi
+Tamalanrea DC	Polombangkeng Utara (Polobangkeng) Hub	3	KAB. TAKALAR	Multi
+Tamalanrea DC	Samarinda Utara Hub	2	KOTA SAMARINDA	Multi
+Tamalanrea DC	Sungguminasa Hub	2	KAB. GOWA	Multi
+Tamalanrea DC	Tanete Riattang Timur Hub	3	KAB. BONE	Multi
+Tanjung Redeb DC	MH Nunukan 2 Hub	1,242	KAB. NUNUKAN	Multi
+Wolio DC	MH BATALAIWARU (BATALAIWORU) 2 Hub	49	KAB. MUNA	Multi
+Wolio DC	MH Kulisusu 2 Hub	377	KAB. BUTON UTARA	Multi
+Wolio DC	MH Pasar Wajo Hub	576	KAB. BUTON	Multi
+Baguala DC	MH Kota Masohi 2 Hub	112	KAB. SERAM BAGIAN BARAT	Multi
+Balikpapan DC	Gunung Putri Hub	0	KAB. BOGOR	Multi
+Balikpapan DC	Sebatik Hub	4	KAB. NUNUKAN	Multi
+Balikpapan DC	Tanjung Palas Utara Hub	3	KAB. BULUNGAN (BULONGAN)	Multi
+Banjarmasin 2 DC	Bontang Hub	0	KOTA BONTANG	Multi
+Banjarmasin 2 DC	Gambut Hub	0	KAB. BANJAR	Multi
+Banjarmasin 2 DC	MH 2 Kotawaringin Lama Hub	0	KAB. KOTA WARINGIN BARAT	Multi
+Banjarmasin 2 DC	Telaga Antang Hub	2	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin DC	Simpang Empat Banjar Hub	0	KAB. BANJAR	Multi
+Banjarmasin DC	Tapin Selatan Hub	0	KAB. TAPIN	Multi
+Kalawat DC	MH 2 Madidir Hub	342	KOTA BITUNG	Multi
+Kalawat DC	MH Bolaang Uki 3 Hub	1,004	KAB. BOLAANG MONGONDOW SELATAN	Multi
+Makassar DC	Bengo Hub	3	KAB. BONE	Multi
+Makassar DC	Majauleng Hub	3	KAB. WAJO	Multi
+Mantikulore DC	MH 1 Gumbasa Hub	39	KAB. SIGI	Multi
+Mantikulore DC	MH Baolan Hub	328	KAB. TOLI-TOLI	Multi
+Maros DC	MH Makale Utara 3 Hub	7	KAB. TANA TORAJA	Multi
+Pontianak 2 DC	Pontianak Barat Hub	2	KOTA PONTIANAK	Multi
+Pontianak 2 DC	Singkawang Hub	0	KOTA SINGKAWANG	Multi
+Pontianak 2 DC	Singkawang Utara Hub	0	KOTA SINGKAWANG	Multi
+Pontianak 2 DC	Tangaran Hub	0	KAB. SAMBAS	Multi
+Pontianak DC	Ketapang Kalbar Hub	0	KAB. KETAPANG	Multi
+Pontianak DC	Kubu Raya Hub	0	KOTA PONTIANAK	Multi
+Pontianak DC	MH 3 Hulu Gurung Hub	0	KAB. KAPUAS HULU	Multi
+Pontianak DC	MH Badau Hub	40	KAB. KAPUAS HULU	Multi
+Pontianak DC	Matan Hilir Utara Hub	0	KAB. KETAPANG	Multi
+Pontianak DC	Mempawah Hub	0	KAB. PONTIANAK	Multi
+Pontianak DC	Sandai Hub	2	KAB. KETAPANG	Multi
+Tamalanrea DC	Banjarmasin Barat Hub	3	KOTA BANJARMASIN	Multi
+Tamalanrea DC	Bengo 2 Hub	3	KAB. BONE	Multi
+Tamalanrea DC	Bumi Raya Hub	3	KAB. MOROWALI	Multi
+Tamalanrea DC	Kanigoro Hub	2	KAB. BLITAR	Multi
+Tamalanrea DC	MH 2 Ratahan Hub	3	KAB. MINAHASA TENGGARA	Multi
+Tamalanrea DC	Mampang Prapatan Hub	2	KOTA JAKARTA SELATAN	Multi
+Tamalanrea DC	Pamona Selatan Hub	3	KAB. POSO	Multi
+Tamalanrea DC	Somba Opu 2 Hub	3	KAB. GOWA	Multi
+Tamalanrea DC	Tinakung Hub	1	KAB. BANGGAI KEPULAUAN	Multi
+Balikpapan DC	Nunukan Hub	11	KAB. NUNUKAN	Multi
+Balikpapan DC	Payung Sekaki Hub	2	KOTA PEKANBARU	Multi
+Balikpapan DC	Wonoayu 2 Hub	2	KAB. SIDOARJO	Multi
+Banjarmasin 2 DC	Cempaga Hub	2	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Parenggean Hub	3	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Paringin Hub	2	KAB. BALANGAN	Multi
+Banjarmasin DC	Kelumpang Hulu Hub	1	KAB. KOTA BARU	Multi
+Ketapang Kalbar DC	MH 2 Kendawangan Hub	99	KAB. KETAPANG	Multi
+Makassar DC	Duampanua Hub	2	KAB. PINRANG	Multi
+Makassar DC	Maiwa Hub	3	KAB. ENREKANG	Multi
+Makassar DC	Palakka Hub	3	KAB. BONE	Multi
+Mantikulore DC	MH 1 Pamona Puselemba Hub	615	KAB. POSO	Multi
+Mantikulore DC	Tondano Selatan Hub	4	KAB. MINAHASA	Multi
+Palangka Raya DC	Kab. Sukabumi Hub	2	KAB. SUKABUMI	Multi
+Palangka Raya DC	Sepaku Hub	2	KAB. PENAJAM PASER UTARA	Multi
+Pontianak 2 DC	MH 1 Teluk Pakedai Hub	0	KAB. KUBU RAYA	Multi
+Pontianak 2 DC	Pemangkat Hub	4	KAB. SAMBAS	Multi
+Pontianak DC	Meliau Hub	3	KAB. SANGGAU	Multi
+Pontianak DC	Sei Sungai Kunyit 2 Hub	2	KAB. PONTIANAK	Multi
+Pontianak DC	Simpang Hilir Hub	2	KAB. KAYONG UTARA	Multi
+Pontianak DC	Sungai Rengas Hub	2	KAB. KUBU RAYA	Multi
+Tamalanrea DC	Baraka Hub	3	KAB. ENREKANG	Multi
+Tamalanrea DC	Enrekang Hub	3	KAB. ENREKANG	Multi
+Tamalanrea DC	Lau Hub	3	KAB. MAROS	Multi
+Tamalanrea DC	Mapanget Hub	3	KOTA MANADO	Multi
+Tamalanrea DC	Marang Hub	2	KAB. PANGKAJENE KEPULAUAN	Multi
+Tamalanrea DC	Nambo Hub	2	KAB. BANGGAI	Multi
+Tamalanrea DC	Toili 2 Hub	3	KAB. BANGGAI	Multi
+Tamalanrea DC	Tomohon Hub	8	KOTA TOMOHON	Multi
+Wua-Wua DC	Wolio Hub	9	KOTA BAU-BAU	Multi
+Banjarmasin 2 DC	Baamang 2 Hub	0	KAB. SERUYAN	Multi
+Banjarmasin 2 DC	Cempaga Hulu Hub	0	KAB. KOTA WARINGIN TIMUR	Multi
+Banjarmasin 2 DC	Danau Seluluk Hub	0	KAB. SERUYAN	Multi
+Banjarmasin 2 DC	Katingan Tengah Hub	0	KAB. KATINGAN	Multi
+Banjarmasin 2 DC	Kurun Hub	0	KAB. GUNUNG MAS	Multi
+Banjarmasin 2 DC	MH 1 Bukit Batu Kota Palangka Raya Hub	0	KOTA PALANGKA RAYA	Multi
+Banjarmasin 2 DC	MH 1 Palangka Raya Hub	0	KAB. PULANG PISAU	Multi
+Banjarmasin 2 DC	Selat Hub	0	KAB. KAPUAS	Multi
+Banjarmasin 2 DC	Seruyan Hilir Hub	0	KAB. SERUYAN	Multi
+Banjarmasin 2 DC	Tanjung Redeb Hub	0	KAB. BERAU	Multi
+Banjarmasin 2 DC	Tewah Hub	0	KAB. GUNUNG MAS	Multi
+Kalawat DC	MH Tondano Selatan 2 Hub	0	KAB. MINAHASA	Multi
+Ketapang Kalbar DC	MH 1 Pemahan Hub	0	KAB. KETAPANG	Multi
+Makassar DC	Makassar Hub	0	KOTA MAKASSAR	Multi
+Makassar DC	Turikale Hub	0	KAB. MAROS	Multi
+Maros DC	Pallangga Hub	0	KAB. GOWA	Multi
+Pontianak DC	Wawoni Barat Hub	0	KAB. KONAWE KEPULAUAN	Multi
+Tamalanrea DC	Dumoga Utara Hub	0	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Tamalanrea DC	Matuari Hub	0	KOTA BITUNG	Multi
+Tamalanrea DC	Wolo Hub	0	KAB. KOLAKA	Multi
+Banjarmasin 2 DC	Banjarmasin Barat Hub	0	KOTA BANJARMASIN	Multi
+Banjarmasin 2 DC	Muara Badak Hub	0	KAB. KUTAI KARTANEGARA	Multi
+Banjarmasin 2 DC	Sebulu Hub	0	KAB. KUTAI KARTANEGARA	Multi
+Banjarmasin 2 DC	Tarogong Hub	0	KAB. GARUT	Multi
+Jailolo DC	MH Tobelo 2 Hub	0	KAB. HALMAHERA UTARA	Multi
+Kalawat DC	MH Bolaang Uki 2 Hub	0	KAB. BOLAANG MONGONDOW SELATAN	Multi
+Simboro Dan Kepulauan DC	MH Simboro Dan Kepulauan Hub	0	KAB. MAMUJU	Multi
+Sungai Kakap DC	Siantan Pontianak Hub	0	KAB. PONTIANAK	Multi
+Tamalanrea DC	Bantaeng Hub	0	KAB. BANTAENG	Multi
+Tamalanrea DC	Baras Hub	0	KAB. MAMUJU UTARA	Multi
+Tamalanrea DC	Bulukumba Hub	0	KAB. BULUKUMBA	Multi
+Tamalanrea DC	Pallangga Hub	0	KAB. GOWA	Multi
+Tamalanrea DC	Patallassang Hub	0	KAB. TAKALAR	Multi
+Tamalanrea DC	Sinjai Utara Hub	0	KAB. SINJAI	Multi
+Tamalanrea DC	Somba Opu Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Topoyo Hub	0	KAB. MAMUJU TENGAH	Multi
+Banjarmasin 2 DC	Muara Uya Hub	0	KAB. TABALONG	Multi
+Maros DC	Panakkukang Hub	0	KOTA MAKASSAR	Multi
+Maros DC	Wajo Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Kalawat Hub	0	KAB. MINAHASA UTARA	Multi
+Tamalanrea DC	Kalukku Hub	0	KAB. MAMUJU	Multi
+Tamalanrea DC	Mattiro Bulu Hub	0	KAB. PINRANG	Multi
+Tamalanrea DC	Panakkukang Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Rappocini Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Tanete Rilau Hub	0	KAB. BARRU	Multi
+Tamalanrea DC	Ujung Bulu Hub	0	KAB. BULUKUMBA	Multi
+Banjarbaru DC	Angsana Hub	0	KAB. TANAH BUMBU	Multi
+Banjarmasin 2 DC	Babulu Hub	0	KAB. PENAJAM PASER UTARA	Multi
+Banjarmasin 2 DC	Balikpapan Utara 3 Hub	0	KOTA BALIKPAPAN	Multi
+Banjarmasin 2 DC	Semarang Hub	0	KOTA SEMARANG	Multi
+Ketapang Kalbar DC	MH Sukadana Kalbar Hub	0	KAB. KAYONG UTARA	Multi
+Pontianak DC	Sungai Tebelian Hub	0	KAB. SINTANG	Multi
+Tamalanrea DC	Galesong Hub	0	KAB. TAKALAR	Multi
+Tamalanrea DC	MH 3 Towuti Hub	0	KAB. LUWU TIMUR	Multi
+Tamalanrea DC	MH Dumoga Utara Hub	0	KAB. BOLAANG MONGONDOW (BOLMONG)	Multi
+Tamalanrea DC	Mallusetasi Hub	0	KAB. BARRU	Multi
+Tamalanrea DC	Muara Jawa Hub	0	KAB. KUTAI KARTANEGARA	Multi
+Tamalanrea DC	Rantepao Hub	0	KAB. TORAJA UTARA	Multi
+Tamalanrea DC	Setu Kota Tangerang Selatan Hub	0	KOTA TANGERANG SELATAN	Multi
+Tamalanrea DC	Sinjai Selatan Hub	0	KAB. SINJAI	Multi
+Tamalanrea DC	Sungai Pinang Hub	0	KOTA SAMARINDA	Multi
+Tamalanrea DC	Tallo Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Wara Hub	0	KOTA PALOPO	Multi
+Tamalanrea DC	Wawoni Barat Hub	0	KAB. KONAWE KEPULAUAN	Multi
+Banjarbaru DC	Bati-bati Hub	0	KAB. TANAH LAUT	Multi
+Banjarmasin 2 DC	Sungai Pandan Hub	0	KAB. HULU SUNGAI UTARA	Multi
+Tamalanrea DC	Camba Hub	0	KAB. MAROS	Multi
+Tamalanrea DC	Gorontalo Hub	0	KOTA GORONTALO	Multi
+Tamalanrea DC	Pasangkayu Hub	0	KAB. MAMUJU UTARA	Multi
+Tamalanrea DC	Sinjai Barat Hub	0	KAB. SINJAI	Multi
+Tamalanrea DC	Sipatana 2 Hub	0	KOTA GORONTALO	Multi
+Banjarmasin 2 DC	Semarang Utara Hub	0	KOTA SEMARANG	Multi
+Makassar DC	MH 1 Tamalate Hub	0	KOTA MAKASSAR	Multi
+Maros DC	Tamalanrea Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Amali Hub	0	KAB. BONE	Multi
+Tamalanrea DC	Bantimurung Hub	0	KAB. MAROS	Multi
+Tamalanrea DC	Denpasar Utara Hub	0	KOTA DENPASAR	Multi
+Tamalanrea DC	Kotamobagu Timur Hub	0	KOTA KOTAMOBAGU	Multi
+Tamalanrea DC	Limboto Hub	0	KAB. GORONTALO	Multi
+Tamalanrea DC	Tamalate 2 Hub	0	KOTA MAKASSAR	Multi
+Tamalanrea DC	Towuti Hub	0	KAB. LUWU TIMUR	Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
+		0		Multi
